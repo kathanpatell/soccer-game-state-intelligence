@@ -1,0 +1,1654 @@
+team.name,player.name,game_state,matches,events,passes,progressive_passes,completed_progressive_passes,progressive_distance,shots,xg,progressive_pass_completion_rate,xg_per_shot
+Argentina,Alejandro Darío Gómez,drawing,2,82,19,2,2,44.5,1,0.011147,1.0,0.011
+Argentina,Alejandro Darío Gómez,leading,2,137,36,8,5,188.4,1,0.011925,0.625,0.012
+Argentina,Alejandro Darío Gómez,trailing,1,11,3,0,0,0.0,0,0.0,,
+Argentina,Alexis Mac Allister,drawing,6,581,157,29,25,461.3,3,0.151348,0.862,0.05
+Argentina,Alexis Mac Allister,leading,6,459,114,18,13,357.7,4,0.350491,0.722,0.088
+Argentina,Cristian Gabriel Romero,drawing,6,468,161,60,47,1282.0,0,0.0,0.783,
+Argentina,Cristian Gabriel Romero,leading,7,632,204,63,47,1295.9,0,0.0,0.746,
+Argentina,Cristian Gabriel Romero,trailing,1,20,7,2,2,33.4,0,0.0,1.0,
+Argentina,Damián Emiliano Martínez,drawing,7,195,72,43,30,1375.5,0,0.0,0.698,
+Argentina,Damián Emiliano Martínez,leading,7,265,106,74,26,4343.0,0,0.0,0.351,
+Argentina,Damián Emiliano Martínez,trailing,1,21,8,5,5,126.9,0,0.0,1.0,
+Argentina,Enzo Fernandez,drawing,6,756,229,68,50,1341.6,6,0.937042,0.735,0.156
+Argentina,Enzo Fernandez,leading,6,663,203,45,31,833.4,2,0.076654,0.689,0.038
+Argentina,Enzo Fernandez,trailing,1,122,38,14,11,318.8,1,0.036932,0.786,0.037
+Argentina,Exequiel Alejandro Palacios,leading,3,119,28,6,3,148.5,1,0.046686,0.5,0.047
+Argentina,Germán Alejandro Pezzella,drawing,2,80,28,10,10,143.5,1,0.044524,1.0,0.045
+Argentina,Germán Alejandro Pezzella,leading,2,61,21,8,6,188.0,0,0.0,0.75,
+Argentina,Gonzalo Ariel Montiel,drawing,3,253,77,13,10,232.7,3,1.587604,0.769,0.529
+Argentina,Gonzalo Ariel Montiel,leading,2,21,5,1,1,20.5,0,0.0,1.0,
+Argentina,Guido Rodríguez,drawing,1,181,62,26,20,452.2,0,0.0,0.769,
+Argentina,Juan Marcos Foyth,leading,1,15,4,2,1,26.9,0,0.0,0.5,
+Argentina,Julián Álvarez,drawing,5,247,51,3,1,44.9,3,0.377399,0.333,0.126
+Argentina,Julián Álvarez,leading,6,375,65,9,4,222.9,7,1.469539,0.444,0.21
+Argentina,Julián Álvarez,trailing,1,36,8,2,0,29.7,1,0.06139,0.0,0.061
+Argentina,Lautaro Javier Martínez,drawing,4,144,24,2,0,26.2,8,1.811987,0.0,0.226
+Argentina,Lautaro Javier Martínez,leading,5,160,32,4,2,75.5,6,1.015883,0.5,0.169
+Argentina,Lautaro Javier Martínez,trailing,1,39,7,0,0,0.0,1,0.077177,,0.077
+Argentina,Leandro Daniel Paredes,drawing,4,274,90,27,24,556.1,2,1.567,0.889,0.784
+Argentina,Leandro Daniel Paredes,leading,5,445,145,42,36,846.7,1,0.014371,0.857,0.014
+Argentina,Leandro Daniel Paredes,trailing,1,19,5,1,1,12.0,0,0.0,1.0,
+Argentina,Lionel Andrés Messi Cuccittini,drawing,7,689,174,49,40,956.0,18,5.797577,0.816,0.322
+Argentina,Lionel Andrés Messi Cuccittini,leading,7,781,176,52,40,1063.6,14,1.666731,0.769,0.119
+Argentina,Lionel Andrés Messi Cuccittini,trailing,1,83,21,11,9,214.8,2,0.134342,0.818,0.067
+Argentina,Lisandro Martínez,drawing,2,237,79,30,21,677.4,0,0.0,0.7,
+Argentina,Lisandro Martínez,leading,4,138,43,23,18,629.0,0,0.0,0.783,
+Argentina,Lisandro Martínez,trailing,1,95,32,7,6,133.7,1,0.331561,0.857,0.332
+Argentina,Marcos Javier Acuña,drawing,5,435,134,31,22,668.6,2,0.076122,0.71,0.038
+Argentina,Marcos Javier Acuña,leading,5,251,60,18,7,336.5,0,0.0,0.389,
+Argentina,Marcos Javier Acuña,trailing,1,50,23,4,2,100.0,0,0.0,0.5,
+Argentina,Nahuel Molina Lucero,drawing,7,446,146,36,29,639.9,1,0.434423,0.806,0.434
+Argentina,Nahuel Molina Lucero,leading,7,541,186,51,34,964.1,1,0.050897,0.667,0.051
+Argentina,Nahuel Molina Lucero,trailing,1,63,28,10,6,181.2,0,0.0,0.6,
+Argentina,Nicolás Alejandro Tagliafico,drawing,4,151,50,11,7,196.1,0,0.0,0.636,
+Argentina,Nicolás Alejandro Tagliafico,leading,6,391,122,33,18,845.3,2,0.276028,0.545,0.138
+Argentina,Nicolás Alejandro Tagliafico,trailing,1,37,10,2,0,61.6,1,0.636193,0.0,0.636
+Argentina,Nicolás Hernán Otamendi,drawing,7,864,295,90,78,1595.3,0,0.0,0.867,
+Argentina,Nicolás Hernán Otamendi,leading,7,701,233,84,67,1436.7,0,0.0,0.798,
+Argentina,Nicolás Hernán Otamendi,trailing,1,111,37,12,10,238.5,1,0.048093,0.833,0.048
+Argentina,Paulo Bruno Exequiel Dybala,drawing,1,11,3,1,0,18.4,1,0.7835,0.0,0.784
+Argentina,Paulo Bruno Exequiel Dybala,leading,1,50,10,2,0,29.7,0,0.0,0.0,
+Argentina,Rodrigo Javier De Paul,drawing,7,791,250,66,41,1290.6,4,0.451618,0.621,0.113
+Argentina,Rodrigo Javier De Paul,leading,7,918,273,51,36,1064.3,3,0.118424,0.706,0.039
+Argentina,Rodrigo Javier De Paul,trailing,1,123,40,21,13,499.8,0,0.0,0.619,
+Argentina,Thiago Ezequiel Almada,leading,1,40,13,2,2,28.0,0,0.0,1.0,
+Argentina,Ángel Fabián Di María Hernández,drawing,5,362,95,19,12,303.1,4,0.151274,0.632,0.038
+Argentina,Ángel Fabián Di María Hernández,leading,4,211,48,8,8,130.5,1,0.303409,1.0,0.303
+Argentina,Ángel Fabián Di María Hernández,trailing,1,96,21,8,5,139.4,2,0.079153,0.625,0.04
+Argentina,Ángel Martín Correa,leading,1,20,4,0,0,0.0,0,0.0,,
+Australia,Aaron Mooy,drawing,4,257,83,33,24,658.4,0,0.0,0.727,
+Australia,Aaron Mooy,leading,3,164,56,27,12,546.4,1,0.039191,0.444,0.039
+Australia,Aaron Mooy,trailing,2,255,80,23,13,550.8,0,0.0,0.565,
+Australia,Ajdin Hrustic,leading,2,74,14,3,1,41.6,0,0.0,0.333,
+Australia,Ajdin Hrustic,trailing,1,59,9,3,2,117.6,1,0.033247,0.667,0.033
+Australia,Awer Denis Bul Mabil,leading,1,13,1,0,0,0.0,0,0.0,,
+Australia,Awer Denis Bul Mabil,trailing,1,44,13,2,0,73.7,0,0.0,0.0,
+Australia,Aziz Eraltay Behich,drawing,4,241,81,21,15,476.4,1,0.049682,0.714,0.05
+Australia,Aziz Eraltay Behich,leading,3,141,44,21,5,696.5,0,0.0,0.238,
+Australia,Aziz Eraltay Behich,trailing,2,237,79,18,10,458.8,1,0.077217,0.556,0.077
+Australia,Bailey Wright,leading,1,14,4,2,1,126.2,0,0.0,0.5,
+Australia,Craig Goodwin,drawing,3,141,43,14,6,221.7,1,0.191471,0.429,0.191
+Australia,Craig Goodwin,leading,2,101,24,8,5,232.7,0,0.0,0.625,
+Australia,Craig Goodwin,trailing,2,90,27,6,3,134.4,1,0.013616,0.5,0.014
+Australia,Fran Karačić,drawing,1,44,15,11,5,223.4,1,0.015131,0.455,0.015
+Australia,Fran Karačić,leading,1,67,24,11,7,215.7,2,0.040342,0.636,0.02
+Australia,Fran Karačić,trailing,1,52,16,10,6,272.2,0,0.0,0.6,
+Australia,Garang Kuol,trailing,2,46,4,2,1,37.8,1,0.233942,0.5,0.234
+Australia,Harry Souttar,drawing,4,196,67,38,26,1220.2,1,0.068095,0.684,0.068
+Australia,Harry Souttar,leading,3,97,33,22,11,625.5,0,0.0,0.5,
+Australia,Harry Souttar,trailing,2,211,63,28,25,620.4,0,0.0,0.893,
+Australia,Jackson Irvine,drawing,4,139,36,6,6,94.9,1,0.173421,1.0,0.173
+Australia,Jackson Irvine,leading,3,148,40,12,9,194.6,1,0.075431,0.75,0.075
+Australia,Jackson Irvine,trailing,2,185,53,20,13,330.0,1,0.08354,0.65,0.084
+Australia,Jamie MacLaren,leading,2,57,13,2,0,30.5,0,0.0,0.0,
+Australia,Jamie MacLaren,trailing,1,16,3,1,0,23.6,0,0.0,0.0,
+Australia,Jason Cummings,trailing,1,34,6,1,1,40.1,0,0.0,1.0,
+Australia,Keanu Baccus,drawing,2,71,14,4,2,74.0,0,0.0,0.5,
+Australia,Keanu Baccus,leading,2,72,13,5,2,154.7,1,0.035468,0.4,0.035
+Australia,Keanu Baccus,trailing,2,49,13,5,1,144.8,0,0.0,0.2,
+Australia,Kye Rowles,drawing,4,221,85,30,19,736.4,0,0.0,0.633,
+Australia,Kye Rowles,leading,3,90,26,14,8,330.1,0,0.0,0.571,
+Australia,Kye Rowles,trailing,2,243,84,29,24,525.6,0,0.0,0.828,
+Australia,Mathew Leckie,drawing,4,222,45,13,9,248.9,1,0.113538,0.692,0.114
+Australia,Mathew Leckie,leading,3,188,27,3,2,57.8,0,0.0,0.667,
+Australia,Mathew Leckie,trailing,2,137,31,9,3,154.2,0,0.0,0.333,
+Australia,Mathew Ryan,drawing,4,149,60,37,25,1656.3,0,0.0,0.676,
+Australia,Mathew Ryan,leading,3,123,48,45,17,2582.7,0,0.0,0.378,
+Australia,Mathew Ryan,trailing,2,157,55,35,24,1276.9,0,0.0,0.686,
+Australia,Miloš Degenek,drawing,2,125,45,19,11,524.9,0,0.0,0.579,
+Australia,Miloš Degenek,leading,2,48,19,15,8,399.6,0,0.0,0.533,
+Australia,Miloš Degenek,trailing,2,106,33,12,10,239.6,0,0.0,0.833,
+Australia,Mitchell Thomas Duke,drawing,4,200,39,12,3,227.6,3,0.092488,0.25,0.031
+Australia,Mitchell Thomas Duke,leading,3,103,17,3,1,75.9,4,0.162244,0.333,0.041
+Australia,Mitchell Thomas Duke,trailing,2,75,12,3,0,122.9,0,0.0,0.0,
+Australia,Nathaniel Atkinson,drawing,1,16,4,0,0,0.0,0,0.0,,
+Australia,Nathaniel Atkinson,leading,1,17,8,5,2,156.5,0,0.0,0.4,
+Australia,Nathaniel Atkinson,trailing,1,75,25,8,6,196.8,0,0.0,0.75,
+Australia,Riley McGree,drawing,4,201,43,10,5,171.1,3,0.080105,0.5,0.027
+Australia,Riley McGree,leading,3,85,13,2,1,33.8,0,0.0,0.5,
+Australia,Riley McGree,trailing,2,75,17,2,0,49.5,0,0.0,0.0,
+Belgium,Amadou Onana,drawing,1,153,43,9,6,208.0,2,0.291865,0.667,0.146
+Belgium,Amadou Onana,leading,1,79,20,5,3,92.0,0,0.0,0.6,
+Belgium,Axel Witsel,drawing,3,411,130,24,20,386.3,1,0.02534,0.833,0.025
+Belgium,Axel Witsel,leading,1,77,26,7,7,112.6,0,0.0,1.0,
+Belgium,Axel Witsel,trailing,1,66,20,3,3,46.3,0,0.0,1.0,
+Belgium,Charles De Ketelaere,trailing,1,26,4,0,0,0.0,0,0.0,,
+Belgium,Dries Mertens,drawing,2,81,20,3,3,67.9,3,0.367154,1.0,0.122
+Belgium,Dries Mertens,trailing,1,43,16,3,2,63.5,0,0.0,0.667,
+Belgium,Eden Hazard,drawing,3,201,47,13,8,241.5,1,0.009159,0.615,0.009
+Belgium,Eden Hazard,leading,1,42,12,4,2,99.9,0,0.0,0.5,
+Belgium,Ikoma Loïs Openda,leading,1,34,5,1,0,14.7,0,0.0,0.0,
+Belgium,Jan Vertonghen,drawing,3,636,223,68,53,1374.0,1,0.07045,0.779,0.07
+Belgium,Jan Vertonghen,leading,1,81,23,10,4,271.4,0,0.0,0.4,
+Belgium,Jan Vertonghen,trailing,1,56,18,8,7,114.5,1,0.037276,0.875,0.037
+Belgium,Jeremy Doku,drawing,1,57,14,0,0,0.0,0,0.0,,
+Belgium,Kevin De Bruyne,drawing,3,302,87,29,21,617.5,5,0.107738,0.724,0.022
+Belgium,Kevin De Bruyne,leading,1,104,30,13,8,251.5,2,0.070228,0.615,0.035
+Belgium,Kevin De Bruyne,trailing,1,61,23,12,6,265.8,0,0.0,0.5,
+Belgium,Leander Dendoncker,drawing,2,265,89,26,24,412.0,0,0.0,0.923,
+Belgium,Leander Dendoncker,leading,1,104,30,11,11,154.2,1,0.088949,1.0,0.089
+Belgium,Leandro Trossard,drawing,1,124,30,6,4,119.1,0,0.0,0.667,
+Belgium,Leandro Trossard,leading,1,52,13,2,2,35.4,0,0.0,1.0,
+Belgium,Leandro Trossard,trailing,1,51,14,3,2,76.8,0,0.0,0.667,
+Belgium,Michy Batshuayi Tunga,drawing,2,131,15,1,0,13.6,5,0.530955,0.0,0.106
+Belgium,Michy Batshuayi Tunga,leading,1,45,8,2,0,28.0,1,0.089718,0.0,0.09
+Belgium,Michy Batshuayi Tunga,trailing,1,1,0,0,0,0.0,0,0.0,,
+Belgium,Romelu Lukaku Menama,drawing,1,48,8,2,0,51.0,5,1.684155,0.0,0.337
+Belgium,Romelu Lukaku Menama,trailing,1,11,1,0,0,0.0,0,0.0,,
+Belgium,Thibaut Courtois,drawing,3,232,89,47,38,1339.8,0,0.0,0.809,
+Belgium,Thibaut Courtois,leading,1,69,28,17,13,737.9,0,0.0,0.765,
+Belgium,Thibaut Courtois,trailing,1,13,5,5,5,70.7,0,0.0,1.0,
+Belgium,Thomas Meunier,drawing,2,368,115,38,20,1012.7,2,0.09339,0.526,0.047
+Belgium,Thomas Meunier,leading,1,72,25,10,5,248.2,1,0.025806,0.5,0.026
+Belgium,Thomas Meunier,trailing,1,5,2,0,0,0.0,0,0.0,,
+Belgium,Thorgan Hazard,drawing,2,207,59,10,9,208.0,0,0.0,0.9,
+Belgium,Thorgan Hazard,trailing,1,1,0,0,0,0.0,0,0.0,,
+Belgium,Timothy Castagne,drawing,3,495,171,55,40,975.5,0,0.0,0.727,
+Belgium,Timothy Castagne,leading,1,73,21,9,8,165.8,0,0.0,0.889,
+Belgium,Timothy Castagne,trailing,1,30,9,1,1,13.0,0,0.0,1.0,
+Belgium,Toby Alderweireld,drawing,3,681,227,87,68,2108.7,0,0.0,0.782,
+Belgium,Toby Alderweireld,leading,1,66,20,5,5,117.7,0,0.0,1.0,
+Belgium,Toby Alderweireld,trailing,1,57,20,5,4,130.5,0,0.0,0.8,
+Belgium,Yannick Ferreira Carrasco,drawing,2,185,45,3,2,89.8,4,0.20231,0.667,0.051
+Belgium,Yannick Ferreira Carrasco,leading,1,7,1,0,0,0.0,0,0.0,,
+Belgium,Youri Tielemans,drawing,3,136,38,10,4,286.0,0,0.0,0.4,
+Belgium,Youri Tielemans,leading,1,8,2,1,1,18.6,0,0.0,1.0,
+Belgium,Youri Tielemans,trailing,1,59,21,4,4,83.1,0,0.0,1.0,
+Brazil,Alex Nicolao Telles,drawing,1,97,33,15,8,295.0,0,0.0,0.533,
+Brazil,Alex Nicolao Telles,leading,1,26,11,4,3,66.4,0,0.0,0.75,
+Brazil,Alex Sandro Lobo Silva,drawing,3,418,143,44,37,814.1,1,0.02182,0.841,0.022
+Brazil,Alex Sandro Lobo Silva,leading,3,81,26,13,9,256.7,0,0.0,0.692,
+Brazil,Alisson Ramsés Becker,drawing,4,161,61,24,20,514.2,0,0.0,0.833,
+Brazil,Alisson Ramsés Becker,leading,4,87,33,18,11,744.7,0,0.0,0.611,
+Brazil,Antony Matheus dos Santos,drawing,3,332,88,13,6,251.7,4,0.124163,0.462,0.031
+Brazil,Antony Matheus dos Santos,leading,3,115,25,3,3,48.6,2,0.03038,1.0,0.015
+Brazil,Bruno Guimarães Rodriguez Moura,drawing,2,158,44,13,10,249.8,3,0.256395,0.769,0.085
+Brazil,Bruno Guimarães Rodriguez Moura,leading,1,23,7,1,0,30.6,0,0.0,0.0,
+Brazil,Bruno Guimarães Rodriguez Moura,trailing,1,14,4,3,2,58.0,2,0.391417,0.667,0.196
+Brazil,Carlos Henrique Casimiro,drawing,4,512,163,52,36,1078.2,7,1.041081,0.692,0.149
+Brazil,Carlos Henrique Casimiro,leading,4,290,95,28,21,627.5,3,0.102211,0.75,0.034
+Brazil,Daniel Alves da Silva,drawing,1,220,71,18,14,322.9,1,0.064857,0.778,0.065
+Brazil,Daniel Alves da Silva,leading,1,54,19,9,7,195.8,2,0.055157,0.778,0.028
+Brazil,Daniel Alves da Silva,trailing,1,18,9,3,3,36.1,0,0.0,1.0,
+Brazil,Danilo Luiz da Silva,drawing,3,475,172,49,33,923.6,2,0.032368,0.673,0.016
+Brazil,Danilo Luiz da Silva,leading,3,273,95,34,25,623.6,0,0.0,0.735,
+Brazil,Ederson Santana de Moraes,drawing,1,80,30,22,20,564.5,0,0.0,0.909,
+Brazil,Ederson Santana de Moraes,trailing,1,1,0,0,0,0.0,0,0.0,,
+Brazil,Frederico Rodrigues Santos,drawing,3,233,60,20,16,362.6,2,0.378231,0.8,0.189
+Brazil,Frederico Rodrigues Santos,leading,2,64,20,6,4,106.0,1,0.088971,0.667,0.089
+Brazil,Fábio Henrique Tavares,drawing,1,148,48,16,12,319.3,0,0.0,0.75,
+Brazil,Fábio Henrique Tavares,trailing,1,23,8,6,6,91.9,0,0.0,1.0,
+Brazil,Gabriel Fernando de Jesus,drawing,2,82,14,2,2,60.6,2,0.323986,1.0,0.162
+Brazil,Gabriel Fernando de Jesus,leading,2,65,13,3,3,59.7,0,0.0,1.0,
+Brazil,Gabriel Teodoro Martinelli Silva,drawing,1,135,26,4,3,75.9,3,0.211252,0.75,0.07
+Brazil,Gabriel Teodoro Martinelli Silva,leading,2,67,15,2,0,41.6,0,0.0,0.0,
+Brazil,Gabriel Teodoro Martinelli Silva,trailing,1,20,5,3,3,37.3,1,0.194578,1.0,0.195
+Brazil,Gleison Bremer Silva Nascimento,drawing,1,198,64,14,10,358.3,0,0.0,0.714,
+Brazil,Gleison Bremer Silva Nascimento,leading,1,51,19,5,4,87.3,1,0.34439,0.8,0.344
+Brazil,Gleison Bremer Silva Nascimento,trailing,1,5,2,0,0,0.0,0,0.0,,
+Brazil,Lucas Tolentino Coelho de Lima,drawing,4,489,142,32,23,682.7,2,0.360272,0.719,0.18
+Brazil,Lucas Tolentino Coelho de Lima,leading,3,188,60,17,14,338.8,2,0.344061,0.824,0.172
+Brazil,Marcos Aoás Corrêa,drawing,5,784,270,79,72,1442.3,2,0.861642,0.911,0.431
+Brazil,Marcos Aoás Corrêa,leading,3,231,79,19,16,339.0,0,0.0,0.842,
+Brazil,Marcos Aoás Corrêa,trailing,1,25,10,4,4,54.5,0,0.0,1.0,
+Brazil,Neymar da Silva Santos Junior,drawing,3,443,106,30,21,527.2,10,1.077051,0.7,0.108
+Brazil,Neymar da Silva Santos Junior,leading,3,198,50,12,9,258.6,2,1.052207,0.75,0.526
+Brazil,Pedro Guilherme Abreu dos Santos,drawing,2,66,11,0,0,0.0,4,1.139209,,0.285
+Brazil,Pedro Guilherme Abreu dos Santos,leading,1,19,2,1,1,21.7,0,0.0,1.0,
+Brazil,Pedro Guilherme Abreu dos Santos,trailing,1,6,2,0,0,0.0,1,0.076454,,0.076
+Brazil,Raphael Dias Belloli,drawing,5,389,96,16,9,316.2,3,0.563636,0.562,0.188
+Brazil,Raphael Dias Belloli,leading,2,215,53,12,6,205.8,5,0.359294,0.5,0.072
+Brazil,Raphael Dias Belloli,trailing,1,11,1,1,0,10.3,0,0.0,0.0,
+Brazil,Richarlison de Andrade,drawing,4,228,32,6,3,135.0,5,0.735875,0.5,0.147
+Brazil,Richarlison de Andrade,leading,2,149,22,2,2,47.5,3,0.881784,1.0,0.294
+Brazil,Rodrygo Silva de Goes,drawing,3,318,80,14,8,240.7,3,0.915177,0.571,0.305
+Brazil,Rodrygo Silva de Goes,leading,4,132,32,4,3,123.6,4,0.330165,0.75,0.083
+Brazil,Thiago Emiliano da Silva,drawing,4,704,244,90,83,1683.1,2,0.208216,0.922,0.104
+Brazil,Thiago Emiliano da Silva,leading,4,265,91,38,33,752.0,0,0.0,0.868,
+Brazil,Vinícius José Paixão de Oliveira Júnior,drawing,4,339,60,7,5,101.3,7,0.612587,0.714,0.088
+Brazil,Vinícius José Paixão de Oliveira Júnior,leading,3,155,31,3,2,31.8,2,0.198939,0.667,0.099
+Brazil,Weverton Pereira da Silva,leading,1,8,5,5,4,290.7,0,0.0,0.8,
+Brazil,Éder Gabriel Militão,drawing,4,697,229,77,61,1756.4,5,0.258765,0.792,0.052
+Brazil,Éder Gabriel Militão,leading,3,141,44,18,15,416.3,0,0.0,0.833,
+Brazil,Éder Gabriel Militão,trailing,1,9,4,2,2,34.8,0,0.0,1.0,
+Brazil,Éverton Augusto de Barros Ribeiro,drawing,1,62,16,3,2,36.9,0,0.0,0.667,
+Brazil,Éverton Augusto de Barros Ribeiro,trailing,1,4,1,0,0,0.0,0,0.0,,
+Cameroon,André Onana,drawing,1,73,30,17,8,832.5,0,0.0,0.471,
+Cameroon,André Onana,trailing,1,75,30,16,9,578.0,0,0.0,0.562,
+Cameroon,André-Frank Zambo Anguissa,drawing,3,333,101,35,28,613.0,0,0.0,0.8,
+Cameroon,André-Frank Zambo Anguissa,leading,2,33,8,1,1,13.5,0,0.0,1.0,
+Cameroon,André-Frank Zambo Anguissa,trailing,2,114,25,7,6,118.3,1,0.046351,0.857,0.046
+Cameroon,Bryan Mbeumo,drawing,3,200,46,10,3,206.4,2,0.134346,0.3,0.067
+Cameroon,Bryan Mbeumo,leading,1,31,7,3,2,41.0,0,0.0,0.667,
+Cameroon,Bryan Mbeumo,trailing,2,93,28,8,4,235.8,0,0.0,0.5,
+Cameroon,Christian Mougang Bassogog,drawing,1,47,9,1,1,14.6,0,0.0,1.0,
+Cameroon,Christian Mougang Bassogog,leading,1,1,0,0,0,0.0,0,0.0,,
+Cameroon,Christopher Wooh,drawing,1,115,33,12,7,373.3,1,0.056928,0.583,0.057
+Cameroon,Christopher Wooh,leading,1,1,0,0,0,0.0,0,0.0,,
+Cameroon,Devis Rogers Epassy Mboka,drawing,2,160,64,49,29,2488.6,0,0.0,0.592,
+Cameroon,Devis Rogers Epassy Mboka,leading,2,26,12,12,5,692.9,0,0.0,0.417,
+Cameroon,Devis Rogers Epassy Mboka,trailing,1,23,8,5,4,159.8,0,0.0,0.8,
+Cameroon,Enzo Ebosse,drawing,1,120,38,14,11,438.0,0,0.0,0.786,
+Cameroon,Enzo Ebosse,leading,1,1,1,0,0,0.0,0,0.0,,
+Cameroon,Gaël Ondoua,drawing,1,41,10,2,2,44.6,0,0.0,1.0,
+Cameroon,Gaël Ondoua,trailing,1,35,9,3,2,44.7,0,0.0,0.667,
+Cameroon,Georges-Kévin Nkoudou Mbida,drawing,1,28,8,0,0,0.0,1,0.00701,,0.007
+Cameroon,Georges-Kévin Nkoudou Mbida,trailing,1,42,3,1,1,31.7,0,0.0,1.0,
+Cameroon,Jean-Charles Castelletto,drawing,2,130,35,13,8,281.6,1,0.894507,0.615,0.895
+Cameroon,Jean-Charles Castelletto,leading,1,20,6,3,3,68.0,0,0.0,1.0,
+Cameroon,Jean-Charles Castelletto,trailing,2,115,37,22,14,539.5,0,0.0,0.636,
+Cameroon,Jean-Eric Maxim Choupo-Moting,drawing,3,206,48,16,6,354.7,1,0.041723,0.375,0.042
+Cameroon,Jean-Eric Maxim Choupo-Moting,leading,2,35,11,3,0,41.8,0,0.0,0.0,
+Cameroon,Jean-Eric Maxim Choupo-Moting,trailing,2,49,10,3,3,46.3,2,0.48182,1.0,0.241
+Cameroon,Jerome Ngom Mbekeli,drawing,1,13,2,1,1,13.8,0,0.0,1.0,
+Cameroon,Jerome Ngom Mbekeli,leading,1,2,0,0,0,0.0,0,0.0,,
+Cameroon,Jules Olivier Ntcham,drawing,1,46,12,4,4,58.9,1,0.033321,1.0,0.033
+Cameroon,Karl Brillant Toko Ekambi,drawing,3,155,38,5,4,125.4,1,0.159,0.8,0.159
+Cameroon,Karl Brillant Toko Ekambi,leading,2,23,5,2,1,80.6,0,0.0,0.5,
+Cameroon,Karl Brillant Toko Ekambi,trailing,2,48,9,1,1,12.2,1,0.021326,1.0,0.021
+Cameroon,Martin Hongla Yma II,drawing,2,137,37,9,6,262.4,1,0.082379,0.667,0.082
+Cameroon,Martin Hongla Yma II,leading,1,32,11,3,2,42.0,0,0.0,0.667,
+Cameroon,Martin Hongla Yma II,trailing,2,47,16,5,4,93.2,0,0.0,0.8,
+Cameroon,Ngoran Suiru Fai Collins,drawing,3,270,91,41,26,1109.1,1,0.009453,0.634,0.009
+Cameroon,Ngoran Suiru Fai Collins,leading,1,39,15,6,4,121.1,0,0.0,0.667,
+Cameroon,Ngoran Suiru Fai Collins,trailing,2,120,46,22,9,521.0,0,0.0,0.409,
+Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,drawing,2,158,50,26,17,722.3,2,0.136785,0.654,0.068
+Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,leading,1,18,5,1,1,12.4,0,0.0,1.0,
+Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,trailing,2,134,38,10,6,229.7,1,0.2457,0.6,0.246
+Cameroon,Nicolas Moumi Ngamaleu,drawing,1,128,21,5,5,75.8,0,0.0,1.0,
+Cameroon,Nicolas Moumi Ngamaleu,trailing,1,13,3,1,0,12.6,0,0.0,0.0,
+Cameroon,Nouhou Tolo,drawing,3,224,69,23,9,606.1,0,0.0,0.391,
+Cameroon,Nouhou Tolo,leading,2,19,5,2,1,73.4,0,0.0,0.5,
+Cameroon,Nouhou Tolo,trailing,2,90,32,14,11,236.8,0,0.0,0.786,
+Cameroon,Pierre Kunde Malong,drawing,2,134,33,11,8,242.1,3,0.045733,0.727,0.015
+Cameroon,Pierre Kunde Malong,leading,1,22,5,2,1,31.5,2,0.141377,0.5,0.071
+Cameroon,Pierre Kunde Malong,trailing,1,34,13,5,2,203.6,0,0.0,0.4,
+Cameroon,Samuel Yves Oum Gwet,drawing,2,104,37,13,9,272.5,0,0.0,0.692,
+Cameroon,Samuel Yves Oum Gwet,trailing,1,71,20,5,4,120.9,0,0.0,0.8,
+Cameroon,Vincent Paté Aboubakar,drawing,2,132,21,9,2,161.2,4,0.193983,0.222,0.048
+Cameroon,Vincent Paté Aboubakar,leading,1,1,0,0,0,0.0,0,0.0,,
+Cameroon,Vincent Paté Aboubakar,trailing,2,48,10,1,0,32.9,2,0.335002,0.0,0.168
+Canada,Alistair Johnston,drawing,3,107,38,16,13,398.7,1,0.033542,0.812,0.034
+Canada,Alistair Johnston,leading,1,67,23,9,7,184.6,0,0.0,0.778,
+Canada,Alistair Johnston,trailing,3,364,126,43,29,946.5,1,0.638813,0.674,0.639
+Canada,Alphonso Davies,drawing,3,81,22,3,1,66.8,2,0.864804,0.333,0.432
+Canada,Alphonso Davies,leading,1,82,18,6,1,93.2,0,0.0,0.167,
+Canada,Alphonso Davies,trailing,3,322,74,10,4,218.8,2,0.063885,0.4,0.032
+Canada,Atiba Hutchinson,drawing,2,68,22,5,4,73.8,1,0.046346,0.8,0.046
+Canada,Atiba Hutchinson,leading,1,82,26,4,3,69.3,0,0.0,0.75,
+Canada,Atiba Hutchinson,trailing,3,196,64,25,21,436.4,1,0.086874,0.84,0.087
+Canada,Cyle Larin,drawing,2,14,4,2,2,30.7,0,0.0,1.0,
+Canada,Cyle Larin,leading,1,34,6,0,0,0.0,0,0.0,,
+Canada,Cyle Larin,trailing,3,115,21,4,4,65.2,3,0.249797,1.0,0.083
+Canada,David Junior Hoilett,drawing,2,40,10,3,2,88.2,1,0.040713,0.667,0.041
+Canada,David Junior Hoilett,trailing,3,210,45,16,10,367.3,3,0.078436,0.625,0.026
+Canada,David Wallace Wotherspoon,trailing,1,25,6,4,1,57.5,0,0.0,0.25,
+Canada,Ismael Koné,trailing,3,318,102,29,26,500.6,0,0.0,0.897,
+Canada,Jonathan David,drawing,2,78,16,7,5,165.9,5,0.594113,0.714,0.119
+Canada,Jonathan David,leading,1,48,11,5,1,166.3,0,0.0,0.2,
+Canada,Jonathan David,trailing,3,148,32,6,4,184.7,3,0.2187,0.667,0.073
+Canada,Jonathan Osorio,drawing,1,11,3,0,0,0.0,0,0.0,,
+Canada,Jonathan Osorio,trailing,3,228,57,9,6,189.9,1,0.038296,0.667,0.038
+Canada,Kamal Miller,drawing,3,79,25,13,8,315.7,0,0.0,0.615,
+Canada,Kamal Miller,leading,1,64,21,9,8,168.3,0,0.0,0.889,
+Canada,Kamal Miller,trailing,3,461,153,63,56,1395.0,0,0.0,0.889,
+Canada,Liam Millar,trailing,1,27,9,2,1,29.9,0,0.0,0.5,
+Canada,Lucas Daniel Cavallini,trailing,1,23,3,0,0,0.0,0,0.0,,
+Canada,Mark Anthony Kaye,drawing,1,11,3,0,0,0.0,1,0.038882,,0.039
+Canada,Mark Anthony Kaye,trailing,1,178,54,8,5,154.6,0,0.0,0.625,
+Canada,Milan Borjan,drawing,3,64,23,16,11,556.7,0,0.0,0.688,
+Canada,Milan Borjan,leading,1,21,9,6,5,271.0,0,0.0,0.833,
+Canada,Milan Borjan,trailing,3,167,64,49,34,1473.5,0,0.0,0.694,
+Canada,Richie Laryea,drawing,2,61,13,4,2,69.5,1,0.033731,0.5,0.034
+Canada,Richie Laryea,leading,1,67,15,3,0,47.3,0,0.0,0.0,
+Canada,Richie Laryea,trailing,3,91,17,4,3,131.9,1,0.02291,0.75,0.023
+Canada,Sam Adekugbe,drawing,1,4,1,0,0,0.0,0,0.0,,
+Canada,Sam Adekugbe,trailing,3,216,71,19,14,372.6,0,0.0,0.737,
+Canada,Stephen Antunes Eustáquio,drawing,2,113,32,13,11,324.7,1,0.07989,0.846,0.08
+Canada,Stephen Antunes Eustáquio,leading,1,63,19,4,4,65.8,0,0.0,1.0,
+Canada,Stephen Antunes Eustáquio,trailing,2,133,42,16,12,406.3,2,0.084622,0.75,0.042
+Canada,Steven de Sousa Vitoria,drawing,3,69,24,6,6,132.0,0,0.0,1.0,
+Canada,Steven de Sousa Vitoria,leading,1,42,12,7,4,164.9,0,0.0,0.571,
+Canada,Steven de Sousa Vitoria,trailing,3,427,147,58,41,1454.5,0,0.0,0.707,
+Canada,Tajon Buchanan,drawing,3,87,13,2,1,26.2,1,0.056641,0.5,0.057
+Canada,Tajon Buchanan,leading,1,56,9,4,1,151.4,0,0.0,0.25,
+Canada,Tajon Buchanan,trailing,3,315,66,22,13,439.9,4,0.657629,0.591,0.164
+Costa Rica,Anthony Daniel Contreras Enríquez,drawing,2,96,13,1,0,12.8,0,0.0,0.0,
+Costa Rica,Anthony Daniel Contreras Enríquez,trailing,2,53,12,0,0,0.0,0,0.0,,
+Costa Rica,Brandon Aguilera Zamora,drawing,2,36,9,2,0,38.7,0,0.0,0.0,
+Costa Rica,Brandon Aguilera Zamora,leading,1,13,2,1,0,17.1,0,0.0,0.0,
+Costa Rica,Brandon Aguilera Zamora,trailing,2,113,24,6,5,109.8,0,0.0,0.833,
+Costa Rica,Bryan Oviedo,drawing,3,142,44,12,8,253.3,0,0.0,0.667,
+Costa Rica,Bryan Oviedo,leading,1,16,5,2,1,40.6,0,0.0,0.5,
+Costa Rica,Bryan Oviedo,trailing,2,136,40,11,8,226.8,0,0.0,0.727,
+Costa Rica,Bryan Ruiz González,trailing,1,46,13,4,0,103.4,0,0.0,0.0,
+Costa Rica,Carlos Manuel Martínez Castro,drawing,1,10,2,2,1,44.6,0,0.0,0.5,
+Costa Rica,Carlos Manuel Martínez Castro,trailing,1,41,12,5,2,85.6,0,0.0,0.4,
+Costa Rica,Celso Borges Mora,drawing,3,207,65,25,17,392.1,0,0.0,0.68,
+Costa Rica,Celso Borges Mora,leading,1,4,1,0,0,0.0,0,0.0,,
+Costa Rica,Celso Borges Mora,trailing,2,152,47,18,16,333.1,0,0.0,0.889,
+Costa Rica,Daniel Alonso Chacón Salas,leading,1,3,1,0,0,0.0,0,0.0,,
+Costa Rica,Francisco Javier Calvo Quesada,drawing,2,243,76,33,22,724.9,1,0.014244,0.667,0.014
+Costa Rica,Francisco Javier Calvo Quesada,leading,1,10,4,2,2,58.4,0,0.0,1.0,
+Costa Rica,Francisco Javier Calvo Quesada,trailing,1,78,21,14,9,345.8,0,0.0,0.643,
+Costa Rica,Gerson Torres Barrantes,drawing,1,107,17,0,0,0.0,1,0.013537,,0.014
+Costa Rica,Jewison Bennette,drawing,3,48,5,0,0,0.0,1,0.037812,,0.038
+Costa Rica,Jewison Bennette,leading,1,16,0,0,0,0.0,0,0.0,,
+Costa Rica,Jewison Bennette,trailing,2,84,10,0,0,0.0,0,0.0,,
+Costa Rica,Joel Nathaniel Campbell Samuels,drawing,3,270,67,18,11,440.8,1,0.051289,0.611,0.051
+Costa Rica,Joel Nathaniel Campbell Samuels,leading,1,20,1,0,0,0.0,0,0.0,,
+Costa Rica,Joel Nathaniel Campbell Samuels,trailing,2,273,69,17,9,368.8,0,0.0,0.529,
+Costa Rica,Johan Alberto Venegas Ulloa,drawing,1,20,0,0,0,0.0,0,0.0,,
+Costa Rica,Johan Alberto Venegas Ulloa,trailing,1,67,14,2,1,36.0,0,0.0,0.5,
+Costa Rica,Juan Pablo Vargas Campos,drawing,1,21,6,6,5,153.0,1,0.184274,0.833,0.184
+Costa Rica,Juan Pablo Vargas Campos,leading,1,1,0,0,0,0.0,0,0.0,,
+Costa Rica,Juan Pablo Vargas Campos,trailing,1,75,22,11,6,298.8,0,0.0,0.545,
+Costa Rica,Kendall Jamaal Waston Manley,drawing,2,145,45,11,8,332.9,0,0.0,0.727,
+Costa Rica,Kendall Jamaal Waston Manley,leading,1,3,0,0,0,0.0,0,0.0,,
+Costa Rica,Kendall Jamaal Waston Manley,trailing,2,97,32,17,12,447.0,1,0.099276,0.706,0.099
+Costa Rica,Keylor Navas Gamboa,drawing,3,128,51,34,10,1880.0,0,0.0,0.294,
+Costa Rica,Keylor Navas Gamboa,leading,1,13,7,7,1,537.4,0,0.0,0.143,
+Costa Rica,Keylor Navas Gamboa,trailing,2,122,43,32,16,1643.7,0,0.0,0.5,
+Costa Rica,Keysher Fuller Spence,drawing,3,126,27,7,3,129.2,1,0.120298,0.429,0.12
+Costa Rica,Keysher Fuller Spence,leading,1,8,1,1,0,41.1,0,0.0,0.0,
+Costa Rica,Keysher Fuller Spence,trailing,2,131,33,11,7,242.3,2,0.191306,0.636,0.096
+Costa Rica,Roan Roberto Wilson Gordon,trailing,1,28,6,0,0,0.0,0,0.0,,
+Costa Rica,Ronald Alberto Matarrita Ulate,drawing,1,20,6,1,1,16.5,0,0.0,1.0,
+Costa Rica,Ronald Alberto Matarrita Ulate,trailing,2,67,23,11,7,307.7,0,0.0,0.636,
+Costa Rica,Yeltsin Ignacio Tejeda Valverde,drawing,3,172,53,14,10,241.9,0,0.0,0.714,
+Costa Rica,Yeltsin Ignacio Tejeda Valverde,leading,1,14,2,1,1,36.7,0,0.0,1.0,
+Costa Rica,Yeltsin Ignacio Tejeda Valverde,trailing,2,152,43,18,11,376.3,2,0.522077,0.611,0.261
+Costa Rica,Youstin Delfin Salas Gómez,drawing,1,24,5,3,3,40.5,0,0.0,1.0,
+Costa Rica,Youstin Delfin Salas Gómez,leading,2,6,0,0,0,0.0,0,0.0,,
+Costa Rica,Youstin Delfin Salas Gómez,trailing,1,40,13,8,6,164.1,0,0.0,0.75,
+Costa Rica,Álvaro José Zamora Mata,trailing,1,32,5,1,1,18.3,0,0.0,1.0,
+Costa Rica,Óscar Esau Duarte Gaitán,drawing,3,155,50,18,9,564.5,0,0.0,0.5,
+Costa Rica,Óscar Esau Duarte Gaitán,leading,2,14,2,2,1,56.8,0,0.0,0.5,
+Costa Rica,Óscar Esau Duarte Gaitán,trailing,2,139,45,24,10,826.0,0,0.0,0.417,
+Croatia,Andrej Kramarić,drawing,7,451,107,6,4,126.8,5,0.387912,0.667,0.078
+Croatia,Andrej Kramarić,leading,2,80,20,3,2,83.4,4,0.552952,0.667,0.138
+Croatia,Andrej Kramarić,trailing,3,155,46,3,1,55.6,1,0.146393,0.333,0.146
+Croatia,Ante Budimir,drawing,2,54,6,1,0,18.3,1,0.101119,0.0,0.101
+Croatia,Ante Budimir,trailing,1,4,0,0,0,0.0,0,0.0,,
+Croatia,Borna Barišić,drawing,1,181,60,20,11,449.0,1,0.015197,0.55,0.015
+Croatia,Borna Barišić,trailing,1,24,7,2,1,49.2,0,0.0,0.5,
+Croatia,Borna Sosa,drawing,5,683,213,70,46,1400.9,2,0.048375,0.657,0.024
+Croatia,Borna Sosa,leading,1,66,28,13,8,306.0,0,0.0,0.615,
+Croatia,Borna Sosa,trailing,3,108,35,9,7,147.2,0,0.0,0.778,
+Croatia,Bruno Petković,drawing,3,161,31,2,1,60.8,0,0.0,0.5,
+Croatia,Bruno Petković,leading,2,128,28,14,3,265.9,0,0.0,0.214,
+Croatia,Bruno Petković,trailing,3,99,21,4,3,49.5,1,0.099778,0.75,0.1
+Croatia,Dejan Lovren,drawing,6,986,338,134,102,2923.6,2,0.264358,0.761,0.132
+Croatia,Dejan Lovren,leading,1,36,10,3,2,101.1,0,0.0,0.667,
+Croatia,Dejan Lovren,trailing,4,309,106,40,35,747.2,2,0.117172,0.875,0.059
+Croatia,Dominik Livaković,drawing,7,402,155,81,59,2897.2,0,0.0,0.728,
+Croatia,Dominik Livaković,leading,2,94,38,28,18,1544.8,0,0.0,0.643,
+Croatia,Dominik Livaković,trailing,4,107,35,19,15,534.1,0,0.0,0.789,
+Croatia,Ivan Perišić,drawing,7,744,189,34,14,782.6,11,0.660112,0.412,0.06
+Croatia,Ivan Perišić,leading,2,168,47,11,9,201.6,2,0.055286,0.818,0.028
+Croatia,Ivan Perišić,trailing,4,210,68,22,12,414.4,3,0.040232,0.545,0.013
+Croatia,Josip Juranović,drawing,6,872,298,86,63,1804.3,1,0.041307,0.733,0.041
+Croatia,Josip Juranović,leading,1,65,21,9,4,259.9,0,0.0,0.444,
+Croatia,Josip Juranović,trailing,4,245,87,30,16,600.3,0,0.0,0.533,
+Croatia,Josip Stanišić,drawing,1,68,25,5,5,60.5,1,0.040525,1.0,0.041
+Croatia,Josip Stanišić,leading,1,71,24,10,7,289.0,0,0.0,0.7,
+Croatia,Josip Šutalo,drawing,1,114,39,13,10,245.8,0,0.0,0.769,
+Croatia,Josip Šutalo,leading,1,84,27,9,8,186.7,0,0.0,0.889,
+Croatia,Joško Gvardiol,drawing,7,1173,387,159,127,3457.7,2,0.186105,0.799,0.093
+Croatia,Joško Gvardiol,leading,2,149,41,15,10,364.7,0,0.0,0.667,
+Croatia,Joško Gvardiol,trailing,4,270,82,33,31,525.8,0,0.0,0.939,
+Croatia,Lovro Majer,drawing,5,204,55,10,7,199.5,3,0.860433,0.7,0.287
+Croatia,Lovro Majer,leading,2,67,15,3,1,58.8,1,0.687036,0.333,0.687
+Croatia,Lovro Majer,trailing,2,103,28,3,1,58.0,1,0.04477,0.333,0.045
+Croatia,Luka Modrić,drawing,7,1240,387,140,108,2770.1,6,1.101195,0.771,0.184
+Croatia,Luka Modrić,leading,2,188,58,20,17,390.2,0,0.0,0.85,
+Croatia,Luka Modrić,trailing,4,348,104,31,26,509.5,1,0.026163,0.839,0.026
+Croatia,Marcelo Brozović,drawing,6,1317,421,100,77,1587.7,4,1.06467,0.77,0.266
+Croatia,Marcelo Brozović,leading,1,100,27,8,8,188.8,1,0.304149,1.0,0.304
+Croatia,Marcelo Brozović,trailing,4,282,81,23,19,436.6,0,0.0,0.826,
+Croatia,Mario Pašalić,drawing,5,350,75,19,13,378.7,3,0.871565,0.684,0.291
+Croatia,Mario Pašalić,leading,2,58,13,4,4,81.3,0,0.0,1.0,
+Croatia,Mario Pašalić,trailing,1,23,5,0,0,0.0,1,0.078642,,0.079
+Croatia,Marko Livaja,drawing,5,194,37,10,4,243.3,4,1.074143,0.4,0.269
+Croatia,Marko Livaja,leading,2,69,9,5,3,96.1,1,0.0202,0.6,0.02
+Croatia,Marko Livaja,trailing,2,76,11,4,2,88.8,2,0.679642,0.5,0.34
+Croatia,Mateo Kovačić,drawing,7,1101,321,70,51,1419.7,1,0.079607,0.729,0.08
+Croatia,Mateo Kovačić,leading,2,168,44,16,11,314.8,1,0.235606,0.688,0.236
+Croatia,Mateo Kovačić,trailing,4,313,91,26,26,411.1,1,0.029934,1.0,0.03
+Croatia,Mislav Oršić,drawing,4,81,18,2,2,37.0,5,0.946661,1.0,0.189
+Croatia,Mislav Oršić,leading,2,100,21,6,4,119.9,3,0.080291,0.667,0.027
+Croatia,Mislav Oršić,trailing,2,66,16,1,0,14.4,2,0.032619,0.0,0.016
+Croatia,Nikola Vlašić,drawing,3,157,26,4,3,68.9,5,2.110446,0.75,0.422
+Croatia,Nikola Vlašić,leading,2,61,13,5,2,120.8,1,0.035977,0.4,0.036
+Croatia,Nikola Vlašić,trailing,2,84,16,2,2,40.5,1,0.04913,1.0,0.049
+Denmark,Alexander Hartmann Bah,drawing,1,41,12,6,3,109.4,0,0.0,0.5,
+Denmark,Alexander Hartmann Bah,trailing,2,124,38,9,3,166.7,2,0.056217,0.333,0.028
+Denmark,Andreas Christensen,drawing,3,599,198,63,57,1088.1,1,0.27135,0.905,0.271
+Denmark,Andreas Christensen,trailing,2,156,52,16,13,331.6,1,0.253848,0.812,0.254
+Denmark,Andreas Evald Cornelius,drawing,2,116,19,1,1,20.4,4,0.78406,1.0,0.196
+Denmark,Andreas Evald Cornelius,trailing,1,51,13,1,0,11.7,1,0.017447,0.0,0.017
+Denmark,Andreas Skov Olsen,drawing,2,234,60,8,4,184.0,3,0.241311,0.5,0.08
+Denmark,Andreas Skov Olsen,trailing,1,13,2,1,1,22.3,1,0.070519,1.0,0.071
+Denmark,Christian Dannemann Eriksen,drawing,3,581,184,49,37,1130.3,4,0.154105,0.755,0.039
+Denmark,Christian Dannemann Eriksen,trailing,2,132,47,10,7,245.2,0,0.0,0.7,
+Denmark,Christian Nørgaard,trailing,1,37,15,3,3,44.3,0,0.0,1.0,
+Denmark,Jesper Lindstrøm,drawing,3,253,42,4,2,77.6,2,0.285293,0.5,0.143
+Denmark,Jesper Lindstrøm,trailing,2,54,12,4,1,64.3,1,0.04889,0.25,0.049
+Denmark,Joachim Andersen,drawing,3,575,190,79,56,2093.2,1,0.027654,0.709,0.028
+Denmark,Joachim Andersen,trailing,2,159,55,30,17,835.7,3,0.117207,0.567,0.039
+Denmark,Joakim Mæhle,drawing,3,443,127,34,23,676.0,1,0.028684,0.676,0.029
+Denmark,Joakim Mæhle,trailing,2,60,18,2,2,40.5,1,0.013633,1.0,0.014
+Denmark,Kasper Dolberg,drawing,3,91,12,1,1,26.0,2,0.380551,1.0,0.19
+Denmark,Kasper Dolberg,trailing,2,55,6,1,1,11.2,2,0.131435,1.0,0.066
+Denmark,Kasper Schmeichel,drawing,3,217,74,46,33,1695.0,0,0.0,0.717,
+Denmark,Kasper Schmeichel,trailing,2,33,13,9,7,370.1,0,0.0,0.778,
+Denmark,Martin Braithwaite Christensen,drawing,2,103,16,1,1,23.7,1,0.23786,1.0,0.238
+Denmark,Martin Braithwaite Christensen,trailing,1,12,3,0,0,0.0,0,0.0,,
+Denmark,Mathias Jensen,drawing,2,228,68,18,11,443.3,2,0.048329,0.611,0.024
+Denmark,Mikkel Damsgaard,drawing,3,200,53,21,14,348.1,0,0.0,0.667,
+Denmark,Mikkel Damsgaard,trailing,2,68,18,8,6,143.1,0,0.0,0.75,
+Denmark,Pierre-Emile Højbjerg,drawing,3,590,188,65,50,1318.5,2,0.023863,0.769,0.012
+Denmark,Pierre-Emile Højbjerg,trailing,2,106,36,14,12,276.4,0,0.0,0.857,
+Denmark,Rasmus Nissen Kristensen,drawing,3,484,165,64,42,1260.4,0,0.0,0.656,
+Denmark,Rasmus Nissen Kristensen,trailing,1,44,13,4,2,102.8,0,0.0,0.5,
+Denmark,Robert Skov,trailing,1,70,21,3,1,42.8,0,0.0,0.333,
+Denmark,Simon Thorup Kjær,drawing,1,170,55,23,19,500.8,0,0.0,0.826,
+Denmark,Thomas Delaney,drawing,1,108,31,11,9,174.2,0,0.0,0.818,
+Denmark,Victor Nelsson,drawing,1,152,54,18,16,331.7,0,0.0,0.889,
+Denmark,Victor Nelsson,trailing,1,52,18,4,4,70.1,0,0.0,1.0,
+Ecuador,Alan Steven Franco Palma,drawing,1,29,5,1,1,23.0,0,0.0,1.0,
+Ecuador,Alan Steven Franco Palma,leading,1,20,6,2,2,21.6,0,0.0,1.0,
+Ecuador,Alan Steven Franco Palma,trailing,1,2,0,0,0,0.0,0,0.0,,
+Ecuador,Angelo Smit Preciado Quiñónez,drawing,3,158,49,18,7,538.3,2,0.041282,0.389,0.021
+Ecuador,Angelo Smit Preciado Quiñónez,leading,1,127,42,18,14,397.5,1,0.00661,0.778,0.007
+Ecuador,Angelo Smit Preciado Quiñónez,trailing,2,133,38,8,6,166.3,1,0.022954,0.75,0.023
+Ecuador,Carlos Armando Gruezo Arboleda,drawing,1,47,11,4,4,95.6,0,0.0,1.0,
+Ecuador,Carlos Armando Gruezo Arboleda,trailing,1,9,3,2,2,34.3,0,0.0,1.0,
+Ecuador,Djorkaeff Neicer Reasco González,trailing,1,27,3,1,1,10.2,0,0.0,1.0,
+Ecuador,Enner Remberto Valencia Lastra,drawing,3,130,18,1,1,17.3,4,0.928796,1.0,0.232
+Ecuador,Enner Remberto Valencia Lastra,leading,1,82,12,1,1,11.5,1,0.088781,1.0,0.089
+Ecuador,Enner Remberto Valencia Lastra,trailing,2,162,21,3,1,95.9,4,0.907015,0.333,0.227
+Ecuador,Felix Eduardo Torres Caicedo,drawing,3,166,59,29,18,841.1,0,0.0,0.621,
+Ecuador,Felix Eduardo Torres Caicedo,leading,1,143,56,20,12,521.7,0,0.0,0.6,
+Ecuador,Felix Eduardo Torres Caicedo,trailing,2,235,84,42,31,905.5,1,0.15398,0.738,0.154
+Ecuador,Gonzalo Jordy Plata Jiménez,drawing,3,118,26,5,2,119.6,1,0.046335,0.4,0.046
+Ecuador,Gonzalo Jordy Plata Jiménez,leading,1,153,30,5,2,132.6,0,0.0,0.4,
+Ecuador,Gonzalo Jordy Plata Jiménez,trailing,2,181,48,14,8,313.9,1,0.058988,0.571,0.059
+Ecuador,Hernán Ismael Galíndez,drawing,3,85,35,23,6,1394.7,0,0.0,0.261,
+Ecuador,Hernán Ismael Galíndez,leading,1,38,18,15,6,905.7,0,0.0,0.4,
+Ecuador,Hernán Ismael Galíndez,trailing,2,56,24,15,8,742.4,0,0.0,0.533,
+Ecuador,Jackson Gabriel Porozo Vernaza,drawing,1,42,13,6,5,120.7,0,0.0,0.833,
+Ecuador,Jackson Gabriel Porozo Vernaza,trailing,2,99,29,6,3,156.9,1,0.052535,0.5,0.053
+Ecuador,Jeremy Leonel Sarmiento Morante,drawing,2,42,10,1,0,38.5,0,0.0,0.0,
+Ecuador,Jeremy Leonel Sarmiento Morante,leading,1,38,7,1,1,32.8,0,0.0,1.0,
+Ecuador,Jeremy Leonel Sarmiento Morante,trailing,1,59,16,4,3,49.7,1,0.029285,0.75,0.029
+Ecuador,Jhegson Sebastián Méndez Carabalí,drawing,2,103,31,10,9,178.4,0,0.0,0.9,
+Ecuador,Jhegson Sebastián Méndez Carabalí,leading,1,193,64,13,13,207.9,0,0.0,1.0,
+Ecuador,Jhegson Sebastián Méndez Carabalí,trailing,1,131,46,11,7,241.2,0,0.0,0.636,
+Ecuador,José Adoni Cifuentes Charcopa,leading,1,41,9,2,0,37.9,0,0.0,0.0,
+Ecuador,José Adoni Cifuentes Charcopa,trailing,1,107,34,12,8,256.3,1,0.025271,0.667,0.025
+Ecuador,Kevin José Rodríguez Cortez,drawing,1,14,1,0,0,0.0,0,0.0,,
+Ecuador,Kevin José Rodríguez Cortez,leading,1,8,0,0,0,0.0,1,0.138482,,0.138
+Ecuador,Michael Steveen Estrada Martínez,drawing,3,101,12,8,3,173.3,1,0.13419,0.375,0.134
+Ecuador,Michael Steveen Estrada Martínez,leading,1,89,16,5,3,79.7,0,0.0,0.6,
+Ecuador,Michael Steveen Estrada Martínez,trailing,2,92,15,2,2,44.5,2,0.112187,1.0,0.056
+Ecuador,Moisés Isaac Caicedo Corozo,drawing,3,168,49,13,8,234.5,1,0.033238,0.615,0.033
+Ecuador,Moisés Isaac Caicedo Corozo,leading,1,113,41,10,7,199.2,0,0.0,0.7,
+Ecuador,Moisés Isaac Caicedo Corozo,trailing,2,220,64,20,13,382.6,2,0.620087,0.65,0.31
+Ecuador,Pervis Josué Estupiñán Tenorio,drawing,3,190,52,15,9,302.4,0,0.0,0.6,
+Ecuador,Pervis Josué Estupiñán Tenorio,leading,1,161,56,17,8,377.2,0,0.0,0.471,
+Ecuador,Pervis Josué Estupiñán Tenorio,trailing,2,233,79,28,17,564.0,2,0.270073,0.607,0.135
+Ecuador,Piero Martín Hincapié Reyna,drawing,3,225,73,31,21,883.2,0,0.0,0.677,
+Ecuador,Piero Martín Hincapié Reyna,leading,1,172,60,17,13,348.8,0,0.0,0.765,
+Ecuador,Piero Martín Hincapié Reyna,trailing,2,202,66,25,15,650.1,0,0.0,0.6,
+Ecuador,Romario Andrés Ibarra Mina,drawing,2,23,6,1,0,21.7,0,0.0,0.0,
+Ecuador,Romario Andrés Ibarra Mina,leading,1,60,10,3,2,42.3,2,0.136638,0.667,0.068
+England,Bukayo Saka,drawing,4,269,61,8,6,141.9,3,0.185821,0.75,0.062
+England,Bukayo Saka,leading,2,126,31,7,3,107.6,4,0.393634,0.429,0.098
+England,Bukayo Saka,trailing,1,90,19,3,2,62.3,0,0.0,0.667,
+England,Callum Wilson,leading,2,75,12,2,2,24.5,0,0.0,1.0,
+England,Declan Rice,drawing,5,518,180,44,37,779.9,0,0.0,0.841,
+England,Declan Rice,leading,3,331,109,27,23,480.8,0,0.0,0.852,
+England,Declan Rice,trailing,1,114,38,12,9,224.1,0,0.0,0.75,
+England,Eric Dier,leading,2,120,42,16,14,310.3,0,0.0,0.875,
+England,Harry Kane,drawing,5,306,61,24,12,421.6,5,0.263751,0.5,0.053
+England,Harry Kane,leading,3,152,25,10,6,170.0,3,0.406087,0.6,0.135
+England,Harry Kane,trailing,1,49,11,2,2,25.9,4,1.661142,1.0,0.415
+England,Harry Maguire,drawing,5,722,244,102,80,2369.1,5,0.441367,0.784,0.088
+England,Harry Maguire,leading,3,301,105,45,32,1122.0,0,0.0,0.711,
+England,Harry Maguire,trailing,1,169,59,21,15,470.8,1,0.048589,0.714,0.049
+England,Jack Grealish,drawing,1,53,13,2,2,28.2,0,0.0,1.0,
+England,Jack Grealish,leading,3,179,43,3,2,48.2,1,0.626281,0.667,0.626
+England,Jack Grealish,trailing,1,2,0,0,0,0.0,0,0.0,,
+England,John Stones,drawing,5,736,256,98,85,1842.8,3,0.132343,0.867,0.044
+England,John Stones,leading,3,433,148,48,45,963.0,1,0.455076,0.938,0.455
+England,John Stones,trailing,1,142,46,18,18,242.0,0,0.0,1.0,
+England,Jordan Brian Henderson,drawing,4,287,91,20,7,428.4,1,0.131749,0.35,0.132
+England,Jordan Brian Henderson,leading,2,158,47,11,11,217.6,0,0.0,1.0,
+England,Jordan Brian Henderson,trailing,1,93,28,6,6,81.8,1,0.017202,1.0,0.017
+England,Jordan Pickford,drawing,5,231,87,43,28,1865.0,0,0.0,0.651,
+England,Jordan Pickford,leading,3,183,67,41,23,2021.3,0,0.0,0.561,
+England,Jordan Pickford,trailing,1,17,7,5,4,164.5,0,0.0,0.8,
+England,Jude Bellingham,drawing,5,470,125,22,20,396.3,1,0.082851,0.909,0.083
+England,Jude Bellingham,leading,3,387,120,29,23,503.2,2,0.493933,0.793,0.247
+England,Jude Bellingham,trailing,1,113,30,8,5,175.2,2,0.264472,0.625,0.132
+England,Kalvin Phillips,leading,2,69,19,5,4,123.8,0,0.0,0.8,
+England,Kieran Trippier,drawing,2,286,107,28,21,633.7,0,0.0,0.75,
+England,Kieran Trippier,leading,2,228,88,16,8,334.8,1,0.042866,0.5,0.043
+England,Kyle Walker,drawing,3,294,99,26,21,594.6,0,0.0,0.808,
+England,Kyle Walker,leading,2,128,46,12,9,226.9,0,0.0,0.75,
+England,Kyle Walker,trailing,1,89,32,11,8,271.8,0,0.0,0.727,
+England,Luke Shaw,drawing,5,659,234,68,47,1286.4,1,0.006951,0.691,0.007
+England,Luke Shaw,leading,3,356,130,38,30,736.7,1,0.021549,0.789,0.022
+England,Luke Shaw,trailing,1,104,38,7,2,164.8,1,0.055894,0.286,0.056
+England,Marcus Rashford,drawing,2,130,29,3,0,35.5,5,0.443165,0.0,0.089
+England,Marcus Rashford,leading,3,152,35,9,5,144.7,5,0.860195,0.556,0.172
+England,Marcus Rashford,trailing,1,14,3,1,1,13.7,1,0.079226,1.0,0.079
+England,Mason Mount,drawing,2,192,43,10,8,162.6,3,0.157694,0.8,0.053
+England,Mason Mount,leading,2,118,29,6,5,92.8,0,0.0,0.833,
+England,Mason Mount,trailing,1,21,2,1,1,30.2,1,0.024139,1.0,0.024
+England,Phil Foden,drawing,1,107,28,3,2,37.6,2,0.080798,0.667,0.04
+England,Phil Foden,leading,2,107,29,5,3,151.2,3,1.147861,0.6,0.383
+England,Philip Foden,drawing,2,131,28,1,1,10.3,1,0.022692,1.0,0.023
+England,Philip Foden,leading,1,49,14,4,2,65.3,0,0.0,0.5,
+England,Philip Foden,trailing,1,57,19,2,2,36.3,0,0.0,1.0,
+England,Raheem Sterling,drawing,2,125,30,8,7,127.8,0,0.0,0.875,
+England,Raheem Sterling,leading,1,80,20,4,4,62.5,1,0.188528,1.0,0.189
+England,Raheem Sterling,trailing,1,32,8,2,0,49.7,0,0.0,0.0,
+England,Trent Alexander-Arnold,leading,1,66,23,9,7,184.3,0,0.0,0.778,
+France,Adrien Rabiot,drawing,5,433,124,38,29,633.7,6,0.414623,0.763,0.069
+France,Adrien Rabiot,leading,4,348,105,20,15,449.8,0,0.0,0.75,
+France,Adrien Rabiot,trailing,3,207,56,12,9,208.7,3,0.313497,0.75,0.104
+France,Antoine Griezmann,drawing,6,396,111,34,21,669.2,2,0.228189,0.618,0.114
+France,Antoine Griezmann,leading,5,487,141,34,26,663.9,3,0.233437,0.765,0.078
+France,Antoine Griezmann,trailing,3,206,71,21,15,376.5,1,0.034694,0.714,0.035
+France,Aurélien Djani Tchouaméni,drawing,7,650,203,54,40,1115.9,5,1.106734,0.741,0.221
+France,Aurélien Djani Tchouaméni,leading,5,483,154,39,32,629.9,2,0.076164,0.821,0.038
+France,Aurélien Djani Tchouaméni,trailing,3,330,113,38,28,694.2,0,0.0,0.737,
+France,Axel Disasi,drawing,1,106,37,13,7,294.5,0,0.0,0.538,
+France,Axel Disasi,leading,1,11,3,1,1,13.2,0,0.0,1.0,
+France,Axel Disasi,trailing,1,89,35,10,5,183.3,1,0.061026,0.5,0.061
+France,Benjamin Pavard,drawing,1,21,8,2,1,44.4,0,0.0,0.5,
+France,Benjamin Pavard,leading,1,176,64,13,10,243.7,0,0.0,0.769,
+France,Benjamin Pavard,trailing,1,38,16,5,3,114.2,0,0.0,0.6,
+France,Dayotchanculle Upamecano,drawing,5,441,137,53,41,1209.3,0,0.0,0.774,
+France,Dayotchanculle Upamecano,leading,4,442,142,55,43,1335.3,0,0.0,0.782,
+France,Dayotchanculle Upamecano,trailing,2,187,66,29,18,601.1,0,0.0,0.621,
+France,Eduardo Camavinga,drawing,2,230,60,19,12,375.1,0,0.0,0.632,
+France,Eduardo Camavinga,trailing,2,134,43,11,11,158.0,0,0.0,1.0,
+France,Hugo Lloris,drawing,5,172,74,59,30,2868.8,0,0.0,0.508,
+France,Hugo Lloris,leading,5,211,84,73,38,3612.1,0,0.0,0.521,
+France,Hugo Lloris,trailing,2,58,24,20,13,781.1,0,0.0,0.65,
+France,Ibrahima Konaté,drawing,5,181,55,16,14,330.5,0,0.0,0.875,
+France,Ibrahima Konaté,leading,3,383,123,41,29,912.7,2,0.176012,0.707,0.088
+France,Ibrahima Konaté,trailing,3,153,50,22,20,424.7,0,0.0,0.909,
+France,Jordan Veretout,drawing,1,114,34,10,9,146.4,0,0.0,0.9,
+France,Jordan Veretout,trailing,1,4,1,0,0,0.0,0,0.0,,
+France,Jules Koundé,drawing,5,422,148,57,39,1161.8,3,0.151937,0.684,0.051
+France,Jules Koundé,leading,5,354,122,34,24,715.7,1,0.017669,0.706,0.018
+France,Jules Koundé,trailing,1,113,38,11,8,188.2,0,0.0,0.727,
+France,Kingsley Coman,drawing,3,172,33,6,2,71.4,2,0.871363,0.333,0.436
+France,Kingsley Coman,leading,4,140,31,2,1,30.0,0,0.0,0.5,
+France,Kingsley Coman,trailing,2,38,6,1,0,26.3,0,0.0,0.0,
+France,Kylian Mbappé Lottin,drawing,6,424,99,23,15,419.7,9,1.660538,0.652,0.185
+France,Kylian Mbappé Lottin,leading,5,450,84,13,11,223.1,15,1.524982,0.846,0.102
+France,Kylian Mbappé Lottin,trailing,3,236,50,9,6,240.9,8,1.831232,0.667,0.229
+France,Lucas Hernández Pi,drawing,1,26,10,4,1,79.0,0,0.0,0.25,
+France,Lucas Hernández Pi,trailing,1,4,0,0,0,0.0,0,0.0,,
+France,Marcus Thuram,drawing,2,52,10,6,3,91.7,0,0.0,0.5,
+France,Marcus Thuram,leading,4,120,21,3,0,42.2,1,0.115659,0.0,0.116
+France,Marcus Thuram,trailing,1,82,14,4,1,108.0,0,0.0,0.25,
+France,Mattéo Guendouzi Olié,drawing,1,54,16,3,2,54.9,0,0.0,0.667,
+France,Mattéo Guendouzi Olié,trailing,1,48,16,4,3,69.6,0,0.0,0.75,
+France,Olivier Giroud,drawing,6,155,28,7,3,91.2,10,2.101618,0.429,0.21
+France,Olivier Giroud,leading,5,199,42,13,6,214.1,7,0.934337,0.462,0.133
+France,Olivier Giroud,trailing,2,26,5,0,0,0.0,0,0.0,,
+France,Ousmane Dembélé,drawing,6,343,82,16,8,335.3,6,0.261155,0.5,0.044
+France,Ousmane Dembélé,leading,5,343,82,14,8,266.1,1,0.080987,0.571,0.081
+France,Ousmane Dembélé,trailing,3,108,27,4,1,76.7,1,0.020326,0.25,0.02
+France,Randal Kolo Muani,drawing,2,117,11,0,0,0.0,2,1.061014,,0.531
+France,Randal Kolo Muani,leading,1,20,4,2,0,37.1,1,0.852129,0.0,0.852
+France,Randal Kolo Muani,trailing,2,122,21,2,1,24.3,2,0.137226,0.5,0.069
+France,Raphaël Varane,drawing,6,433,150,53,38,1095.0,2,0.188856,0.717,0.094
+France,Raphaël Varane,leading,4,274,93,28,21,658.3,1,0.075545,0.75,0.076
+France,Raphaël Varane,trailing,2,108,37,12,9,215.7,0,0.0,0.75,
+France,Steve Mandanda,drawing,1,53,24,20,10,771.0,0,0.0,0.5,
+France,Steve Mandanda,trailing,1,16,7,6,4,182.6,0,0.0,0.667,
+France,Theo Bernard François Hernández,drawing,6,439,140,29,26,477.4,1,0.097935,0.897,0.098
+France,Theo Bernard François Hernández,leading,5,449,140,48,36,1170.3,3,0.143682,0.75,0.048
+France,Theo Bernard François Hernández,trailing,2,152,52,17,11,365.9,1,0.017693,0.647,0.018
+France,William Saliba,trailing,1,103,37,14,14,189.4,0,0.0,1.0,
+France,Youssouf Fofana,drawing,3,156,36,12,7,242.3,2,0.064194,0.583,0.032
+France,Youssouf Fofana,leading,4,223,63,20,15,435.5,2,0.101407,0.75,0.051
+France,Youssouf Fofana,trailing,2,39,13,2,2,22.0,0,0.0,1.0,
+Germany,Antonio Rüdiger,drawing,3,326,110,36,29,833.6,5,0.641868,0.806,0.128
+Germany,Antonio Rüdiger,leading,2,304,108,45,39,819.7,0,0.0,0.867,
+Germany,Antonio Rüdiger,trailing,3,87,29,12,9,227.6,1,0.017848,0.75,0.018
+Germany,David Raum,drawing,3,276,89,23,13,514.7,0,0.0,0.565,
+Germany,David Raum,leading,2,233,79,10,4,230.8,0,0.0,0.4,
+Germany,David Raum,trailing,2,65,25,7,5,154.6,0,0.0,0.714,
+Germany,Jamal Musiala,drawing,3,281,50,8,6,144.7,5,0.350986,0.75,0.07
+Germany,Jamal Musiala,leading,2,278,61,14,10,211.0,5,0.511568,0.714,0.102
+Germany,Jamal Musiala,trailing,2,42,6,1,1,10.3,1,0.289962,1.0,0.29
+Germany,Jonas Hofmann,drawing,2,24,5,0,0,0.0,0,0.0,,
+Germany,Jonas Hofmann,leading,1,17,4,0,0,0.0,1,0.326579,,0.327
+Germany,Jonas Hofmann,trailing,1,32,11,1,1,39.8,0,0.0,1.0,
+Germany,Joshua Kimmich,drawing,3,328,116,32,26,605.8,3,0.170431,0.812,0.057
+Germany,Joshua Kimmich,leading,2,382,130,39,31,906.7,3,0.110524,0.795,0.037
+Germany,Joshua Kimmich,trailing,3,59,25,8,6,164.4,1,0.053563,0.75,0.054
+Germany,Kai Havertz,drawing,2,66,14,2,2,52.6,3,0.561478,1.0,0.187
+Germany,Kai Havertz,leading,2,88,19,3,2,41.7,1,0.118903,0.667,0.119
+Germany,Kai Havertz,trailing,1,5,0,0,0,0.0,1,0.474919,,0.475
+Germany,Leon Goretzka,drawing,3,94,26,10,5,315.5,1,0.153525,0.5,0.154
+Germany,Leon Goretzka,leading,2,81,26,5,3,94.0,1,0.181871,0.6,0.182
+Germany,Leon Goretzka,trailing,2,34,7,1,1,13.4,2,0.1253,1.0,0.063
+Germany,Leroy Sané,drawing,2,48,16,2,1,58.5,0,0.0,0.5,
+Germany,Leroy Sané,leading,1,131,33,7,5,152.3,3,0.183442,0.714,0.061
+Germany,Leroy Sané,trailing,2,31,7,3,3,54.5,0,0.0,1.0,
+Germany,Lukas Klostermann,drawing,2,32,13,2,2,45.6,0,0.0,1.0,
+Germany,Lukas Klostermann,leading,1,75,25,5,5,83.6,0,0.0,1.0,
+Germany,Lukas Klostermann,trailing,2,22,9,1,1,11.5,0,0.0,1.0,
+Germany,Manuel Neuer,drawing,3,186,70,47,40,1174.8,0,0.0,0.851,
+Germany,Manuel Neuer,leading,2,120,43,31,26,777.4,0,0.0,0.839,
+Germany,Manuel Neuer,trailing,2,31,10,5,5,109.8,0,0.0,1.0,
+Germany,Mario Götze,drawing,2,33,8,2,2,24.3,0,0.0,1.0,
+Germany,Mario Götze,leading,1,22,3,2,2,23.0,1,0.066508,1.0,0.067
+Germany,Mario Götze,trailing,2,20,5,1,1,13.0,0,0.0,1.0,
+Germany,Matthias Ginter,leading,1,11,3,2,2,36.9,0,0.0,1.0,
+Germany,Niclas Füllkrug,drawing,2,25,9,1,1,11.9,1,0.363388,1.0,0.363
+Germany,Niclas Füllkrug,leading,1,22,5,0,0,0.0,3,0.691101,,0.23
+Germany,Niclas Füllkrug,trailing,3,50,11,3,2,45.9,4,0.634186,0.667,0.159
+Germany,Nico Schlotterbeck,drawing,2,181,62,19,14,391.7,0,0.0,0.737,
+Germany,Nico Schlotterbeck,leading,1,116,42,15,14,257.0,0,0.0,0.933,
+Germany,Nico Schlotterbeck,trailing,1,51,19,8,4,290.8,0,0.0,0.5,
+Germany,Niklas Süle,drawing,3,304,100,40,32,832.5,0,0.0,0.8,
+Germany,Niklas Süle,leading,2,305,115,48,44,797.3,0,0.0,0.917,
+Germany,Niklas Süle,trailing,3,106,37,12,10,198.4,1,0.076105,0.833,0.076
+Germany,Serge Gnabry,drawing,3,185,43,5,4,90.9,2,0.11849,0.8,0.059
+Germany,Serge Gnabry,leading,2,228,63,8,7,110.0,9,0.585049,0.875,0.065
+Germany,Serge Gnabry,trailing,3,41,7,0,0,0.0,1,0.02448,,0.024
+Germany,Thilo Kehrer,drawing,1,100,25,9,7,191.0,0,0.0,0.778,
+Germany,Thilo Kehrer,trailing,1,11,3,3,3,47.1,0,0.0,1.0,
+Germany,Thomas Müller,drawing,3,150,33,4,2,60.1,2,0.200482,0.5,0.1
+Germany,Thomas Müller,leading,2,145,37,8,5,153.5,1,0.069567,0.625,0.07
+Germany,Thomas Müller,trailing,1,8,2,0,0,0.0,0,0.0,,
+Germany,Youssoufa Moukoko,trailing,1,4,2,0,0,0.0,0,0.0,,
+Germany,İlkay Gündoğan,drawing,3,214,62,19,16,312.0,4,0.990071,0.842,0.248
+Germany,İlkay Gündoğan,leading,2,288,98,30,26,602.0,2,0.138883,0.867,0.069
+Germany,İlkay Gündoğan,trailing,1,14,3,0,0,0.0,0,0.0,,
+Ghana,Abdul Fatawu Issahaku,trailing,1,3,0,0,0,0.0,0,0.0,,
+Ghana,Abdul Rahman Baba,drawing,2,117,33,11,6,290.7,0,0.0,0.545,
+Ghana,Abdul Rahman Baba,leading,1,12,0,0,0,0.0,0,0.0,,
+Ghana,Abdul Rahman Baba,trailing,2,206,70,28,16,572.8,0,0.0,0.571,
+Ghana,Alexander Djiku,drawing,1,56,16,6,4,182.0,0,0.0,0.667,
+Ghana,Alexander Djiku,leading,1,10,1,1,0,48.8,0,0.0,0.0,
+Ghana,Alexander Djiku,trailing,1,28,10,3,2,68.0,0,0.0,0.667,
+Ghana,Alidu Seidu,drawing,2,141,36,11,5,242.4,1,0.015373,0.455,0.015
+Ghana,Alidu Seidu,trailing,2,141,39,13,9,227.7,0,0.0,0.692,
+Ghana,André Ayew Pelé,drawing,3,146,20,1,0,26.6,1,0.7835,0.0,0.784
+Ghana,André Ayew Pelé,leading,1,52,12,2,1,30.6,0,0.0,0.5,
+Ghana,André Ayew Pelé,trailing,2,31,5,1,1,14.3,1,0.485245,1.0,0.485
+Ghana,Antoine Semenyo,trailing,2,43,3,2,0,65.5,1,0.120244,0.0,0.12
+Ghana,Daniel Amartey,drawing,3,174,58,25,21,557.0,0,0.0,0.84,
+Ghana,Daniel Amartey,leading,1,81,24,10,10,164.1,0,0.0,1.0,
+Ghana,Daniel Amartey,trailing,2,192,58,21,17,423.9,0,0.0,0.81,
+Ghana,Daniel-Kofi Kyereh,leading,1,21,4,1,1,12.7,0,0.0,1.0,
+Ghana,Daniel-Kofi Kyereh,trailing,2,79,20,6,4,120.5,0,0.0,0.667,
+Ghana,Denis Odoi,leading,1,16,2,1,1,23.7,0,0.0,1.0,
+Ghana,Gideon Mensah,drawing,1,36,13,3,1,63.6,0,0.0,0.333,
+Ghana,Gideon Mensah,leading,1,99,32,14,8,354.5,0,0.0,0.571,
+Ghana,Iñaki Williams Arthuer,drawing,3,122,21,3,2,49.4,1,0.105574,0.667,0.106
+Ghana,Iñaki Williams Arthuer,leading,1,68,11,0,0,0.0,0,0.0,,
+Ghana,Iñaki Williams Arthuer,trailing,2,73,12,1,0,17.0,1,0.020453,0.0,0.02
+Ghana,Jordan Ayew,drawing,3,82,13,3,1,76.3,1,0.071466,0.333,0.071
+Ghana,Jordan Ayew,leading,1,77,14,1,1,22.2,0,0.0,1.0,
+Ghana,Jordan Ayew,trailing,2,74,17,3,2,35.8,0,0.0,0.667,
+Ghana,Kamaldeen Sulemana,leading,1,23,4,0,0,0.0,0,0.0,,
+Ghana,Kamaldeen Sulemana,trailing,1,80,16,2,0,71.3,1,0.081228,0.0,0.081
+Ghana,Lawrence Ati-Zigi,drawing,3,79,35,18,9,894.9,0,0.0,0.5,
+Ghana,Lawrence Ati-Zigi,leading,1,51,19,12,2,798.2,0,0.0,0.167,
+Ghana,Lawrence Ati-Zigi,trailing,2,55,22,19,13,732.1,0,0.0,0.684,
+Ghana,Mohamed Salisu,drawing,3,167,53,29,12,807.4,1,0.404097,0.414,0.404
+Ghana,Mohamed Salisu,leading,1,100,29,11,4,355.9,0,0.0,0.364,
+Ghana,Mohamed Salisu,trailing,2,189,67,40,28,888.5,1,0.024317,0.7,0.024
+Ghana,Mohammed Kudus,drawing,3,211,39,11,5,225.0,2,0.184297,0.455,0.092
+Ghana,Mohammed Kudus,leading,1,71,12,4,3,75.1,1,0.200836,0.75,0.201
+Ghana,Mohammed Kudus,trailing,2,156,31,5,5,97.1,5,0.273438,1.0,0.055
+Ghana,Osman Bukari,trailing,2,104,21,2,1,68.9,3,0.246263,0.5,0.082
+Ghana,Salis Abdul Samed,drawing,3,228,65,23,17,417.7,0,0.0,0.739,
+Ghana,Salis Abdul Samed,leading,1,86,22,2,1,34.6,1,0.026677,0.5,0.027
+Ghana,Salis Abdul Samed,trailing,2,195,55,9,7,135.6,0,0.0,0.778,
+Ghana,Tariq Lamptey,drawing,2,45,7,2,1,28.5,0,0.0,0.5,
+Ghana,Tariq Lamptey,leading,1,49,13,5,0,104.0,1,0.074502,0.0,0.075
+Ghana,Tariq Lamptey,trailing,1,39,13,5,2,85.3,0,0.0,0.4,
+Ghana,Thomas Teye Partey,drawing,3,208,62,23,14,560.1,0,0.0,0.609,
+Ghana,Thomas Teye Partey,leading,1,94,31,11,8,190.4,1,0.214688,0.727,0.215
+Ghana,Thomas Teye Partey,trailing,2,284,88,35,27,731.6,1,0.021057,0.771,0.021
+Iran,Abolfazl Jalali,trailing,1,89,29,9,3,254.4,0,0.0,0.333,
+Iran,Ahmad Nourollahi,drawing,3,154,30,11,5,277.0,4,0.051949,0.455,0.013
+Iran,Ahmad Nourollahi,trailing,2,95,25,11,5,195.7,1,0.028478,0.455,0.028
+Iran,Ali Gholizadeh,drawing,2,171,47,13,5,383.8,1,0.042827,0.385,0.043
+Iran,Ali Gholizadeh,trailing,2,106,26,9,7,160.0,0,0.0,0.778,
+Iran,Ali Karimi,drawing,2,39,7,4,2,138.2,0,0.0,0.5,
+Iran,Ali Karimi,leading,1,1,1,1,0,19.7,0,0.0,0.0,
+Iran,Ali Karimi,trailing,2,129,37,8,5,151.6,0,0.0,0.625,
+Iran,Alireza Jahanbakhsh,drawing,2,70,14,3,2,58.2,2,0.042576,0.667,0.021
+Iran,Alireza Jahanbakhsh,trailing,1,23,2,1,1,10.9,1,0.112328,1.0,0.112
+Iran,Alireza Safar Beiranvand,drawing,2,39,14,11,4,649.0,0,0.0,0.364,
+Iran,Alireza Safar Beiranvand,trailing,1,40,17,11,8,489.7,0,0.0,0.727,
+Iran,Ehsan Hajsafi,drawing,3,171,52,17,9,423.8,1,0.068153,0.529,0.068
+Iran,Ehsan Hajsafi,trailing,2,146,47,27,15,607.1,0,0.0,0.556,
+Iran,Karim Ansarifard,drawing,1,18,4,1,1,13.1,1,0.064,1.0,0.064
+Iran,Karim Ansarifard,leading,1,1,0,0,0,0.0,0,0.0,,
+Iran,Karim Ansarifard,trailing,1,13,2,0,0,0.0,0,0.0,,
+Iran,Mehdi Taremi,drawing,3,226,47,17,8,299.0,2,0.161523,0.471,0.081
+Iran,Mehdi Taremi,leading,1,3,1,0,0,0.0,0,0.0,,
+Iran,Mehdi Taremi,trailing,2,188,34,4,3,83.7,4,1.216621,0.75,0.304
+Iran,Mehdi Torabi,drawing,1,46,10,5,2,114.6,1,0.051058,0.4,0.051
+Iran,Mehdi Torabi,trailing,2,99,27,7,7,126.9,1,0.045792,1.0,0.046
+Iran,Milad Mohammadi,drawing,3,197,60,27,15,584.9,0,0.0,0.556,
+Iran,Milad Mohammadi,leading,1,1,0,0,0,0.0,0,0.0,,
+Iran,Milad Mohammadi,trailing,2,44,6,1,0,47.8,0,0.0,0.0,
+Iran,Mohammad Hossein Kanani Zadegan,trailing,2,40,11,7,5,233.6,0,0.0,0.714,
+Iran,Morteza Pouraliganji,drawing,3,158,59,38,22,969.6,1,0.051609,0.579,0.052
+Iran,Morteza Pouraliganji,trailing,2,210,69,30,19,586.5,1,0.217229,0.633,0.217
+Iran,Ramin Rezaeian,drawing,2,228,68,41,23,1094.6,1,0.031047,0.561,0.031
+Iran,Ramin Rezaeian,leading,1,3,0,0,0,0.0,1,0.199331,,0.199
+Iran,Ramin Rezaeian,trailing,1,112,37,14,8,277.6,0,0.0,0.571,
+Iran,Roozbeh Cheshmi,drawing,2,16,6,3,1,48.9,1,0.032688,0.333,0.033
+Iran,Roozbeh Cheshmi,leading,1,2,2,2,0,33.6,0,0.0,0.0,
+Iran,Roozbeh Cheshmi,trailing,1,25,6,2,0,52.5,0,0.0,0.0,
+Iran,Sadegh Moharrami,drawing,1,19,6,3,1,63.5,0,0.0,0.333,
+Iran,Sadegh Moharrami,trailing,1,83,20,2,1,32.8,0,0.0,0.5,
+Iran,Saeid Ezatolahi Afagh,drawing,2,130,41,20,9,514.9,1,0.047916,0.45,0.048
+Iran,Saeid Ezatolahi Afagh,trailing,2,176,52,24,19,558.2,2,0.013367,0.792,0.007
+Iran,Saman Ghoddos,trailing,1,77,21,6,3,116.7,1,0.391335,0.5,0.391
+Iran,Sardar Azmoun,drawing,2,111,27,7,3,160.2,4,0.609281,0.429,0.152
+Iran,Sardar Azmoun,trailing,2,26,5,1,1,21.9,1,0.3513,1.0,0.351
+Iran,Seyed Hossein Hosseini,drawing,2,73,30,26,12,1320.7,0,0.0,0.462,
+Iran,Seyed Hossein Hosseini,trailing,1,56,18,17,5,766.4,0,0.0,0.294,
+Iran,Seyed Majid Hosseini,drawing,3,159,49,16,11,348.3,0,0.0,0.688,
+Iran,Seyed Majid Hosseini,trailing,2,183,59,28,17,701.5,0,0.0,0.607,
+Japan,Ao Tanaka,drawing,3,84,21,11,5,233.9,1,0.872618,0.455,0.873
+Japan,Ao Tanaka,leading,1,38,10,7,5,123.7,0,0.0,0.714,
+Japan,Ao Tanaka,trailing,2,119,37,10,2,228.6,0,0.0,0.2,
+Japan,Ayase Ueda,drawing,1,83,11,2,1,47.8,0,0.0,0.5,
+Japan,Daichi Kamada,drawing,4,299,69,21,15,337.3,2,0.19024,0.714,0.095
+Japan,Daichi Kamada,leading,3,50,10,3,0,57.4,1,0.039048,0.0,0.039
+Japan,Daichi Kamada,trailing,3,117,25,7,7,115.0,3,0.192004,1.0,0.064
+Japan,Daizen Maeda,drawing,3,98,11,3,1,72.7,1,0.458749,0.333,0.459
+Japan,Daizen Maeda,leading,2,26,1,0,0,0.0,0,0.0,,
+Japan,Daizen Maeda,trailing,2,59,6,0,0,0.0,1,0.077102,,0.077
+Japan,Hidemasa Morita,drawing,3,375,109,34,25,681.1,2,0.149454,0.735,0.075
+Japan,Hidemasa Morita,leading,2,77,21,11,7,233.2,1,0.04114,0.636,0.041
+Japan,Hidemasa Morita,trailing,2,101,31,10,5,173.0,0,0.0,0.5,
+Japan,Hiroki Ito,drawing,1,113,43,13,8,358.8,0,0.0,0.615,
+Japan,Hiroki Ito,trailing,1,52,20,3,3,44.8,0,0.0,1.0,
+Japan,Hiroki Sakai,drawing,2,93,30,13,5,363.1,0,0.0,0.385,
+Japan,Hiroki Sakai,trailing,1,71,16,10,9,218.4,1,0.287729,0.9,0.288
+Japan,Junya Ito,drawing,4,218,61,14,4,425.3,1,0.042145,0.286,0.042
+Japan,Junya Ito,leading,3,73,15,3,0,80.7,0,0.0,0.0,
+Japan,Junya Ito,trailing,3,111,22,5,3,97.3,1,0.068451,0.6,0.068
+Japan,Kaoru Mitoma,drawing,4,153,42,10,2,234.5,2,0.837634,0.2,0.419
+Japan,Kaoru Mitoma,leading,2,71,12,6,2,101.4,0,0.0,0.333,
+Japan,Kaoru Mitoma,trailing,3,67,19,2,2,25.0,0,0.0,1.0,
+Japan,Ko Itakura,drawing,3,205,65,22,17,494.3,1,0.077747,0.773,0.078
+Japan,Ko Itakura,leading,2,20,6,2,0,31.1,1,0.050481,0.0,0.05
+Japan,Ko Itakura,trailing,3,149,40,10,10,172.6,1,0.034016,1.0,0.034
+Japan,Maya Yoshida,drawing,4,438,145,48,38,928.5,1,0.7835,0.792,0.784
+Japan,Maya Yoshida,leading,3,50,11,7,3,230.1,0,0.0,0.429,
+Japan,Maya Yoshida,trailing,3,191,71,32,24,814.0,0,0.0,0.75,
+Japan,Miki Yamane,drawing,1,85,33,11,5,225.0,0,0.0,0.455,
+Japan,Ritsu Doan,drawing,4,229,44,12,8,216.0,2,0.071687,0.667,0.036
+Japan,Ritsu Doan,leading,3,68,12,4,1,48.9,0,0.0,0.25,
+Japan,Ritsu Doan,trailing,2,16,1,0,0,0.0,2,0.505529,,0.253
+Japan,Shogo Taniguchi,drawing,2,159,56,26,24,394.2,2,0.174488,0.923,0.087
+Japan,Shogo Taniguchi,leading,2,26,11,7,3,175.2,0,0.0,0.429,
+Japan,Shogo Taniguchi,trailing,1,56,19,10,9,142.7,0,0.0,0.9,
+Japan,Shūichi Gonda,drawing,4,154,58,40,17,2113.9,0,0.0,0.425,
+Japan,Shūichi Gonda,leading,3,38,16,15,3,981.1,0,0.0,0.2,
+Japan,Shūichi Gonda,trailing,3,109,39,27,18,853.4,0,0.0,0.667,
+Japan,Takefusa Kubo,drawing,2,51,5,1,0,16.5,0,0.0,0.0,
+Japan,Takefusa Kubo,trailing,2,56,8,3,2,50.5,0,0.0,0.667,
+Japan,Takehiro Tomiyasu,drawing,2,192,70,28,16,753.6,0,0.0,0.571,
+Japan,Takehiro Tomiyasu,leading,3,36,10,6,2,182.1,0,0.0,0.333,
+Japan,Takehiro Tomiyasu,trailing,1,50,18,7,7,146.3,0,0.0,1.0,
+Japan,Takuma Asano,drawing,3,123,18,3,2,49.9,4,0.949032,0.667,0.237
+Japan,Takuma Asano,leading,2,53,9,2,0,35.1,1,0.131218,0.0,0.131
+Japan,Takuma Asano,trailing,2,34,2,1,1,12.5,4,0.199299,1.0,0.05
+Japan,Takumi Minamino,drawing,2,57,15,4,2,131.9,2,0.820176,0.5,0.41
+Japan,Takumi Minamino,leading,1,13,2,1,0,25.4,0,0.0,0.0,
+Japan,Takumi Minamino,trailing,2,29,7,2,0,44.3,1,0.013785,0.0,0.014
+Japan,Wataru Endo,drawing,3,459,132,39,23,723.8,6,0.181401,0.59,0.03
+Japan,Wataru Endo,leading,3,48,11,6,4,120.8,0,0.0,0.667,
+Japan,Wataru Endo,trailing,2,160,44,16,10,372.6,0,0.0,0.625,
+Japan,Yuki Soma,drawing,1,92,20,5,3,120.0,3,0.134897,0.6,0.045
+Japan,Yuki Soma,trailing,1,1,0,0,0,0.0,0,0.0,,
+Japan,Yuto Nagatomo,drawing,4,248,83,32,20,621.4,0,0.0,0.625,
+Japan,Yuto Nagatomo,leading,1,21,8,5,1,174.0,0,0.0,0.2,
+Japan,Yuto Nagatomo,trailing,2,63,17,8,2,208.1,0,0.0,0.25,
+Mexico,Carlos Alberto Rodríguez Gómez,drawing,1,70,20,9,7,193.9,0,0.0,0.778,
+Mexico,Carlos Alberto Rodríguez Gómez,leading,1,37,9,3,0,107.4,0,0.0,0.0,
+Mexico,Carlos Uriel Antuna Romero,drawing,2,25,5,0,0,0.0,1,0.040039,,0.04
+Mexico,Carlos Uriel Antuna Romero,leading,1,36,7,1,0,20.0,1,0.268703,0.0,0.269
+Mexico,Carlos Uriel Antuna Romero,trailing,1,33,6,0,0,0.0,0,0.0,,
+Mexico,César Jasib Montes Castro,drawing,3,434,143,53,35,1360.5,1,0.098895,0.66,0.099
+Mexico,César Jasib Montes Castro,leading,1,39,14,8,5,231.3,0,0.0,0.625,
+Mexico,César Jasib Montes Castro,trailing,1,98,35,12,10,233.6,0,0.0,0.833,
+Mexico,Edson Omar Álvarez Velázquez,drawing,2,290,93,32,15,873.7,0,0.0,0.469,
+Mexico,Edson Omar Álvarez Velázquez,leading,1,53,16,3,3,41.7,1,0.013688,1.0,0.014
+Mexico,Ernesto Alexis Vega Rojas,drawing,3,289,54,16,8,373.9,9,0.692009,0.5,0.077
+Mexico,Ernesto Alexis Vega Rojas,trailing,1,1,0,0,0,0.0,0,0.0,,
+Mexico,Francisco Guillermo Ochoa Magaña,drawing,3,201,81,51,39,1595.5,0,0.0,0.765,
+Mexico,Francisco Guillermo Ochoa Magaña,leading,1,43,18,14,9,652.1,0,0.0,0.643,
+Mexico,Francisco Guillermo Ochoa Magaña,trailing,1,22,9,4,3,108.1,0,0.0,0.75,
+Mexico,Henry Josué Martín Mex,drawing,2,117,20,3,0,39.4,2,0.352443,0.0,0.176
+Mexico,Henry Josué Martín Mex,leading,1,30,2,0,0,0.0,2,0.31623,,0.158
+Mexico,Hirving Rodrigo Lozano Bahena,drawing,3,356,58,19,8,414.7,3,0.071262,0.421,0.024
+Mexico,Hirving Rodrigo Lozano Bahena,leading,1,81,15,8,4,164.1,3,0.169144,0.5,0.056
+Mexico,Hirving Rodrigo Lozano Bahena,trailing,1,5,1,0,0,0.0,0,0.0,,
+Mexico,Héctor Alfredo Moreno Herrera,drawing,3,422,145,58,43,1306.9,1,0.17665,0.741,0.177
+Mexico,Héctor Alfredo Moreno Herrera,leading,1,42,19,10,8,265.5,0,0.0,0.8,
+Mexico,Héctor Alfredo Moreno Herrera,trailing,1,76,27,12,8,198.3,0,0.0,0.667,
+Mexico,Héctor Miguel Herrera López,drawing,2,178,52,12,7,290.0,0,0.0,0.583,
+Mexico,Héctor Miguel Herrera López,trailing,1,73,23,4,3,68.8,0,0.0,0.75,
+Mexico,Jesús Daniel Gallardo Vasconcelos,drawing,3,315,101,38,16,837.9,1,0.064301,0.421,0.064
+Mexico,Jesús Daniel Gallardo Vasconcelos,leading,1,60,25,10,4,211.6,0,0.0,0.4,
+Mexico,Jesús Daniel Gallardo Vasconcelos,trailing,1,52,12,2,1,25.1,0,0.0,0.5,
+Mexico,Jorge Eduardo Sánchez Ramos,drawing,2,224,75,28,20,642.7,1,0.006972,0.714,0.007
+Mexico,Jorge Eduardo Sánchez Ramos,leading,1,42,11,6,5,131.0,0,0.0,0.833,
+Mexico,José Andrés Guardado Hernández,drawing,1,59,16,6,2,128.7,0,0.0,0.333,
+Mexico,Kevin Nahin Álvarez Campos,drawing,1,72,17,2,2,42.9,0,0.0,1.0,
+Mexico,Kevin Nahin Álvarez Campos,leading,1,14,7,5,2,84.4,0,0.0,0.4,
+Mexico,Kevin Nahin Álvarez Campos,trailing,1,1,0,0,0,0.0,0,0.0,,
+Mexico,Luis Gerardo Chávez Magallón,drawing,3,363,106,38,28,812.0,7,0.106651,0.737,0.015
+Mexico,Luis Gerardo Chávez Magallón,leading,1,78,28,13,5,312.8,3,0.109001,0.385,0.036
+Mexico,Luis Gerardo Chávez Magallón,trailing,1,45,10,3,0,82.5,0,0.0,0.0,
+Mexico,Néstor Alejandro Araújo Razo,drawing,1,95,31,17,11,458.9,0,0.0,0.647,
+Mexico,Néstor Alejandro Araújo Razo,trailing,1,58,25,7,6,151.7,0,0.0,0.857,
+Mexico,Orbelín Pineda Alvarado,drawing,1,98,17,7,6,130.9,3,0.419014,0.857,0.14
+Mexico,Orbelín Pineda Alvarado,leading,1,54,9,3,1,79.1,1,0.086003,0.333,0.086
+Mexico,Raúl Alonso Jiménez Rodríguez,drawing,1,27,9,6,4,143.4,0,0.0,0.667,
+Mexico,Raúl Alonso Jiménez Rodríguez,leading,1,29,9,3,1,65.7,0,0.0,0.333,
+Mexico,Raúl Alonso Jiménez Rodríguez,trailing,1,44,14,4,2,90.7,0,0.0,0.5,
+Mexico,Roberto Carlos Alvarado Hernández,trailing,1,49,11,3,0,38.1,0,0.0,0.0,
+Mexico,Rogelio Gabriel Funes Mori,leading,1,10,0,0,0,0.0,1,0.066645,,0.067
+Mexico,Érick Gabriel Gutiérrez Galaviz,drawing,1,34,6,1,0,44.1,0,0.0,0.0,
+Mexico,Érick Gabriel Gutiérrez Galaviz,trailing,1,71,24,6,3,99.5,0,0.0,0.5,
+Morocco,Abdelhamid Sabiri,drawing,5,128,32,6,2,133.4,2,0.787695,0.333,0.394
+Morocco,Abdelhamid Sabiri,leading,2,102,26,6,2,186.0,2,0.119189,0.333,0.06
+Morocco,Abdelhamid Sabiri,trailing,1,12,0,0,0,0.0,0,0.0,,
+Morocco,Abderrazak Hamdallah,drawing,1,14,1,0,0,0.0,0,0.0,,
+Morocco,Abderrazak Hamdallah,leading,2,62,9,3,2,45.4,1,0.036753,0.667,0.037
+Morocco,Abderrazak Hamdallah,trailing,1,29,6,1,0,27.1,1,0.506244,0.0,0.506
+Morocco,Abdessamad Ezzalzouli,drawing,2,105,12,5,3,122.7,0,0.0,0.6,
+Morocco,Abdessamad Ezzalzouli,trailing,1,20,4,0,0,0.0,1,0.059507,,0.06
+Morocco,Achraf Dari,drawing,2,79,26,14,12,328.0,0,0.0,0.857,
+Morocco,Achraf Dari,leading,1,23,7,6,3,214.6,0,0.0,0.5,
+Morocco,Achraf Dari,trailing,2,234,74,33,29,554.6,1,0.417838,0.879,0.418
+Morocco,Achraf Hakimi Mouh,drawing,7,641,201,68,42,1311.8,4,0.899,0.618,0.225
+Morocco,Achraf Hakimi Mouh,leading,2,242,66,26,16,630.2,0,0.0,0.615,
+Morocco,Achraf Hakimi Mouh,trailing,2,377,113,23,18,478.5,1,0.020597,0.783,0.021
+Morocco,Anass Zaroury,trailing,1,39,12,1,1,18.6,0,0.0,1.0,
+Morocco,Azzedine Ounahi,drawing,6,503,128,17,10,331.3,1,0.023304,0.588,0.023
+Morocco,Azzedine Ounahi,leading,3,197,41,15,7,355.0,1,0.03288,0.467,0.033
+Morocco,Azzedine Ounahi,trailing,2,338,98,33,26,593.3,4,0.188516,0.788,0.047
+Morocco,Badr Banoun,drawing,1,2,0,0,0,0.0,1,0.7835,,0.784
+Morocco,Badr Banoun,leading,1,7,0,0,0,0.0,0,0.0,,
+Morocco,Badr Banoun,trailing,1,72,21,5,5,83.2,0,0.0,1.0,
+Morocco,Bilal El Khannous,drawing,1,76,22,5,4,107.2,0,0.0,0.8,
+Morocco,Bilal El Khannous,trailing,1,17,2,1,0,10.1,0,0.0,0.0,
+Morocco,Hakim Ziyech,drawing,7,644,146,58,25,1392.4,8,0.990313,0.431,0.124
+Morocco,Hakim Ziyech,leading,3,221,50,15,6,346.7,1,0.022624,0.4,0.023
+Morocco,Hakim Ziyech,trailing,2,351,104,35,19,692.9,2,0.08288,0.543,0.041
+Morocco,Ilias Chair,trailing,1,61,15,2,1,65.0,0,0.0,0.5,
+Morocco,Jawad El Yamiq,drawing,4,158,50,24,14,558.7,0,0.0,0.583,
+Morocco,Jawad El Yamiq,leading,3,42,10,6,5,142.6,0,0.0,0.833,
+Morocco,Jawad El Yamiq,trailing,2,286,100,28,24,424.9,1,0.064088,0.857,0.064
+Morocco,Munir Mohand Mohamedi,drawing,1,46,18,7,4,255.8,0,0.0,0.571,
+Morocco,Munir Mohand Mohamedi,leading,1,16,9,9,3,624.8,0,0.0,0.333,
+Morocco,Nayef Aguerd,drawing,4,323,112,44,32,1217.7,1,0.251416,0.727,0.251
+Morocco,Nayef Aguerd,leading,2,130,42,21,16,478.4,0,0.0,0.762,
+Morocco,Noussair Mazraoui,drawing,5,286,81,31,25,690.7,4,0.151342,0.806,0.038
+Morocco,Noussair Mazraoui,leading,2,81,21,9,5,154.8,0,0.0,0.556,
+Morocco,Noussair Mazraoui,trailing,1,65,19,3,2,102.2,0,0.0,0.667,
+Morocco,Romain Saïss,drawing,6,416,143,67,47,1845.6,1,0.564952,0.701,0.565
+Morocco,Romain Saïss,leading,3,130,39,18,10,592.9,0,0.0,0.556,
+Morocco,Romain Saïss,trailing,1,34,11,6,5,120.1,0,0.0,0.833,
+Morocco,Selim Amallah,drawing,4,310,48,7,4,194.2,2,0.114638,0.571,0.057
+Morocco,Selim Amallah,leading,2,40,4,3,0,44.7,0,0.0,0.0,
+Morocco,Selim Amallah,trailing,2,176,36,12,6,265.5,0,0.0,0.5,
+Morocco,Sofiane Boufal,drawing,7,447,82,27,20,588.3,5,0.219588,0.741,0.044
+Morocco,Sofiane Boufal,leading,2,149,22,10,8,204.0,1,0.061586,0.8,0.062
+Morocco,Sofiane Boufal,trailing,2,127,30,8,4,152.4,1,0.035301,0.5,0.035
+Morocco,Sofyan Amrabat,drawing,7,532,152,45,32,819.6,0,0.0,0.711,
+Morocco,Sofyan Amrabat,leading,3,205,55,18,12,441.3,0,0.0,0.667,
+Morocco,Sofyan Amrabat,trailing,2,360,116,49,39,980.7,1,0.020691,0.796,0.021
+Morocco,Walid Cheddira,drawing,1,29,4,2,2,20.6,2,0.249389,1.0,0.125
+Morocco,Walid Cheddira,leading,1,50,4,2,1,36.5,0,0.0,0.5,
+Morocco,Yahia Attiyat allah,drawing,5,218,70,36,19,935.1,0,0.0,0.528,
+Morocco,Yahia Attiyat allah,leading,2,56,12,9,5,241.1,1,0.082217,0.556,0.082
+Morocco,Yahia Attiyat allah,trailing,2,185,56,15,10,325.4,1,0.249369,0.667,0.249
+Morocco,Yahya Jabrane,leading,2,17,4,0,0,0.0,0,0.0,,
+Morocco,Yassine Bounou,drawing,6,270,109,77,45,3417.8,0,0.0,0.584,
+Morocco,Yassine Bounou,leading,2,118,49,36,19,1878.4,0,0.0,0.528,
+Morocco,Yassine Bounou,trailing,2,139,52,31,27,692.9,0,0.0,0.871,
+Morocco,Youssef En-Nesyri,drawing,7,285,47,12,3,239.8,5,0.443843,0.25,0.089
+Morocco,Youssef En-Nesyri,leading,2,137,20,5,1,92.5,2,0.198528,0.2,0.099
+Morocco,Youssef En-Nesyri,trailing,2,71,9,0,0,0.0,4,0.403503,,0.101
+Morocco,Zakaria Aboukhlal,leading,3,63,10,6,3,119.6,2,0.57214,0.5,0.286
+Morocco,Zakaria Aboukhlal,trailing,1,26,3,1,1,18.2,1,0.024939,1.0,0.025
+Netherlands,Andries Noppert,drawing,5,212,80,61,49,1839.8,0,0.0,0.803,
+Netherlands,Andries Noppert,leading,4,219,83,59,40,1943.4,0,0.0,0.678,
+Netherlands,Andries Noppert,trailing,1,71,28,27,25,703.4,0,0.0,0.926,
+Netherlands,Cody Mathès Gakpo,drawing,5,279,65,18,10,321.9,4,0.509261,0.556,0.127
+Netherlands,Cody Mathès Gakpo,leading,4,281,68,14,7,298.5,1,0.053106,0.5,0.053
+Netherlands,Cody Mathès Gakpo,trailing,1,92,21,9,2,191.9,0,0.0,0.222,
+Netherlands,Daley Blind,drawing,5,407,128,45,33,1064.8,3,0.198072,0.733,0.066
+Netherlands,Daley Blind,leading,4,480,160,43,32,957.7,2,0.323601,0.744,0.162
+Netherlands,Daley Blind,trailing,1,48,16,4,3,82.1,0,0.0,0.75,
+Netherlands,Davy Klaassen,drawing,4,107,35,4,4,54.8,1,0.083646,1.0,0.084
+Netherlands,Davy Klaassen,leading,4,159,46,13,5,233.1,1,0.348149,0.385,0.348
+Netherlands,Denzel Dumfries,drawing,5,315,93,21,7,455.5,0,0.0,0.333,
+Netherlands,Denzel Dumfries,leading,4,370,104,34,16,772.0,1,0.235924,0.471,0.236
+Netherlands,Denzel Dumfries,trailing,1,93,21,7,4,249.7,1,0.047395,0.571,0.047
+Netherlands,Frenkie de Jong,drawing,5,544,172,38,35,591.9,1,0.032602,0.921,0.033
+Netherlands,Frenkie de Jong,leading,4,441,142,40,30,680.3,1,0.688391,0.75,0.688
+Netherlands,Frenkie de Jong,trailing,1,155,50,10,8,156.5,0,0.0,0.8,
+Netherlands,Jurriën David Norman Timber,drawing,4,382,114,33,26,556.1,0,0.0,0.788,
+Netherlands,Jurriën David Norman Timber,leading,3,483,147,48,35,939.0,0,0.0,0.729,
+Netherlands,Jurriën David Norman Timber,trailing,1,154,55,23,19,467.0,0,0.0,0.826,
+Netherlands,Kenneth Taylor,leading,1,26,9,1,1,15.5,0,0.0,1.0,
+Netherlands,Luuk de Jong,drawing,1,43,6,1,1,15.5,2,0.836407,1.0,0.418
+Netherlands,Luuk de Jong,trailing,1,24,5,2,1,38.8,0,0.0,0.5,
+Netherlands,Marten de Roon,drawing,4,186,56,18,12,273.1,0,0.0,0.667,
+Netherlands,Marten de Roon,leading,3,189,63,17,5,336.2,0,0.0,0.294,
+Netherlands,Marten de Roon,trailing,1,16,3,1,1,19.8,0,0.0,1.0,
+Netherlands,Matthijs de Ligt,drawing,1,134,44,16,12,338.4,0,0.0,0.75,
+Netherlands,Matthijs de Ligt,leading,2,4,1,0,0,0.0,0,0.0,,
+Netherlands,Memphis Depay,drawing,5,273,60,8,2,184.9,4,0.421688,0.25,0.105
+Netherlands,Memphis Depay,leading,4,223,49,6,6,131.2,6,0.760168,1.0,0.127
+Netherlands,Memphis Depay,trailing,1,78,18,5,1,108.5,0,0.0,0.2,
+Netherlands,Nathan Aké,drawing,5,532,179,62,44,1427.2,0,0.0,0.71,
+Netherlands,Nathan Aké,leading,4,418,132,49,46,800.8,0,0.0,0.939,
+Netherlands,Nathan Aké,trailing,1,115,41,12,9,281.6,0,0.0,0.75,
+Netherlands,Noa Lang,drawing,1,15,3,2,0,30.9,0,0.0,0.0,
+Netherlands,Steven Berghuis,drawing,3,212,64,25,15,557.0,3,0.852124,0.6,0.284
+Netherlands,Steven Berghuis,leading,1,106,33,4,3,99.3,1,0.010698,0.75,0.011
+Netherlands,Steven Berghuis,trailing,1,106,31,13,11,215.7,2,0.112709,0.846,0.056
+Netherlands,Steven Bergwijn,drawing,3,131,31,6,4,98.5,1,0.089517,0.667,0.09
+Netherlands,Steven Bergwijn,leading,2,145,34,1,0,15.9,1,0.250421,0.0,0.25
+Netherlands,Steven Bergwijn,trailing,1,20,6,1,1,10.7,0,0.0,1.0,
+Netherlands,Teun Koopmeiners,drawing,3,92,20,6,4,116.9,2,0.828705,0.667,0.414
+Netherlands,Teun Koopmeiners,leading,4,250,66,22,15,487.9,1,0.044726,0.682,0.045
+Netherlands,Teun Koopmeiners,trailing,1,101,34,11,8,290.2,0,0.0,0.727,
+Netherlands,Vincent Janssen,drawing,1,65,12,2,1,21.7,2,0.155517,0.5,0.078
+Netherlands,Vincent Janssen,leading,1,47,8,0,0,0.0,0,0.0,,
+Netherlands,Virgil van Dijk,drawing,5,505,175,66,48,1574.6,3,0.897582,0.727,0.299
+Netherlands,Virgil van Dijk,leading,4,354,123,59,49,1293.2,1,0.080367,0.831,0.08
+Netherlands,Virgil van Dijk,trailing,1,130,45,23,19,485.7,0,0.0,0.826,
+Netherlands,Wout Weghorst,drawing,2,45,8,5,3,93.2,1,0.7835,0.6,0.784
+Netherlands,Wout Weghorst,leading,2,27,3,1,0,15.9,0,0.0,0.0,
+Netherlands,Wout Weghorst,trailing,1,27,5,2,1,31.3,2,0.26701,0.5,0.134
+Netherlands,Xavi Simons,leading,1,38,10,2,2,28.5,0,0.0,1.0,
+Poland,Arkadiusz Milik,drawing,2,68,14,2,1,74.6,0,0.0,0.5,
+Poland,Arkadiusz Milik,leading,1,35,8,2,0,27.5,1,0.135197,0.0,0.135
+Poland,Arkadiusz Milik,trailing,1,40,11,2,1,45.5,0,0.0,0.5,
+Poland,Artur Jędrzejczyk,trailing,1,12,5,3,2,106.1,0,0.0,0.667,
+Poland,Bartosz Bereszyński,drawing,4,313,100,22,12,457.4,0,0.0,0.545,
+Poland,Bartosz Bereszyński,leading,1,50,15,9,4,233.1,0,0.0,0.444,
+Poland,Bartosz Bereszyński,trailing,2,107,35,11,9,201.3,0,0.0,0.818,
+Poland,Damian Szymański,trailing,1,28,9,1,1,11.1,0,0.0,1.0,
+Poland,Grzegorz Krychowiak,drawing,4,289,80,25,13,641.7,1,0.021703,0.52,0.022
+Poland,Grzegorz Krychowiak,leading,1,45,14,10,6,315.0,0,0.0,0.6,
+Poland,Grzegorz Krychowiak,trailing,2,118,33,11,7,232.3,0,0.0,0.636,
+Poland,Jakub Kamiński,drawing,3,153,29,10,2,225.5,3,0.223504,0.2,0.075
+Poland,Jakub Kamiński,leading,1,51,13,3,3,47.3,0,0.0,1.0,
+Poland,Jakub Kamiński,trailing,2,87,17,1,0,17.8,1,0.03899,0.0,0.039
+Poland,Jakub Piotr Kiwior,drawing,4,383,134,53,35,1690.5,1,0.124499,0.66,0.124
+Poland,Jakub Piotr Kiwior,leading,1,37,14,5,2,189.2,0,0.0,0.4,
+Poland,Jakub Piotr Kiwior,trailing,2,153,53,24,18,621.8,0,0.0,0.75,
+Poland,Jan Bednarek,trailing,1,16,6,4,4,73.1,0,0.0,1.0,
+Poland,Kamil Glik,drawing,4,270,86,22,16,567.6,1,0.06558,0.727,0.066
+Poland,Kamil Glik,leading,1,25,8,2,2,32.4,0,0.0,1.0,
+Poland,Kamil Glik,trailing,2,118,36,8,6,151.7,2,0.085052,0.75,0.043
+Poland,Kamil Grosicki,trailing,1,21,6,0,0,0.0,0,0.0,,
+Poland,Karol Świderski,drawing,1,46,8,2,2,46.2,0,0.0,1.0,
+Poland,Krystian Bielik,drawing,3,199,54,15,11,285.7,2,0.136829,0.733,0.068
+Poland,Krystian Bielik,leading,1,66,18,4,3,72.2,0,0.0,0.75,
+Poland,Krystian Bielik,trailing,2,95,26,10,9,229.7,0,0.0,0.9,
+Poland,Krzysztof Piątek,leading,1,49,4,2,0,44.5,1,0.028195,0.0,0.028
+Poland,Krzysztof Piątek,trailing,1,9,2,1,0,15.4,0,0.0,0.0,
+Poland,Matty Cash,drawing,4,310,97,29,18,698.2,1,0.023506,0.621,0.024
+Poland,Matty Cash,leading,1,47,16,5,3,110.3,0,0.0,0.6,
+Poland,Matty Cash,trailing,2,129,43,13,7,279.8,0,0.0,0.538,
+Poland,Michał Skóraś,trailing,1,38,9,1,0,15.5,1,0.026707,0.0,0.027
+Poland,Nicola Zalewski,drawing,1,68,13,1,1,14.5,0,0.0,1.0,
+Poland,Nicola Zalewski,trailing,1,36,5,2,2,24.0,0,0.0,1.0,
+Poland,Piotr Zieliński,drawing,4,294,89,22,13,496.7,3,0.583895,0.591,0.195
+Poland,Piotr Zieliński,leading,1,23,4,3,2,58.7,0,0.0,0.667,
+Poland,Piotr Zieliński,trailing,2,177,60,24,16,582.4,0,0.0,0.667,
+Poland,Przemysław Frankowski,drawing,4,204,44,12,9,194.4,1,0.043646,0.75,0.044
+Poland,Przemysław Frankowski,leading,1,60,18,5,2,171.9,0,0.0,0.4,
+Poland,Przemysław Frankowski,trailing,1,48,11,2,2,27.6,0,0.0,1.0,
+Poland,Robert Lewandowski,drawing,4,338,59,17,6,387.5,4,0.916345,0.353,0.229
+Poland,Robert Lewandowski,leading,1,88,11,6,4,132.1,5,1.26048,0.667,0.252
+Poland,Robert Lewandowski,trailing,2,107,21,4,1,62.5,3,0.949093,0.25,0.316
+Poland,Sebastian Szymański,drawing,2,155,37,14,9,279.9,0,0.0,0.643,
+Poland,Sebastian Szymański,trailing,1,31,3,1,0,17.1,0,0.0,0.0,
+Poland,Wojciech Szczęsny,drawing,4,246,95,79,43,3992.0,0,0.0,0.544,
+Poland,Wojciech Szczęsny,leading,1,67,27,25,12,1385.6,0,0.0,0.48,
+Poland,Wojciech Szczęsny,trailing,2,62,24,16,7,754.6,0,0.0,0.438,
+Portugal,André Miguel Valente Silva,drawing,1,39,9,1,1,15.0,0,0.0,1.0,
+Portugal,André Miguel Valente Silva,trailing,1,8,2,0,0,0.0,0,0.0,,
+Portugal,António João Pereira Albuquerque Tavares Silva,drawing,1,107,36,9,9,133.4,0,0.0,1.0,
+Portugal,António João Pereira Albuquerque Tavares Silva,leading,1,57,18,6,6,85.8,0,0.0,1.0,
+Portugal,António João Pereira Albuquerque Tavares Silva,trailing,1,9,4,2,1,98.3,0,0.0,0.5,
+Portugal,Bernardo Mota Veiga de Carvalho e Silva,drawing,5,509,163,24,17,623.3,0,0.0,0.708,
+Portugal,Bernardo Mota Veiga de Carvalho e Silva,leading,3,212,58,11,8,251.3,0,0.0,0.727,
+Portugal,Bernardo Mota Veiga de Carvalho e Silva,trailing,2,209,71,19,15,406.1,1,0.109277,0.789,0.109
+Portugal,Bruno Miguel Borges Fernandes,drawing,4,399,112,31,21,815.1,3,0.05039,0.677,0.017
+Portugal,Bruno Miguel Borges Fernandes,leading,3,264,71,21,17,362.3,3,0.916915,0.81,0.306
+Portugal,Bruno Miguel Borges Fernandes,trailing,1,135,48,14,11,332.1,2,0.064032,0.786,0.032
+Portugal,Cristiano Ronaldo dos Santos Aveiro,drawing,3,229,61,3,1,60.7,8,1.846313,0.333,0.231
+Portugal,Cristiano Ronaldo dos Santos Aveiro,leading,4,102,22,7,3,128.1,2,0.03595,0.429,0.018
+Portugal,Cristiano Ronaldo dos Santos Aveiro,trailing,1,40,7,1,1,13.8,1,0.056996,1.0,0.057
+Portugal,Danilo Luís Hélio Pereira,drawing,1,199,68,30,26,621.0,0,0.0,0.867,
+Portugal,Danilo Luís Hélio Pereira,leading,1,44,12,8,6,181.6,0,0.0,0.75,
+Portugal,Diogo Meireles Costa,drawing,5,245,93,63,44,1986.6,0,0.0,0.698,
+Portugal,Diogo Meireles Costa,leading,4,151,57,45,20,2336.7,0,0.0,0.444,
+Portugal,Diogo Meireles Costa,trailing,2,18,9,9,7,236.2,0,0.0,0.778,
+Portugal,Gonçalo Matias Ramos,drawing,2,58,5,0,0,0.0,1,0.101021,,0.101
+Portugal,Gonçalo Matias Ramos,leading,3,125,19,5,4,73.9,5,1.464129,0.8,0.293
+Portugal,Gonçalo Matias Ramos,trailing,1,22,6,0,0,0.0,1,0.10594,,0.106
+Portugal,José Diogo Dalot Teixeira,drawing,3,210,71,23,15,633.2,1,0.036436,0.652,0.036
+Portugal,José Diogo Dalot Teixeira,leading,2,130,42,13,8,311.8,0,0.0,0.615,
+Portugal,José Diogo Dalot Teixeira,trailing,2,87,29,7,5,118.8,0,0.0,0.714,
+Portugal,João Félix Sequeira,drawing,4,320,72,11,4,188.3,8,0.572419,0.364,0.072
+Portugal,João Félix Sequeira,leading,3,148,38,12,6,218.4,1,0.043933,0.5,0.044
+Portugal,João Félix Sequeira,trailing,1,49,12,4,2,76.1,2,0.052856,0.5,0.026
+Portugal,João Maria Lobo Alves Palhinha Gonçalves,drawing,1,51,14,3,3,55.5,1,0.021024,1.0,0.021
+Portugal,João Maria Lobo Alves Palhinha Gonçalves,leading,2,51,13,3,1,54.0,0,0.0,0.333,
+Portugal,João Maria Lobo Alves Palhinha Gonçalves,trailing,1,12,3,1,0,48.0,0,0.0,0.0,
+Portugal,João Mário Naval da Costa Eduardo,drawing,1,126,36,4,3,71.7,0,0.0,0.75,
+Portugal,João Mário Naval da Costa Eduardo,leading,2,29,4,0,0,0.0,0,0.0,,
+Portugal,João Pedro Cavaco Cancelo,drawing,3,529,169,41,31,730.7,1,0.0443,0.756,0.044
+Portugal,João Pedro Cavaco Cancelo,leading,3,139,45,11,5,269.1,1,0.010523,0.455,0.011
+Portugal,João Pedro Cavaco Cancelo,trailing,2,159,55,20,11,437.4,0,0.0,0.55,
+Portugal,Kléper Laveran Lima Ferreira,drawing,4,489,172,63,45,1659.5,0,0.0,0.714,
+Portugal,Kléper Laveran Lima Ferreira,leading,3,210,65,30,18,845.4,2,0.185798,0.6,0.093
+Portugal,Kléper Laveran Lima Ferreira,trailing,2,167,58,26,20,458.6,1,0.149266,0.769,0.149
+Portugal,Matheus Luiz Nunes,drawing,1,78,21,5,3,120.4,1,0.007849,0.6,0.008
+Portugal,Matheus Luiz Nunes,leading,2,46,12,2,1,51.4,0,0.0,0.5,
+Portugal,Nuno Mendes,drawing,1,100,34,11,7,288.6,0,0.0,0.636,
+Portugal,Otávio Edmilson da Silva Monteiro,drawing,3,275,84,18,8,500.2,2,0.071025,0.444,0.036
+Portugal,Otávio Edmilson da Silva Monteiro,leading,1,101,26,5,3,108.7,1,0.032515,0.6,0.033
+Portugal,Otávio Edmilson da Silva Monteiro,trailing,1,81,21,12,8,240.5,0,0.0,0.667,
+Portugal,Rafael Alexandre Conceição Leão,drawing,2,51,10,1,0,17.2,1,0.029762,0.0,0.03
+Portugal,Rafael Alexandre Conceição Leão,leading,3,100,22,4,2,67.5,4,0.218622,0.5,0.055
+Portugal,Rafael Alexandre Conceição Leão,trailing,2,58,13,4,1,88.2,0,0.0,0.25,
+Portugal,Raphaël Adelino José Guerreiro,drawing,4,301,111,21,16,344.6,1,0.019216,0.762,0.019
+Portugal,Raphaël Adelino José Guerreiro,leading,3,204,72,24,20,428.3,2,0.380313,0.833,0.19
+Portugal,Raphaël Adelino José Guerreiro,trailing,1,21,8,0,0,0.0,0,0.0,,
+Portugal,Ricardo Jorge Luz Horta,drawing,1,79,17,5,2,93.6,3,0.458795,0.4,0.153
+Portugal,Ricardo Jorge Luz Horta,leading,2,52,16,3,0,72.9,0,0.0,0.0,
+Portugal,Ricardo Jorge Luz Horta,trailing,2,42,14,2,0,28.6,0,0.0,0.0,
+Portugal,Rúben Diogo Da Silva Neves,drawing,4,635,206,64,51,1368.5,2,0.087037,0.797,0.044
+Portugal,Rúben Diogo Da Silva Neves,leading,4,112,38,5,5,106.6,0,0.0,1.0,
+Portugal,Rúben Diogo Da Silva Neves,trailing,1,48,15,5,5,102.4,0,0.0,1.0,
+Portugal,Rúben Santos Gato Alves Dias,drawing,4,503,173,64,58,1068.9,0,0.0,0.906,
+Portugal,Rúben Santos Gato Alves Dias,leading,3,151,50,22,15,621.0,1,0.037503,0.682,0.038
+Portugal,Rúben Santos Gato Alves Dias,trailing,1,124,43,15,12,299.6,0,0.0,0.8,
+Portugal,Vitor Machado Ferreira,drawing,1,187,54,14,11,284.3,2,0.053871,0.786,0.027
+Portugal,Vitor Machado Ferreira,leading,2,68,20,3,3,38.5,0,0.0,1.0,
+Portugal,Vitor Machado Ferreira,trailing,1,108,35,10,8,174.4,0,0.0,0.8,
+Portugal,William Silva de Carvalho,drawing,4,280,90,27,24,454.6,1,0.048683,0.889,0.049
+Portugal,William Silva de Carvalho,leading,3,241,73,24,19,455.3,0,0.0,0.792,
+Portugal,William Silva de Carvalho,trailing,1,5,2,0,0,0.0,0,0.0,,
+Qatar,Abdelkarim Hassan Al Haj Fadlalla,drawing,3,95,24,13,6,433.4,2,0.076174,0.462,0.038
+Qatar,Abdelkarim Hassan Al Haj Fadlalla,trailing,3,429,134,49,35,1160.4,4,0.198741,0.714,0.05
+Qatar,Abdulaziz Hatem Mohammed Abdullah,drawing,2,23,6,2,0,49.2,0,0.0,0.0,
+Qatar,Abdulaziz Hatem Mohammed Abdullah,trailing,3,283,85,25,16,446.0,1,0.024496,0.64,0.024
+Qatar,Ahmed Alaa Eldin Abdelmotaal,trailing,1,8,2,0,0,0.0,0,0.0,,
+Qatar,Akram Hassan Afif,drawing,3,124,33,8,6,194.1,1,0.019991,0.75,0.02
+Qatar,Akram Hassan Afif,trailing,3,450,133,30,25,600.2,1,0.009109,0.833,0.009
+Qatar,Ali Assadalla Thaimn Qambar,trailing,1,71,23,2,1,33.7,0,0.0,0.5,
+Qatar,Almoez Ali Zainalabiddin Abdulla,drawing,3,100,12,3,1,45.2,0,0.0,0.333,
+Qatar,Almoez Ali Zainalabiddin Abdulla,trailing,3,178,34,3,2,60.4,3,0.483816,0.667,0.161
+Qatar,Assim Omer Al Haj Madibo,drawing,2,65,17,9,8,181.0,0,0.0,0.889,
+Qatar,Assim Omer Al Haj Madibo,trailing,2,199,54,15,10,317.7,0,0.0,0.667,
+Qatar,Bassam Hisham Al Rawi,drawing,1,21,9,6,3,141.4,0,0.0,0.5,
+Qatar,Bassam Hisham Al Rawi,trailing,1,145,48,23,17,644.8,0,0.0,0.739,
+Qatar,Boualem Khoukhi,drawing,3,109,36,19,13,543.0,0,0.0,0.684,
+Qatar,Boualem Khoukhi,trailing,3,476,158,65,49,1304.1,0,0.0,0.754,
+Qatar,Hassan Khalid Al Heidos,drawing,3,101,22,9,6,183.9,1,0.015713,0.667,0.016
+Qatar,Hassan Khalid Al Heidos,trailing,3,240,55,10,8,242.5,0,0.0,0.8,
+Qatar,Homam Alamin Ahmed,drawing,3,63,20,7,2,154.7,0,0.0,0.286,
+Qatar,Homam Alamin Ahmed,trailing,3,281,83,14,8,309.8,0,0.0,0.571,
+Qatar,Ismaeel Mohammad Mohammad,drawing,2,75,19,2,0,42.9,0,0.0,0.0,
+Qatar,Ismaeel Mohammad Mohammad,trailing,2,169,48,5,2,95.6,2,0.357907,0.4,0.179
+Qatar,Karim Boudiaf,drawing,2,74,20,6,5,112.8,0,0.0,0.833,
+Qatar,Karim Boudiaf,trailing,3,283,87,29,26,445.7,0,0.0,0.897,
+Qatar,Meshaal Aissa Barsham,drawing,2,73,31,17,7,755.0,0,0.0,0.412,
+Qatar,Meshaal Aissa Barsham,trailing,2,90,32,18,9,636.9,0,0.0,0.5,
+Qatar,Mohammed Muntari,trailing,3,97,19,2,1,25.1,3,0.184978,0.5,0.062
+Qatar,Mohammed Waed Abdulwahhab Al Bayati,trailing,2,53,12,2,1,40.0,0,0.0,0.5,
+Qatar,Mosaab Khoder Jibril,trailing,1,14,3,0,0,0.0,0,0.0,,
+Qatar,Pedro Miguel Correia,drawing,3,94,24,10,4,362.0,0,0.0,0.4,
+Qatar,Pedro Miguel Correia,trailing,3,288,91,32,14,1149.6,2,0.037067,0.438,0.019
+Qatar,Saad Abdullah Al Sheeb,drawing,1,8,2,1,0,61.4,0,0.0,0.0,
+Qatar,Saad Abdullah Al Sheeb,trailing,1,53,19,9,6,324.4,0,0.0,0.667,
+Qatar,Tarek Salman Salman,trailing,1,31,11,3,0,81.7,0,0.0,0.0,
+Saudi Arabia,Abdulelah Al Amri,drawing,2,110,38,26,17,801.5,0,0.0,0.654,
+Saudi Arabia,Abdulelah Al Amri,leading,1,4,1,1,0,56.2,0,0.0,0.0,
+Saudi Arabia,Abdulelah Al Amri,trailing,2,196,62,36,24,899.3,1,0.03782,0.667,0.038
+Saudi Arabia,Abdulelah Saad Hameed Al-Malki,drawing,2,86,25,8,6,167.6,0,0.0,0.75,
+Saudi Arabia,Abdulelah Saad Hameed Al-Malki,leading,1,36,7,2,0,59.4,0,0.0,0.0,
+Saudi Arabia,Abdulelah Saad Hameed Al-Malki,trailing,2,179,54,18,12,293.4,2,0.139399,0.667,0.07
+Saudi Arabia,Abdullah Mohammed Madu,drawing,1,6,3,2,1,31.5,0,0.0,0.5,
+Saudi Arabia,Abdullah Mohammed Madu,trailing,1,35,8,6,1,174.0,0,0.0,0.167,
+Saudi Arabia,Abdulrahman Al-Obood,trailing,2,79,13,2,1,36.2,1,0.041745,0.5,0.042
+Saudi Arabia,Ali Al Hassan,drawing,1,42,8,2,1,24.4,1,0.101544,0.5,0.102
+Saudi Arabia,Ali Albulayhi,drawing,3,117,37,15,11,264.5,0,0.0,0.733,
+Saudi Arabia,Ali Albulayhi,leading,1,20,6,2,0,83.9,0,0.0,0.0,
+Saudi Arabia,Ali Albulayhi,trailing,2,129,46,16,9,337.3,0,0.0,0.562,
+Saudi Arabia,Firas Tariq Nasser Al Albirakan,drawing,3,105,26,3,1,54.6,0,0.0,0.333,
+Saudi Arabia,Firas Tariq Nasser Al Albirakan,leading,1,47,7,2,1,21.6,0,0.0,0.5,
+Saudi Arabia,Firas Tariq Nasser Al Albirakan,trailing,3,177,36,6,3,113.6,2,0.124002,0.5,0.062
+Saudi Arabia,Haitham Mohammed Asiri,leading,1,19,2,0,0,0.0,0,0.0,,
+Saudi Arabia,Hassan Mohammed Al-Tambakti,drawing,2,49,13,6,3,205.2,0,0.0,0.5,
+Saudi Arabia,Hassan Mohammed Al-Tambakti,leading,1,30,6,4,3,112.3,0,0.0,0.75,
+Saudi Arabia,Hassan Mohammed Al-Tambakti,trailing,2,91,30,13,6,341.5,0,0.0,0.462,
+Saudi Arabia,Hattan Babhir,trailing,2,21,5,2,0,55.3,0,0.0,0.0,
+Saudi Arabia,Mohammed Al Burayk,drawing,1,78,26,12,9,278.2,1,0.012477,0.75,0.012
+Saudi Arabia,Mohammed Al Burayk,leading,1,8,1,0,0,0.0,0,0.0,,
+Saudi Arabia,Mohammed Al Burayk,trailing,1,72,21,7,4,178.2,1,0.357192,0.571,0.357
+Saudi Arabia,Mohammed Kanoo,drawing,3,171,44,14,10,258.9,3,0.159764,0.714,0.053
+Saudi Arabia,Mohammed Kanoo,leading,1,44,13,6,2,136.6,0,0.0,0.333,
+Saudi Arabia,Mohammed Kanoo,trailing,3,304,88,31,26,576.6,3,0.159684,0.839,0.053
+Saudi Arabia,Mohammed Khalil Al Owais,drawing,3,76,34,24,10,1217.1,0,0.0,0.417,
+Saudi Arabia,Mohammed Khalil Al Owais,leading,1,36,15,14,5,836.3,0,0.0,0.357,
+Saudi Arabia,Mohammed Khalil Al Owais,trailing,3,130,49,36,14,1810.4,0,0.0,0.389,
+Saudi Arabia,Nasser Al Dawsari,trailing,1,39,10,2,2,20.5,0,0.0,1.0,
+Saudi Arabia,Nawaf Shaker Al Abid,drawing,1,3,0,0,0,0.0,1,0.040064,,0.04
+Saudi Arabia,Nawaf Shaker Al Abid,leading,1,38,4,0,0,0.0,0,0.0,,
+Saudi Arabia,Nawaf Shaker Al Abid,trailing,2,138,34,5,3,71.5,1,0.066046,0.6,0.066
+Saudi Arabia,Riyadh Sharahili,drawing,1,28,6,1,1,10.0,0,0.0,1.0,
+Saudi Arabia,Riyadh Sharahili,trailing,1,58,13,4,2,91.9,0,0.0,0.5,
+Saudi Arabia,Saleh Khalid Al Shehri,drawing,3,117,15,2,1,38.5,2,0.066438,0.5,0.033
+Saudi Arabia,Saleh Khalid Al Shehri,leading,1,24,3,1,0,25.9,0,0.0,0.0,
+Saudi Arabia,Saleh Khalid Al Shehri,trailing,3,146,28,3,2,68.4,1,0.080592,0.667,0.081
+Saudi Arabia,Salem Mohammed Al Dawsari,drawing,3,142,32,9,6,141.0,1,0.032805,0.667,0.033
+Saudi Arabia,Salem Mohammed Al Dawsari,leading,1,45,11,4,2,84.4,0,0.0,0.5,
+Saudi Arabia,Salem Mohammed Al Dawsari,trailing,3,289,74,17,11,279.9,6,1.53125,0.647,0.255
+Saudi Arabia,Salman Mohammed Al Faraj,drawing,1,11,1,0,0,0.0,0,0.0,,
+Saudi Arabia,Salman Mohammed Al Faraj,trailing,1,54,14,4,1,119.4,0,0.0,0.25,
+Saudi Arabia,Sami Khalil Al Naji,drawing,1,55,15,2,1,31.5,0,0.0,0.5,
+Saudi Arabia,Sami Khalil Al Naji,trailing,1,21,6,4,3,99.2,0,0.0,0.75,
+Saudi Arabia,Saud Abdullah Abdul Hamid,drawing,3,121,34,17,9,289.0,0,0.0,0.529,
+Saudi Arabia,Saud Abdullah Abdul Hamid,leading,1,39,7,3,1,45.7,0,0.0,0.333,
+Saudi Arabia,Saud Abdullah Abdul Hamid,trailing,3,248,78,30,22,623.5,1,0.005914,0.733,0.006
+Saudi Arabia,Sultan Abdullah Salim Al Ghannam,drawing,1,54,18,12,7,229.7,0,0.0,0.583,
+Saudi Arabia,Sultan Abdullah Salim Al Ghannam,leading,1,17,4,1,0,61.4,0,0.0,0.0,
+Saudi Arabia,Sultan Abdullah Salim Al Ghannam,trailing,2,109,33,10,5,284.3,2,0.244815,0.5,0.122
+Saudi Arabia,Yasir Gharsan Al Shahrani,drawing,1,9,2,1,0,12.0,0,0.0,0.0,
+Saudi Arabia,Yasir Gharsan Al Shahrani,leading,1,32,6,5,1,126.7,0,0.0,0.2,
+Saudi Arabia,Yasir Gharsan Al Shahrani,trailing,1,55,18,9,2,203.6,0,0.0,0.222,
+Senegal,Abdou Diallo,drawing,4,303,98,53,35,1310.7,1,0.035412,0.66,0.035
+Senegal,Abdou Diallo,leading,2,137,49,30,16,978.9,0,0.0,0.533,
+Senegal,Abdou Diallo,trailing,1,93,36,22,16,489.2,0,0.0,0.727,
+Senegal,Boulaye Dia,drawing,4,169,27,1,1,21.2,6,0.56526,1.0,0.094
+Senegal,Boulaye Dia,leading,2,118,20,1,0,12.6,2,0.096981,0.0,0.048
+Senegal,Boulaye Dia,trailing,1,26,6,1,1,10.0,0,0.0,1.0,
+Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,drawing,1,9,0,0,0,0.0,1,0.074169,,0.074
+Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,leading,2,76,9,0,0,0.0,1,0.116077,,0.116
+Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,trailing,2,63,10,0,0,0.0,2,0.193648,,0.097
+Senegal,Cheikhou Kouyaté,drawing,1,95,26,3,1,82.5,0,0.0,0.333,
+Senegal,Edouard Mendy,drawing,4,163,62,34,24,1395.3,0,0.0,0.706,
+Senegal,Edouard Mendy,leading,2,87,37,25,11,1302.6,0,0.0,0.44,
+Senegal,Edouard Mendy,trailing,2,49,18,11,8,329.4,0,0.0,0.727,
+Senegal,Famara Diedhiou,drawing,1,39,3,0,0,0.0,1,0.14633,,0.146
+Senegal,Famara Diedhiou,leading,1,56,6,0,0,0.0,2,0.09179,,0.046
+Senegal,Famara Diedhiou,trailing,1,26,5,1,0,11.1,0,0.0,0.0,
+Senegal,Fodé Ballo Touré,trailing,1,27,8,1,1,13.0,0,0.0,1.0,
+Senegal,Idrissa Gana Gueye,drawing,3,326,86,19,13,359.5,4,0.332398,0.684,0.083
+Senegal,Idrissa Gana Gueye,leading,2,146,42,9,7,148.5,0,0.0,0.778,
+Senegal,Idrissa Gana Gueye,trailing,1,8,3,0,0,0.0,0,0.0,,
+Senegal,Iliman Ndiaye,drawing,2,109,19,2,0,47.1,1,0.02889,0.0,0.029
+Senegal,Iliman Ndiaye,leading,2,75,15,1,1,10.9,1,0.045226,1.0,0.045
+Senegal,Iliman Ndiaye,trailing,1,6,1,0,0,0.0,0,0.0,,
+Senegal,Ismail Jakobs,drawing,4,205,78,33,17,766.2,0,0.0,0.515,
+Senegal,Ismail Jakobs,leading,2,128,49,23,8,541.6,0,0.0,0.348,
+Senegal,Ismail Jakobs,trailing,2,87,30,17,10,446.0,1,0.014393,0.588,0.014
+Senegal,Ismaïla Sarr,drawing,4,268,42,10,6,209.9,8,1.710882,0.6,0.214
+Senegal,Ismaïla Sarr,leading,2,126,21,8,3,151.5,1,0.030364,0.375,0.03
+Senegal,Ismaïla Sarr,trailing,2,92,18,1,0,10.1,1,0.107545,0.0,0.108
+Senegal,Kalidou Koulibaly,drawing,4,349,111,53,39,1376.1,1,0.23428,0.736,0.234
+Senegal,Kalidou Koulibaly,leading,2,142,45,32,20,901.8,0,0.0,0.625,
+Senegal,Kalidou Koulibaly,trailing,2,124,40,23,10,658.3,0,0.0,0.435,
+Senegal,Krépin Diatta,drawing,3,285,66,14,7,245.8,3,0.128994,0.5,0.043
+Senegal,Krépin Diatta,leading,1,53,10,3,1,65.5,0,0.0,0.333,
+Senegal,Krépin Diatta,trailing,1,2,0,0,0,0.0,0,0.0,,
+Senegal,Nampalys Mendy,drawing,3,272,87,21,15,429.6,1,0.02541,0.714,0.025
+Senegal,Nampalys Mendy,leading,2,100,31,8,6,204.3,1,0.067961,0.75,0.068
+Senegal,Nampalys Mendy,trailing,2,128,44,15,11,364.0,0,0.0,0.733,
+Senegal,Nicolas Jackson,drawing,1,16,4,2,2,39.0,0,0.0,1.0,
+Senegal,Nicolas Jackson,trailing,1,27,6,0,0,0.0,0,0.0,,
+Senegal,Pape Abou Cissé,drawing,1,78,21,15,12,437.5,0,0.0,0.8,
+Senegal,Pape Abou Cissé,leading,2,37,12,5,3,175.7,0,0.0,0.6,
+Senegal,Pape Abou Cissé,trailing,1,14,5,4,2,115.1,0,0.0,0.5,
+Senegal,Pape Gueye,drawing,2,75,24,7,4,163.2,1,0.025697,0.571,0.026
+Senegal,Pape Gueye,leading,1,46,9,1,1,30.3,1,0.032015,1.0,0.032
+Senegal,Pape Gueye,trailing,2,97,28,9,5,272.3,2,0.036606,0.556,0.018
+Senegal,Pape Matar Sarr,leading,1,38,15,4,4,118.3,0,0.0,1.0,
+Senegal,Pape Matar Sarr,trailing,1,99,32,5,5,88.3,4,0.085932,1.0,0.021
+Senegal,Pathé Ismaël Ciss,drawing,2,130,37,14,11,250.4,1,0.030578,0.786,0.031
+Senegal,Pathé Ismaël Ciss,leading,2,77,19,5,5,85.7,0,0.0,1.0,
+Senegal,Pathé Ismaël Ciss,trailing,1,13,4,1,1,15.6,0,0.0,1.0,
+Senegal,Youssouf Sabaly,drawing,4,392,127,38,25,833.0,2,0.017892,0.658,0.009
+Senegal,Youssouf Sabaly,leading,2,186,54,20,16,530.4,0,0.0,0.8,
+Senegal,Youssouf Sabaly,trailing,2,138,41,7,5,138.8,0,0.0,0.714,
+Serbia,Aleksandar Mitrović,drawing,3,206,42,11,7,159.5,6,0.425232,0.636,0.071
+Serbia,Aleksandar Mitrović,leading,2,38,5,2,1,25.7,2,0.980656,0.5,0.49
+Serbia,Aleksandar Mitrović,trailing,3,96,20,2,0,28.0,2,0.095754,0.0,0.048
+Serbia,Andrija Živković,drawing,3,211,59,17,11,315.9,1,0.030002,0.647,0.03
+Serbia,Andrija Živković,leading,2,59,20,9,4,218.3,0,0.0,0.444,
+Serbia,Andrija Živković,trailing,2,69,20,8,2,204.4,0,0.0,0.25,
+Serbia,Darko Lazović,trailing,1,34,11,2,1,50.6,1,0.018289,0.5,0.018
+Serbia,Dušan Tadić,drawing,3,269,66,17,9,327.7,0,0.0,0.529,
+Serbia,Dušan Tadić,leading,2,58,14,3,1,48.4,0,0.0,0.333,
+Serbia,Dušan Tadić,trailing,3,171,45,14,11,298.3,1,0.061684,0.786,0.062
+Serbia,Dušan Vlahović,drawing,1,29,4,0,0,0.0,2,0.676163,,0.338
+Serbia,Dušan Vlahović,leading,1,13,1,0,0,0.0,0,0.0,,
+Serbia,Dušan Vlahović,trailing,2,37,8,1,1,12.6,1,0.086285,1.0,0.086
+Serbia,Filip Kostić,drawing,2,171,55,14,7,345.2,1,0.012009,0.5,0.012
+Serbia,Filip Kostić,leading,2,49,15,9,6,210.1,0,0.0,0.667,
+Serbia,Filip Kostić,trailing,2,135,42,12,5,227.5,0,0.0,0.417,
+Serbia,Filip Mladenović,drawing,1,84,24,7,2,141.4,1,0.026319,0.286,0.026
+Serbia,Filip Mladenović,trailing,1,1,0,0,0,0.0,0,0.0,,
+Serbia,Filip Đuričić,drawing,1,10,3,2,2,26.0,0,0.0,1.0,
+Serbia,Filip Đuričić,trailing,1,18,3,0,0,0.0,0,0.0,,
+Serbia,Ivan Ilić,drawing,1,10,3,0,0,0.0,0,0.0,,
+Serbia,Ivan Ilić,trailing,1,58,17,3,2,36.2,0,0.0,0.667,
+Serbia,Luka Jović,leading,1,1,0,0,0,0.0,0,0.0,,
+Serbia,Luka Jović,trailing,1,45,10,1,0,27.5,2,0.058176,0.0,0.029
+Serbia,Marko Grujić,drawing,1,57,17,8,6,152.8,1,0.027356,0.75,0.027
+Serbia,Milos Veljkovic,drawing,3,234,75,21,17,468.3,0,0.0,0.81,
+Serbia,Milos Veljkovic,leading,2,23,8,5,3,180.1,0,0.0,0.6,
+Serbia,Milos Veljkovic,trailing,3,81,29,12,10,232.5,0,0.0,0.833,
+Serbia,Nemanja Gudelj,drawing,1,113,34,7,5,117.8,0,0.0,0.714,
+Serbia,Nemanja Gudelj,trailing,1,58,21,7,3,126.7,0,0.0,0.429,
+Serbia,Nemanja Maksimović,drawing,1,74,22,4,3,75.0,0,0.0,0.75,
+Serbia,Nemanja Maksimović,leading,1,19,4,2,2,21.7,0,0.0,1.0,
+Serbia,Nemanja Maksimović,trailing,3,97,31,10,8,186.5,0,0.0,0.8,
+Serbia,Nemanja Radonjić,drawing,2,25,5,0,0,0.0,0,0.0,,
+Serbia,Nemanja Radonjić,trailing,2,74,18,5,2,109.1,2,0.051502,0.4,0.026
+Serbia,Nikola Milenković,drawing,3,266,88,29,20,611.7,2,0.112074,0.69,0.056
+Serbia,Nikola Milenković,leading,2,23,8,5,5,71.9,0,0.0,1.0,
+Serbia,Nikola Milenković,trailing,3,187,61,24,19,465.8,1,0.01109,0.792,0.011
+Serbia,Predrag Rajković,trailing,1,1,0,0,0,0.0,0,0.0,,
+Serbia,Saša Lukić,drawing,3,306,96,27,19,564.9,0,0.0,0.704,
+Serbia,Saša Lukić,leading,2,49,14,2,2,24.8,1,0.039667,1.0,0.04
+Serbia,Saša Lukić,trailing,3,183,52,10,8,152.9,0,0.0,0.8,
+Serbia,Sergej Milinković-Savić,drawing,3,249,60,19,12,392.7,2,0.091096,0.632,0.046
+Serbia,Sergej Milinković-Savić,leading,2,78,22,10,7,194.5,1,0.109179,0.7,0.109
+Serbia,Sergej Milinković-Savić,trailing,3,119,38,10,5,277.8,0,0.0,0.5,
+Serbia,Srđan Babić,drawing,1,48,15,6,3,177.0,0,0.0,0.5,
+Serbia,Stefan Mitrović,drawing,1,45,15,5,3,117.4,0,0.0,0.6,
+Serbia,Stefan Mitrović,leading,1,12,4,0,0,0.0,0,0.0,,
+Serbia,Strahinja Pavlović,drawing,3,208,62,29,19,676.2,0,0.0,0.655,
+Serbia,Strahinja Pavlović,leading,2,21,4,3,2,129.3,0,0.0,0.667,
+Serbia,Strahinja Pavlović,trailing,3,274,86,38,30,742.4,2,0.177866,0.789,0.089
+Serbia,Vanja Milinković Savić,drawing,3,192,70,48,27,2201.2,0,0.0,0.562,
+Serbia,Vanja Milinković Savić,leading,2,24,9,5,0,279.8,0,0.0,0.0,
+Serbia,Vanja Milinković Savić,trailing,3,127,48,35,26,1396.6,0,0.0,0.743,
+South Korea,Chang-Hoon Kwon,drawing,1,33,7,2,2,41.2,0,0.0,1.0,
+South Korea,Chang-Hoon Kwon,trailing,1,57,16,2,1,49.7,0,0.0,0.5,
+South Korea,Chul Hong,trailing,1,71,20,6,5,143.2,0,0.0,0.833,
+South Korea,Gue-Sung Cho,drawing,4,167,30,9,3,206.6,3,0.183725,0.333,0.061
+South Korea,Gue-Sung Cho,leading,1,1,0,0,0,0.0,0,0.0,,
+South Korea,Gue-Sung Cho,trailing,3,199,30,8,4,132.7,5,0.528864,0.5,0.106
+South Korea,Hee-Chan Hwang,drawing,2,45,5,1,0,58.6,1,0.421961,0.0,0.422
+South Korea,Hee-Chan Hwang,leading,1,6,0,0,0,0.0,0,0.0,,
+South Korea,Hee-Chan Hwang,trailing,1,237,52,10,7,136.8,5,0.145985,0.7,0.029
+South Korea,Heung-Min Son,drawing,4,263,62,13,5,448.1,5,0.168201,0.385,0.034
+South Korea,Heung-Min Son,leading,1,9,1,0,0,0.0,0,0.0,,
+South Korea,Heung-Min Son,trailing,3,247,59,9,4,201.6,4,0.285627,0.444,0.071
+South Korea,In-Beom Hwang,drawing,4,415,122,45,26,1073.0,5,0.171082,0.578,0.034
+South Korea,In-Beom Hwang,leading,1,6,0,0,0,0.0,0,0.0,,
+South Korea,In-Beom Hwang,trailing,3,388,125,48,31,1011.0,1,0.026667,0.646,0.027
+South Korea,Jae-Sung Lee,drawing,3,193,43,7,5,99.3,1,0.021393,0.714,0.021
+South Korea,Jae-Sung Lee,trailing,2,188,53,6,4,105.2,0,0.0,0.667,
+South Korea,Jin-Su Kim,drawing,4,222,70,28,12,794.7,0,0.0,0.429,
+South Korea,Jin-Su Kim,leading,1,4,2,2,1,56.0,0,0.0,0.5,
+South Korea,Jin-Su Kim,trailing,3,208,69,19,10,418.1,3,0.285274,0.526,0.095
+South Korea,Jun-Ho Son,drawing,2,60,21,6,4,161.8,0,0.0,0.667,
+South Korea,Jun-Ho Son,trailing,1,123,40,13,12,358.7,0,0.0,0.923,
+South Korea,Kang-In Lee,drawing,3,105,19,6,4,129.7,2,0.046887,0.667,0.023
+South Korea,Kang-In Lee,trailing,3,173,58,23,16,444.7,3,0.071088,0.696,0.024
+South Korea,Kyung-Won Kwon,drawing,1,69,23,8,7,121.5,0,0.0,0.875,
+South Korea,Kyung-Won Kwon,leading,1,2,0,0,0,0.0,0,0.0,,
+South Korea,Kyung-Won Kwon,trailing,2,57,20,5,3,72.7,1,0.005484,0.6,0.005
+South Korea,Min Jae Kim,drawing,3,215,77,31,23,784.7,2,0.105907,0.742,0.053
+South Korea,Min Jae Kim,trailing,2,332,110,48,41,905.2,0,0.0,0.854,
+South Korea,Moon-Hwan Kim,drawing,4,295,107,28,15,642.2,0,0.0,0.536,
+South Korea,Moon-Hwan Kim,leading,1,4,2,1,1,17.1,0,0.0,1.0,
+South Korea,Moon-Hwan Kim,trailing,3,410,133,27,20,545.6,0,0.0,0.741,
+South Korea,Sang-Ho Na,drawing,2,143,26,2,0,107.7,0,0.0,0.0,
+South Korea,Sang-Ho Na,trailing,1,56,12,3,3,57.0,1,0.05997,1.0,0.06
+South Korea,Seung-Gyu Kim,drawing,4,181,75,50,26,2401.7,0,0.0,0.52,
+South Korea,Seung-Gyu Kim,leading,1,3,2,2,0,144.5,0,0.0,0.0,
+South Korea,Seung-Gyu Kim,trailing,3,147,51,27,20,757.8,0,0.0,0.741,
+South Korea,Seung-Ho Paik,trailing,1,75,24,6,3,91.6,1,0.023081,0.5,0.023
+South Korea,Ui-Jo Hwang,drawing,2,90,8,1,0,17.6,1,0.323128,0.0,0.323
+South Korea,Ui-Jo Hwang,leading,1,7,2,0,0,0.0,0,0.0,,
+South Korea,Ui-Jo Hwang,trailing,2,16,1,0,0,0.0,0,0.0,,
+South Korea,Woo-Yeong Jeong,drawing,1,30,9,2,1,35.1,1,0.030081,0.5,0.03
+South Korea,Woo-Yeong Jeong,trailing,1,41,7,1,0,15.1,0,0.0,0.0,
+South Korea,Woo-Young Jung,drawing,4,343,108,41,28,925.0,0,0.0,0.683,
+South Korea,Woo-Young Jung,leading,1,1,0,0,0,0.0,0,0.0,,
+South Korea,Woo-Young Jung,trailing,3,307,100,36,28,898.2,1,0.010947,0.778,0.011
+South Korea,Young-Gwon Kim,drawing,4,268,92,51,31,1636.4,0,0.0,0.608,
+South Korea,Young-Gwon Kim,trailing,3,344,118,53,45,1258.3,2,0.689242,0.849,0.345
+South Korea,Yu-Min Cho,leading,1,1,0,0,0,0.0,0,0.0,,
+Spain,Alejandro Balde Martínez,drawing,3,109,32,5,4,103.7,1,0.077706,0.8,0.078
+Spain,Alejandro Balde Martínez,leading,3,240,76,15,14,318.2,0,0.0,0.933,
+Spain,Alejandro Balde Martínez,trailing,1,40,11,2,1,38.4,0,0.0,0.5,
+Spain,Anssumane Fati,drawing,1,38,8,0,0,0.0,0,0.0,,
+Spain,Anssumane Fati,trailing,1,68,20,1,1,10.5,0,0.0,1.0,
+Spain,Aymeric Laporte,drawing,3,816,289,73,59,1464.0,1,0.041456,0.808,0.041
+Spain,Aymeric Laporte,leading,2,398,140,58,52,974.6,0,0.0,0.897,
+Spain,Carlos Soler Barragán,drawing,1,119,40,11,10,177.9,2,0.823005,0.909,0.412
+Spain,Carlos Soler Barragán,leading,1,139,44,9,9,143.0,3,0.448479,1.0,0.149
+Spain,César Azpilicueta Tanco,drawing,2,95,34,7,6,101.5,0,0.0,0.857,
+Spain,César Azpilicueta Tanco,leading,2,421,145,37,31,611.7,0,0.0,0.838,
+Spain,Daniel Carvajal Ramos,drawing,2,160,60,9,6,136.0,0,0.0,0.667,
+Spain,Daniel Carvajal Ramos,leading,2,41,17,7,7,115.4,0,0.0,1.0,
+Spain,Daniel Carvajal Ramos,trailing,1,154,58,11,8,186.5,0,0.0,0.727,
+Spain,Daniel Olmo Carvajal,drawing,4,399,88,13,8,239.2,6,0.780634,0.615,0.13
+Spain,Daniel Olmo Carvajal,leading,3,303,84,11,4,282.2,3,0.154726,0.364,0.052
+Spain,Daniel Olmo Carvajal,trailing,1,97,24,3,1,69.4,3,0.148756,0.333,0.05
+Spain,Ferrán Torres García,drawing,3,255,51,6,4,126.1,2,0.116722,0.667,0.058
+Spain,Ferrán Torres García,leading,1,82,18,1,1,26.0,2,0.88849,1.0,0.444
+Spain,Ferrán Torres García,trailing,1,74,17,0,0,0.0,0,0.0,,
+Spain,Jordi Alba Ramos,drawing,3,591,206,50,36,916.8,1,0.021667,0.72,0.022
+Spain,Jordi Alba Ramos,leading,2,318,109,28,20,556.4,0,0.0,0.714,
+Spain,Jordi Alba Ramos,trailing,1,152,56,4,3,53.3,1,0.024194,0.75,0.024
+Spain,Jorge Resurrección Merodio,drawing,1,16,5,2,1,34.9,0,0.0,0.5,
+Spain,Jorge Resurrección Merodio,leading,2,168,58,10,7,200.3,0,0.0,0.7,
+Spain,Marco Asensio Willemsen,drawing,3,219,54,8,6,160.6,2,0.175721,0.75,0.088
+Spain,Marco Asensio Willemsen,leading,2,137,34,3,2,40.6,5,0.38001,0.667,0.076
+Spain,Marco Asensio Willemsen,trailing,1,103,29,5,4,90.4,3,0.05246,0.8,0.017
+Spain,Marcos Llorente Moreno,drawing,1,305,104,27,20,443.1,1,0.024552,0.741,0.025
+Spain,Nicholas Williams Arthuer,drawing,3,154,32,4,4,70.9,0,0.0,1.0,
+Spain,Nicholas Williams Arthuer,leading,3,152,30,1,1,24.6,0,0.0,1.0,
+Spain,Nicholas Williams Arthuer,trailing,1,2,0,0,0,0.0,0,0.0,,
+Spain,Pablo Martín Páez Gavira,drawing,4,257,56,10,7,150.5,0,0.0,0.7,
+Spain,Pablo Martín Páez Gavira,leading,3,343,91,13,9,282.4,1,0.056229,0.692,0.056
+Spain,Pablo Martín Páez Gavira,trailing,1,23,6,1,1,11.5,0,0.0,1.0,
+Spain,Pablo Sarabia García,drawing,1,13,5,1,1,11.4,2,0.887576,1.0,0.444
+Spain,Pau Francisco Torres,drawing,1,113,38,15,10,327.9,0,0.0,0.667,
+Spain,Pau Francisco Torres,leading,1,246,84,18,12,300.0,0,0.0,0.667,
+Spain,Pau Francisco Torres,trailing,1,190,68,18,12,348.9,0,0.0,0.667,
+Spain,Pedro González López,drawing,4,728,224,62,55,1159.1,0,0.0,0.887,
+Spain,Pedro González López,leading,3,388,120,26,22,484.5,0,0.0,0.846,
+Spain,Pedro González López,trailing,1,260,82,26,22,408.5,0,0.0,0.846,
+Spain,Rodrigo Hernández Cascante,drawing,4,995,358,94,75,1824.0,1,0.005648,0.798,0.006
+Spain,Rodrigo Hernández Cascante,leading,3,643,229,73,67,1275.0,0,0.0,0.918,
+Spain,Rodrigo Hernández Cascante,trailing,1,268,92,38,33,681.5,0,0.0,0.868,
+Spain,Sergio Busquets i Burgos,drawing,4,378,138,45,38,813.1,3,0.887116,0.844,0.296
+Spain,Sergio Busquets i Burgos,leading,3,368,130,22,19,304.3,0,0.0,0.864,
+Spain,Sergio Busquets i Burgos,trailing,1,63,22,5,4,77.3,0,0.0,0.8,
+Spain,Unai Simón Mendibil,drawing,4,223,85,44,38,952.8,0,0.0,0.864,
+Spain,Unai Simón Mendibil,leading,3,171,59,27,25,537.6,0,0.0,0.926,
+Spain,Unai Simón Mendibil,trailing,1,35,14,9,9,147.0,0,0.0,1.0,
+Spain,Álvaro Borja Morata Martín,drawing,3,91,15,5,3,130.0,5,0.780002,0.6,0.156
+Spain,Álvaro Borja Morata Martín,leading,3,119,24,4,2,69.7,3,0.329479,0.5,0.11
+Spain,Álvaro Borja Morata Martín,trailing,1,5,1,1,0,41.3,0,0.0,0.0,
+Switzerland,Ardon Jashari,trailing,1,18,6,2,1,35.4,0,0.0,0.5,
+Switzerland,Breel-Donald Embolo,drawing,4,214,37,4,3,57.2,3,0.966561,0.75,0.322
+Switzerland,Breel-Donald Embolo,leading,2,99,12,2,0,37.6,1,0.664771,0.0,0.665
+Switzerland,Breel-Donald Embolo,trailing,2,76,17,3,1,74.2,2,0.759865,0.333,0.38
+Switzerland,Christian Fassnacht,leading,1,38,10,3,1,36.7,1,0.316817,0.333,0.317
+Switzerland,Denis Lemi Zakaria Lako Lado,leading,1,35,9,4,4,56.9,0,0.0,1.0,
+Switzerland,Denis Lemi Zakaria Lako Lado,trailing,1,52,13,3,2,63.8,1,0.041887,0.667,0.042
+Switzerland,Djibril Sow,drawing,4,254,62,13,9,231.6,2,0.15038,0.692,0.075
+Switzerland,Djibril Sow,leading,2,59,18,6,5,102.6,0,0.0,0.833,
+Switzerland,Djibril Sow,trailing,2,57,17,4,3,80.9,0,0.0,0.75,
+Switzerland,Edimilson Fernandes,drawing,2,63,16,6,2,186.3,1,0.029247,0.333,0.029
+Switzerland,Edimilson Fernandes,leading,1,51,15,3,3,58.6,0,0.0,1.0,
+Switzerland,Edimilson Fernandes,trailing,2,147,50,11,8,202.2,0,0.0,0.727,
+Switzerland,Eray Ervin Cömert,leading,1,6,3,2,1,28.1,0,0.0,0.5,
+Switzerland,Eray Ervin Cömert,trailing,1,126,38,15,14,244.8,0,0.0,0.933,
+Switzerland,Fabian Frei,leading,1,38,10,2,1,30.6,0,0.0,0.5,
+Switzerland,Fabian Frei,trailing,1,17,3,0,0,0.0,0,0.0,,
+Switzerland,Fabian Lukas Schär,drawing,2,93,35,21,13,617.8,0,0.0,0.619,
+Switzerland,Fabian Lukas Schär,leading,1,46,14,9,4,289.6,1,0.079259,0.444,0.079
+Switzerland,Fabian Lukas Schär,trailing,2,99,31,9,7,248.6,1,0.024414,0.778,0.024
+Switzerland,Fabian Rieder,drawing,1,98,18,6,0,120.2,0,0.0,0.0,
+Switzerland,Fabian Rieder,leading,1,32,9,3,1,96.3,0,0.0,0.333,
+Switzerland,Granit Xhaka,drawing,4,322,107,30,25,683.6,3,0.118198,0.833,0.039
+Switzerland,Granit Xhaka,leading,2,173,54,19,17,427.3,2,0.093648,0.895,0.047
+Switzerland,Granit Xhaka,trailing,3,250,79,27,19,657.8,1,0.083676,0.704,0.084
+Switzerland,Gregor Kobel,drawing,1,33,13,7,2,358.9,0,0.0,0.286,
+Switzerland,Gregor Kobel,leading,1,25,12,8,3,390.1,0,0.0,0.375,
+Switzerland,Gregor Kobel,trailing,1,10,4,4,4,65.3,0,0.0,1.0,
+Switzerland,Haris Seferović,drawing,1,2,0,0,0,0.0,0,0.0,,
+Switzerland,Haris Seferović,leading,1,30,5,1,0,12.4,1,0.27029,0.0,0.27
+Switzerland,Haris Seferović,trailing,2,34,9,3,1,57.7,0,0.0,0.333,
+Switzerland,Manuel Obafemi Akanji,drawing,4,378,130,60,46,1376.7,2,0.183681,0.767,0.092
+Switzerland,Manuel Obafemi Akanji,leading,2,141,49,22,18,464.3,1,0.030123,0.818,0.03
+Switzerland,Manuel Obafemi Akanji,trailing,3,231,76,26,22,669.2,1,0.668866,0.846,0.669
+Switzerland,Michel Aebischer,drawing,1,9,2,0,0,0.0,0,0.0,,
+Switzerland,Michel Aebischer,trailing,1,10,2,0,0,0.0,0,0.0,,
+Switzerland,Nico Elvedi,drawing,2,328,110,27,25,490.5,1,0.190014,0.926,0.19
+Switzerland,Nico Elvedi,leading,1,75,24,6,5,87.1,0,0.0,0.833,
+Switzerland,Nico Elvedi,trailing,1,21,7,2,1,32.4,0,0.0,0.5,
+Switzerland,Noah Okafor,leading,2,58,11,1,0,36.1,0,0.0,0.0,
+Switzerland,Noah Okafor,trailing,1,48,10,2,1,48.3,1,0.032096,0.5,0.032
+Switzerland,Remo Freuler,drawing,4,329,97,25,16,513.7,2,0.249933,0.64,0.125
+Switzerland,Remo Freuler,leading,2,133,33,7,7,134.2,0,0.0,1.0,
+Switzerland,Remo Freuler,trailing,3,73,19,4,1,101.5,1,0.294862,0.25,0.295
+Switzerland,Renato Steffen,drawing,1,33,9,2,1,26.2,0,0.0,0.5,
+Switzerland,Renato Steffen,trailing,1,11,4,2,2,30.4,0,0.0,1.0,
+Switzerland,Ricardo Iván Rodríguez Araya,drawing,4,332,122,41,22,969.7,0,0.0,0.537,
+Switzerland,Ricardo Iván Rodríguez Araya,leading,2,124,45,16,11,532.0,0,0.0,0.688,
+Switzerland,Ricardo Iván Rodríguez Araya,trailing,3,184,60,22,13,505.4,0,0.0,0.591,
+Switzerland,Ruben Vargas,drawing,4,257,71,16,7,278.5,1,0.029705,0.438,0.03
+Switzerland,Ruben Vargas,leading,2,87,20,2,0,61.5,1,0.1978,0.0,0.198
+Switzerland,Ruben Vargas,trailing,2,79,23,2,1,41.0,1,0.068322,0.5,0.068
+Switzerland,Silvan Widmer,drawing,3,310,98,37,21,830.2,1,0.051174,0.568,0.051
+Switzerland,Silvan Widmer,leading,2,176,58,26,15,644.8,0,0.0,0.577,
+Switzerland,Silvan Widmer,trailing,2,22,8,2,2,37.7,0,0.0,1.0,
+Switzerland,Xherdan Shaqiri,drawing,3,188,47,13,8,279.6,2,0.463167,0.615,0.232
+Switzerland,Xherdan Shaqiri,leading,2,76,23,8,3,151.1,0,0.0,0.375,
+Switzerland,Xherdan Shaqiri,trailing,2,128,34,7,5,164.1,2,0.031761,0.714,0.016
+Switzerland,Yann Sommer,drawing,3,180,67,26,20,655.4,0,0.0,0.769,
+Switzerland,Yann Sommer,leading,1,48,18,11,9,270.7,0,0.0,0.818,
+Switzerland,Yann Sommer,trailing,2,97,32,17,15,487.9,0,0.0,0.882,
+Tunisia,Ali Abdi,drawing,2,191,55,26,11,684.8,0,0.0,0.423,
+Tunisia,Ali Abdi,leading,1,9,1,1,1,17.3,0,0.0,1.0,
+Tunisia,Ali Abdi,trailing,1,160,53,22,12,536.4,0,0.0,0.545,
+Tunisia,Ali Maâloul,drawing,1,121,53,19,13,406.7,0,0.0,0.684,
+Tunisia,Ali Maâloul,leading,1,30,8,4,2,128.1,0,0.0,0.5,
+Tunisia,Anis Ben Slimane,drawing,2,201,46,9,5,199.2,1,0.100791,0.556,0.101
+Tunisia,Anis Ben Slimane,leading,1,22,3,1,1,37.2,0,0.0,1.0,
+Tunisia,Aymen Dahmen,drawing,3,133,51,33,16,1594.3,0,0.0,0.485,
+Tunisia,Aymen Dahmen,leading,1,20,9,8,2,471.9,0,0.0,0.25,
+Tunisia,Aymen Dahmen,trailing,1,48,17,13,7,690.2,0,0.0,0.538,
+Tunisia,Aïssa Bilal Laïdouni,drawing,3,318,90,27,22,522.9,2,0.080978,0.815,0.04
+Tunisia,Aïssa Bilal Laïdouni,leading,1,41,6,1,1,17.1,0,0.0,1.0,
+Tunisia,Aïssa Bilal Laïdouni,trailing,1,90,23,11,8,198.2,0,0.0,0.727,
+Tunisia,Dylan Daniel Mahmoud Bronn,drawing,2,169,57,24,12,699.5,1,0.059059,0.5,0.059
+Tunisia,Dylan Daniel Mahmoud Bronn,trailing,1,112,38,12,6,295.4,0,0.0,0.5,
+Tunisia,Ellyes Joris Skhiri,drawing,3,268,73,30,25,604.7,2,0.100992,0.833,0.05
+Tunisia,Ellyes Joris Skhiri,leading,1,37,7,2,0,92.5,0,0.0,0.0,
+Tunisia,Ellyes Joris Skhiri,trailing,1,148,48,21,16,419.1,0,0.0,0.762,
+Tunisia,Ferjani Sassi,drawing,1,9,2,2,1,60.6,0,0.0,0.5,
+Tunisia,Ferjani Sassi,trailing,1,109,32,14,9,313.8,1,0.020219,0.643,0.02
+Tunisia,Ghilane Chalali,leading,1,26,5,2,1,24.9,0,0.0,0.5,
+Tunisia,Hannibal Mejbri,drawing,1,9,2,0,0,0.0,0,0.0,,
+Tunisia,Issam Jebali,drawing,2,170,23,3,2,61.1,3,0.593087,0.667,0.198
+Tunisia,Issam Jebali,leading,1,46,4,1,0,16.5,0,0.0,0.0,
+Tunisia,Issam Jebali,trailing,1,63,10,0,0,0.0,0,0.0,,
+Tunisia,Mohamed Ali Ben Romdhane,drawing,1,95,18,1,1,16.0,0,0.0,1.0,
+Tunisia,Mohamed Ali Ben Romdhane,leading,1,12,1,0,0,0.0,0,0.0,,
+Tunisia,Mohamed Dräger,drawing,2,158,42,12,4,288.4,3,0.083736,0.333,0.028
+Tunisia,Mohamed Dräger,trailing,1,35,9,4,1,143.8,1,0.219849,0.25,0.22
+Tunisia,Montassar Omar Talbi,drawing,3,260,84,34,25,642.1,0,0.0,0.735,
+Tunisia,Montassar Omar Talbi,leading,1,17,3,2,1,61.9,0,0.0,0.5,
+Tunisia,Montassar Omar Talbi,trailing,1,149,46,20,18,459.0,1,0.01216,0.9,0.012
+Tunisia,Nader Ghandri,drawing,1,80,25,5,4,133.2,0,0.0,0.8,
+Tunisia,Nader Ghandri,leading,1,20,5,2,0,92.4,0,0.0,0.0,
+Tunisia,Naïm Sliti,drawing,2,78,15,3,1,62.9,0,0.0,0.333,
+Tunisia,Naïm Sliti,trailing,1,123,35,13,7,256.9,1,0.140304,0.538,0.14
+Tunisia,Taha Yassine Khenissi,drawing,1,15,2,1,0,19.0,0,0.0,0.0,
+Tunisia,Taha Yassine Khenissi,trailing,1,21,1,0,0,0.0,1,0.012916,,0.013
+Tunisia,Wahbi Khazri,drawing,1,72,10,4,3,131.3,3,0.183699,0.75,0.061
+Tunisia,Wahbi Khazri,leading,1,1,0,0,0,0.0,0,0.0,,
+Tunisia,Wahbi Khazri,trailing,1,45,10,3,1,149.3,2,0.114067,0.333,0.057
+Tunisia,Wajdi Kechrida,drawing,2,122,40,8,6,201.9,0,0.0,0.75,
+Tunisia,Wajdi Kechrida,leading,1,30,8,6,3,203.4,0,0.0,0.5,
+Tunisia,Wajdi Kechrida,trailing,1,39,18,4,4,75.0,0,0.0,1.0,
+Tunisia,Yassine Meriah,drawing,3,335,103,49,31,1323.5,1,0.046074,0.633,0.046
+Tunisia,Yassine Meriah,leading,1,18,4,1,1,12.7,0,0.0,1.0,
+Tunisia,Yassine Meriah,trailing,1,185,61,20,13,496.4,0,0.0,0.65,
+Tunisia,Youssef Msakni,drawing,2,148,28,11,6,270.6,3,0.13957,0.545,0.047
+Tunisia,Youssef Msakni,trailing,1,156,42,12,6,189.0,6,0.502951,0.5,0.084
+United States,Antonee Robinson,drawing,4,381,112,35,24,669.8,0,0.0,0.686,
+United States,Antonee Robinson,leading,2,157,55,25,13,566.2,0,0.0,0.52,
+United States,Antonee Robinson,trailing,1,224,73,26,14,556.0,0,0.0,0.538,
+United States,Brenden Aaronson,drawing,2,83,19,2,2,25.6,0,0.0,1.0,
+United States,Brenden Aaronson,leading,2,115,20,5,4,106.2,1,0.094289,0.8,0.094
+United States,Brenden Aaronson,trailing,1,56,9,1,1,11.0,0,0.0,1.0,
+United States,Cameron Carter-Vickers,drawing,1,90,30,13,10,290.0,0,0.0,0.769,
+United States,Cameron Carter-Vickers,leading,1,75,25,9,8,170.6,0,0.0,0.889,
+United States,Christian Pulisic,drawing,4,333,80,20,11,480.5,7,1.066501,0.55,0.152
+United States,Christian Pulisic,leading,2,135,29,7,5,192.4,0,0.0,0.714,
+United States,Christian Pulisic,trailing,1,136,30,12,7,234.0,2,0.071586,0.583,0.036
+United States,DeAndre Yedlin,drawing,1,37,14,8,3,117.3,0,0.0,0.375,
+United States,DeAndre Yedlin,leading,1,7,4,2,1,52.6,0,0.0,0.5,
+United States,DeAndre Yedlin,trailing,1,35,12,4,3,67.8,0,0.0,0.75,
+United States,Giovanni Reyna,drawing,1,18,4,1,0,10.2,0,0.0,0.0,
+United States,Giovanni Reyna,trailing,1,111,31,5,1,89.2,2,0.086022,0.2,0.043
+United States,Haji Wright,drawing,2,90,14,2,0,75.6,2,0.09027,0.0,0.045
+United States,Haji Wright,leading,2,51,5,2,1,23.7,2,0.085181,0.5,0.043
+United States,Haji Wright,trailing,1,43,8,1,1,18.2,3,0.482722,1.0,0.161
+United States,Jesus Ferreira,drawing,1,11,3,1,1,13.2,0,0.0,1.0,
+United States,Jesus Ferreira,trailing,1,62,17,0,0,0.0,0,0.0,,
+United States,Jordan Morris,drawing,1,10,3,0,0,0.0,0,0.0,,
+United States,Jordan Morris,trailing,1,4,1,0,0,0.0,0,0.0,,
+United States,Joshua Sargent,drawing,3,80,15,0,0,0.0,2,0.294282,,0.147
+United States,Joshua Sargent,leading,2,115,19,0,0,0.0,2,0.067747,,0.034
+United States,Kellyn Kai Perry-Acosta,drawing,1,35,8,1,1,14.5,0,0.0,1.0,
+United States,Kellyn Kai Perry-Acosta,leading,2,19,4,1,1,12.3,0,0.0,1.0,
+United States,Matthew Charles Turner,drawing,4,172,63,38,24,1393.4,0,0.0,0.632,
+United States,Matthew Charles Turner,leading,2,95,40,27,19,1260.9,0,0.0,0.704,
+United States,Matthew Charles Turner,trailing,1,67,23,16,10,630.5,0,0.0,0.625,
+United States,Sergino Dest,drawing,4,428,122,32,25,619.4,4,0.161594,0.781,0.04
+United States,Sergino Dest,leading,2,161,49,14,7,362.2,0,0.0,0.5,
+United States,Sergino Dest,trailing,1,122,30,5,4,87.2,2,0.090274,0.8,0.045
+United States,Shaquell Moore,drawing,1,50,14,5,4,85.7,0,0.0,0.8,
+United States,Shaquell Moore,leading,1,23,7,5,1,190.0,0,0.0,0.2,
+United States,Tim Ream,drawing,4,442,149,61,52,1236.7,0,0.0,0.852,
+United States,Tim Ream,leading,2,148,48,23,19,536.3,0,0.0,0.826,
+United States,Tim Ream,trailing,1,210,73,30,21,661.8,1,0.258228,0.7,0.258
+United States,Timothy Weah,drawing,4,287,74,8,6,131.5,3,0.368435,0.75,0.123
+United States,Timothy Weah,leading,2,84,16,6,5,82.4,0,0.0,0.833,
+United States,Timothy Weah,trailing,1,66,19,0,0,0.0,2,0.071713,,0.036
+United States,Tyler Adams,drawing,4,433,130,28,26,550.8,1,0.019809,0.929,0.02
+United States,Tyler Adams,leading,2,184,59,16,12,325.0,0,0.0,0.75,
+United States,Tyler Adams,trailing,1,234,80,30,24,494.5,0,0.0,0.8,
+United States,Walker Zimmerman,drawing,3,403,143,50,40,1100.4,0,0.0,0.8,
+United States,Walker Zimmerman,leading,2,92,27,10,8,169.8,0,0.0,0.8,
+United States,Walker Zimmerman,trailing,1,195,63,25,19,546.7,1,0.056741,0.76,0.057
+United States,Weston McKennie,drawing,4,299,83,34,26,738.9,2,0.215001,0.765,0.108
+United States,Weston McKennie,leading,2,99,25,10,5,206.2,0,0.0,0.5,
+United States,Weston McKennie,trailing,1,132,38,14,10,349.1,3,0.160661,0.714,0.054
+United States,Yunus Dimoara Musah,drawing,4,357,100,26,23,410.0,2,0.062625,0.885,0.031
+United States,Yunus Dimoara Musah,leading,2,169,34,10,8,149.1,1,0.080398,0.8,0.08
+United States,Yunus Dimoara Musah,trailing,1,163,48,14,7,250.2,1,0.054461,0.5,0.054
+Uruguay,Agustín Canobbio Graviz,leading,1,32,7,4,2,94.5,0,0.0,0.5,
+Uruguay,Darwin Gabriel Núñez Ribeiro,drawing,3,200,39,8,3,128.9,2,0.185992,0.375,0.093
+Uruguay,Darwin Gabriel Núñez Ribeiro,leading,1,65,11,1,0,26.1,0,0.0,0.0,
+Uruguay,Darwin Gabriel Núñez Ribeiro,trailing,1,31,4,1,0,11.3,1,0.030921,0.0,0.031
+Uruguay,Diego Nicolás De La Cruz Arcosa,drawing,1,42,12,0,0,0.0,0,0.0,,
+Uruguay,Diego Nicolás De La Cruz Arcosa,leading,1,58,12,4,4,48.7,1,0.042924,1.0,0.043
+Uruguay,Diego Roberto Godín Leal,drawing,2,271,94,29,18,753.3,1,0.054689,0.621,0.055
+Uruguay,Diego Roberto Godín Leal,trailing,1,11,4,0,0,0.0,0,0.0,,
+Uruguay,Edinson Roberto Cavani Gómez,drawing,2,83,19,3,1,72.6,2,0.104941,0.333,0.052
+Uruguay,Edinson Roberto Cavani Gómez,leading,1,43,13,2,2,44.9,0,0.0,1.0,
+Uruguay,Edinson Roberto Cavani Gómez,trailing,1,23,7,0,0,0.0,1,0.074018,,0.074
+Uruguay,Facundo Pellistri Rebollo,drawing,2,136,26,1,1,16.4,0,0.0,1.0,
+Uruguay,Facundo Pellistri Rebollo,leading,1,58,8,2,2,82.2,1,0.099497,1.0,0.099
+Uruguay,Facundo Pellistri Rebollo,trailing,1,51,11,1,1,22.0,0,0.0,1.0,
+Uruguay,Federico Santiago Valverde Dipetta,drawing,3,317,97,28,17,688.2,3,0.078339,0.607,0.026
+Uruguay,Federico Santiago Valverde Dipetta,leading,1,166,56,28,19,658.0,3,0.018685,0.679,0.006
+Uruguay,Federico Santiago Valverde Dipetta,trailing,1,98,33,15,12,276.3,1,0.019629,0.8,0.02
+Uruguay,Giorgian Daniel De Arrascaeta Benedetti,drawing,1,45,9,3,1,98.7,1,0.711069,0.333,0.711
+Uruguay,Giorgian Daniel De Arrascaeta Benedetti,leading,1,92,17,5,1,179.8,1,0.167367,0.2,0.167
+Uruguay,Giorgian Daniel De Arrascaeta Benedetti,trailing,1,72,25,4,2,70.0,1,0.256076,0.5,0.256
+Uruguay,Guillermo Varela Olivera,drawing,3,98,32,17,12,413.6,0,0.0,0.706,
+Uruguay,Guillermo Varela Olivera,leading,1,111,36,17,6,441.8,0,0.0,0.353,
+Uruguay,Guillermo Varela Olivera,trailing,1,63,23,5,3,115.0,0,0.0,0.6,
+Uruguay,José Martín Cáceres Silva,drawing,1,215,81,32,21,714.5,0,0.0,0.656,
+Uruguay,José María Giménez de Vargas,drawing,3,323,107,52,35,1341.6,2,0.09698,0.673,0.048
+Uruguay,José María Giménez de Vargas,leading,1,77,24,10,9,222.8,1,0.032389,0.9,0.032
+Uruguay,José María Giménez de Vargas,trailing,1,102,36,16,12,340.1,0,0.0,0.75,
+Uruguay,Luis Alberto Suárez Díaz,drawing,2,95,22,5,2,82.8,1,0.273387,0.4,0.273
+Uruguay,Luis Alberto Suárez Díaz,leading,1,70,11,0,0,0.0,0,0.0,,
+Uruguay,Luis Alberto Suárez Díaz,trailing,1,28,7,2,1,61.7,1,0.088375,0.5,0.088
+Uruguay,Mathías Olivera Miramontes,drawing,3,275,83,23,13,476.7,1,0.039672,0.565,0.04
+Uruguay,Mathías Olivera Miramontes,leading,1,115,37,6,5,162.3,0,0.0,0.833,
+Uruguay,Mathías Olivera Miramontes,trailing,1,48,13,2,1,36.0,1,0.041303,0.5,0.041
+Uruguay,Matías Nicolás Viña Susperreguy,drawing,1,27,9,2,2,31.4,0,0.0,1.0,
+Uruguay,Matías Nicolás Viña Susperreguy,trailing,1,33,11,5,2,143.0,0,0.0,0.4,
+Uruguay,Matías Vecino Falero,drawing,2,196,54,20,10,382.5,1,0.052239,0.5,0.052
+Uruguay,Matías Vecino Falero,leading,1,148,46,17,11,255.3,0,0.0,0.647,
+Uruguay,Matías Vecino Falero,trailing,1,12,3,1,1,21.6,0,0.0,1.0,
+Uruguay,Maximiliano Gómez González,leading,1,19,3,0,0,0.0,1,0.030133,,0.03
+Uruguay,Maximiliano Gómez González,trailing,1,14,4,0,0,0.0,1,0.047643,,0.048
+Uruguay,Rodrigo Bentancur Colmán,drawing,3,383,114,34,24,685.6,3,0.620971,0.706,0.207
+Uruguay,Rodrigo Bentancur Colmán,leading,1,20,5,1,1,18.4,0,0.0,1.0,
+Uruguay,Rodrigo Bentancur Colmán,trailing,1,122,39,13,7,230.7,0,0.0,0.538,
+Uruguay,Sebastián Coates Nión,drawing,2,62,27,15,7,382.6,0,0.0,0.467,
+Uruguay,Sebastián Coates Nión,leading,1,98,37,13,9,277.2,1,0.103293,0.692,0.103
+Uruguay,Sebastián Coates Nión,trailing,1,90,33,20,15,379.0,0,0.0,0.75,
+Uruguay,Sergio Rochet Álvarez,drawing,3,122,45,31,19,1221.9,0,0.0,0.613,
+Uruguay,Sergio Rochet Álvarez,leading,1,65,24,20,12,934.5,0,0.0,0.6,
+Uruguay,Sergio Rochet Álvarez,trailing,1,17,7,3,0,165.9,0,0.0,0.0,
+Wales,Aaron Ramsey,drawing,3,322,76,19,10,443.7,1,0.025361,0.526,0.025
+Wales,Aaron Ramsey,trailing,2,135,34,5,4,162.0,0,0.0,0.8,
+Wales,Ben Davies,drawing,3,357,125,61,36,1585.1,1,0.053538,0.59,0.054
+Wales,Ben Davies,trailing,2,104,35,10,7,283.5,2,0.330667,0.7,0.165
+Wales,Brennan Johnson,drawing,3,74,13,2,0,45.9,2,0.102345,0.0,0.051
+Wales,Brennan Johnson,trailing,3,41,5,2,2,27.7,1,0.021923,1.0,0.022
+Wales,Chris Mepham,drawing,3,290,96,41,26,1058.4,0,0.0,0.634,
+Wales,Chris Mepham,trailing,2,219,74,30,23,628.4,0,0.0,0.767,
+Wales,Connor Roberts,drawing,3,186,63,18,11,400.5,0,0.0,0.611,
+Wales,Connor Roberts,trailing,2,171,56,20,16,436.2,0,0.0,0.8,
+Wales,Daniel James,drawing,3,124,22,2,0,46.6,0,0.0,0.0,
+Wales,Daniel James,trailing,2,48,12,1,0,10.4,0,0.0,0.0,
+Wales,Daniel Ward,drawing,2,58,22,21,10,1154.8,0,0.0,0.476,
+Wales,Daniel Ward,trailing,2,57,17,11,7,494.6,0,0.0,0.636,
+Wales,Ethan Ampadu,drawing,3,308,97,40,25,855.3,1,0.013776,0.625,0.014
+Wales,Ethan Ampadu,trailing,2,143,47,17,13,374.5,0,0.0,0.765,
+Wales,Gareth Frank Bale,drawing,3,178,42,12,5,221.4,1,0.021701,0.417,0.022
+Wales,Gareth Frank Bale,trailing,2,67,13,4,3,83.4,1,0.7835,0.75,0.784
+Wales,Harry Wilson,drawing,2,149,38,9,5,200.8,1,0.030165,0.556,0.03
+Wales,Harry Wilson,trailing,2,70,24,4,3,62.5,1,0.031329,0.75,0.031
+Wales,Joe Allen,drawing,2,80,22,5,1,59.5,2,0.063709,0.2,0.032
+Wales,Joe Allen,trailing,2,48,14,2,1,40.9,0,0.0,0.5,
+Wales,Joe Rodon,drawing,3,274,90,29,22,494.7,0,0.0,0.759,
+Wales,Joe Rodon,trailing,2,216,72,25,19,546.8,0,0.0,0.76,
+Wales,Joseff Morrell,drawing,1,11,1,1,1,20.1,0,0.0,1.0,
+Wales,Joseff Morrell,trailing,1,56,12,3,2,47.4,0,0.0,0.667,
+Wales,Kieffer Roberto Francisco Moore,drawing,3,235,39,13,5,228.3,2,0.349511,0.385,0.175
+Wales,Kieffer Roberto Francisco Moore,trailing,3,124,21,4,2,72.1,4,0.290818,0.5,0.073
+Wales,Neco Williams,drawing,3,272,71,25,13,722.8,3,0.075571,0.52,0.025
+Wales,Neco Williams,trailing,2,82,26,11,5,242.7,0,0.0,0.455,
+Wales,Rubin Colwill,trailing,1,16,4,1,0,67.4,1,0.025067,0.0,0.025
+Wales,Sorba Thomas,drawing,1,20,4,2,1,62.9,0,0.0,0.5,
+Wales,Wayne Hennessey,drawing,2,154,56,41,29,1543.1,0,0.0,0.707,
+Wales,Wayne Hennessey,trailing,1,28,10,5,3,243.0,0,0.0,0.6,
