@@ -140,7 +140,12 @@ if not match_metric_files and not season_metric_file.is_file():
 scope_options: dict[str, Path] = {scope_label(path): path for path in match_metric_files}
 if season_metric_file.is_file():
     scope_options = {"Season overview (all processed matches)": season_metric_file, **scope_options}
-selected_scope = st.sidebar.selectbox("View", list(scope_options), index=0)
+st.sidebar.header("Explore")
+selected_page = st.sidebar.radio(
+    "Visualisation",
+    ("Overview", "Pitch map", "xG timeline"),
+)
+selected_scope = st.sidebar.selectbox("Data scope", list(scope_options), index=0)
 metrics = load_csv(scope_options[selected_scope])
 selected_match_id = None
 if not selected_scope.startswith("Season overview"):
@@ -159,57 +164,64 @@ st.caption(
     "States and scores are measured before the event. Totals are not per-90 rates."
 )
 
-top = view.sort_values(["progressive_passes", "xg"], ascending=False).head(12)
-left, right = st.columns(2)
-left.subheader("Top progression totals")
-table_columns = ["player.name", "team.name", "game_state"]
-if "matches" in top.columns:
-    table_columns.append("matches")
-table_columns += ["progressive_passes", "completed_progressive_passes", "progressive_distance"]
-left.dataframe(
-    top[table_columns],
-    use_container_width=True,
-    hide_index=True,
-)
-right.subheader("Chance creation and progression")
-chart = px.scatter(
-    view,
-    x="progressive_passes",
-    y="xg",
-    size="events",
-    color="team.name",
-    hover_name="player.name",
-    hover_data=["game_state", "shots", "completed_progressive_passes"],
-    labels={"xg": "Expected goals from shots", "progressive_passes": "Progressive passes"},
-)
-right.plotly_chart(chart, use_container_width=True)
-
-st.subheader("Player-by-state profile")
-player = st.selectbox("Player", sorted(metrics["player.name"].dropna().unique()))
-profile = metrics.loc[metrics["player.name"] == player].copy()
-profile_chart = px.bar(
-    profile,
-    x="game_state",
-    y="progressive_passes",
-    color="team.name",
-    barmode="group",
-    labels={"progressive_passes": "Progressive passes"},
-)
-st.plotly_chart(profile_chart, use_container_width=True)
-
 visual_events_file = METRICS_DIR / "season_visual_events.csv"
+visual_events = None
 if visual_events_file.is_file():
     visual_events = load_csv(visual_events_file)
     if selected_match_id is not None:
         visual_events = visual_events.loc[visual_events["match_id"].eq(selected_match_id)].copy()
 
-    st.divider()
-    st.header("Tactical views")
+if selected_page == "Overview":
+    st.header("Overview")
+    top = view.sort_values(["progressive_passes", "xg"], ascending=False).head(12)
+    left, right = st.columns(2)
+    left.subheader("Top progression totals")
+    table_columns = ["player.name", "team.name", "game_state"]
+    if "matches" in top.columns:
+        table_columns.append("matches")
+    table_columns += ["progressive_passes", "completed_progressive_passes", "progressive_distance"]
+    left.dataframe(
+        top[table_columns],
+        use_container_width=True,
+        hide_index=True,
+    )
+    right.subheader("Chance creation and progression")
+    chart = px.scatter(
+        view,
+        x="progressive_passes",
+        y="xg",
+        size="events",
+        color="team.name",
+        hover_name="player.name",
+        hover_data=["game_state", "shots", "completed_progressive_passes"],
+        labels={"xg": "Expected goals from shots", "progressive_passes": "Progressive passes"},
+    )
+    right.plotly_chart(chart, use_container_width=True)
+
+    st.subheader("Player-by-state profile")
+    player = st.selectbox("Player", sorted(metrics["player.name"].dropna().unique()))
+    profile = metrics.loc[metrics["player.name"] == player].copy()
+    profile_chart = px.bar(
+        profile,
+        x="game_state",
+        y="progressive_passes",
+        color="team.name",
+        barmode="group",
+        labels={"progressive_passes": "Progressive passes"},
+    )
+    st.plotly_chart(profile_chart, use_container_width=True)
+
+elif selected_page == "Pitch map":
+    st.header("Progressive-pass pitch map")
+    if visual_events is None:
+        st.info(
+            "Run the season pipeline again to generate the compact event data required for pitch maps."
+        )
+        st.stop()
     pitch_events = visual_events.loc[visual_events["event_type"].eq("Progressive pass")].copy()
     if selected_state != "all":
         pitch_events = pitch_events.loc[pitch_events["game_state"].eq(selected_state)]
 
-    st.subheader("Progressive-pass pitch map")
     if pitch_events.empty:
         st.info("No progressive passes match the selected view and game-state filter.")
     else:
@@ -224,7 +236,13 @@ if visual_events_file.is_file():
         )
         st.plotly_chart(pitch_figure(selected_passes), use_container_width=True)
 
-    st.subheader("Cumulative xG timeline")
+else:
+    st.header("Cumulative xG timeline")
+    if visual_events is None:
+        st.info(
+            "Run the season pipeline again to generate the compact event data required for xG timelines."
+        )
+        st.stop()
     shots = visual_events.loc[visual_events["event_type"].eq("Shot")].copy()
     match_options = (
         shots[["match_id", "match_label", "match_date"]]
@@ -250,7 +268,3 @@ if visual_events_file.is_file():
         timeline_shots = shots.loc[shots["match_id"].eq(timeline_match)]
         st.caption("Stars indicate goals scored from shots; own goals do not have an xG value.")
         st.plotly_chart(cumulative_xg_figure(timeline_shots), use_container_width=True)
-else:
-    st.info(
-        "Run the season pipeline again to generate the compact event data required for pitch maps and xG timelines."
-    )
