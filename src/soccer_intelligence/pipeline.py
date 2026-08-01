@@ -13,6 +13,7 @@ from soccer_intelligence.metrics import (
     add_action_features,
     aggregate_player_metrics,
     player_game_state_metrics,
+    visual_event_rows,
 )
 from soccer_intelligence.paths import PROCESSED_DATA_DIR, RAW_DATA_DIR, ensure_data_directories
 
@@ -37,7 +38,7 @@ def _match_metadata(event_path: Path, match_id: int) -> dict:
         raise ValueError(f"Match {match_id} absent from {match_file}") from error
 
 
-def _process_match(event_path: Path, metadata: dict) -> tuple[pd.DataFrame, pd.DataFrame]:
+def _process_match(event_path: Path, metadata: dict) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """Process a downloaded match file and write portable CSV outputs."""
     match_id = int(metadata["match_id"])
     raw_events = json.loads(event_path.read_text(encoding="utf-8"))
@@ -49,9 +50,11 @@ def _process_match(event_path: Path, metadata: dict) -> tuple[pd.DataFrame, pd.D
     labeled_events = add_game_state(events, home_team_id, away_team_id)
     featured_events = add_action_features(labeled_events)
     metrics = player_game_state_metrics(labeled_events)
+    visual_events = visual_event_rows(featured_events, metadata)
 
     featured_events.to_csv(PROCESSED_DATA_DIR / f"events_{match_id}.csv", index=False)
     metrics.to_csv(PROCESSED_DATA_DIR / f"player_metrics_{match_id}.csv", index=False)
+    visual_events.to_csv(PROCESSED_DATA_DIR / f"visual_events_{match_id}.csv", index=False)
 
     expected_home = metadata.get("home_score")
     expected_away = metadata.get("away_score")
@@ -78,7 +81,7 @@ def _process_match(event_path: Path, metadata: dict) -> tuple[pd.DataFrame, pd.D
             f"({observed_home}-{observed_away} vs {expected_home}-{expected_away}). "
             "Inspect for own goals before interpreting game state."
         )
-    return featured_events, metrics
+    return featured_events, metrics, visual_events
 
 
 def process_match(match_id: int) -> tuple[pd.DataFrame, pd.DataFrame]:
@@ -86,7 +89,8 @@ def process_match(match_id: int) -> tuple[pd.DataFrame, pd.DataFrame]:
     ensure_data_directories()
     event_path = _find_match_file(match_id)
     metadata = _match_metadata(event_path, match_id)
-    return _process_match(event_path, metadata)
+    events, metrics, _ = _process_match(event_path, metadata)
+    return events, metrics
 
 
 def process_season(season_directory: Path) -> pd.DataFrame:
@@ -97,6 +101,7 @@ def process_season(season_directory: Path) -> pd.DataFrame:
         raise FileNotFoundError(f"Missing {match_file}; choose a downloaded season directory.")
     match_records = json.loads(match_file.read_text(encoding="utf-8"))
     all_metrics: list[pd.DataFrame] = []
+    all_visual_events: list[pd.DataFrame] = []
     skipped: list[int] = []
     for metadata in match_records:
         match_id = int(metadata["match_id"])
@@ -104,8 +109,9 @@ def process_season(season_directory: Path) -> pd.DataFrame:
         if not event_path.is_file():
             skipped.append(match_id)
             continue
-        _, metrics = _process_match(event_path, metadata)
+        _, metrics, visual_events = _process_match(event_path, metadata)
         all_metrics.append(metrics)
+        all_visual_events.append(visual_events)
         print(f"Processed match {match_id}")
 
     if not all_metrics:
@@ -113,6 +119,8 @@ def process_season(season_directory: Path) -> pd.DataFrame:
     combined = pd.concat(all_metrics, ignore_index=True)
     summary = aggregate_player_metrics(combined)
     summary.to_csv(PROCESSED_DATA_DIR / "season_player_metrics.csv", index=False)
+    combined_visual_events = pd.concat(all_visual_events, ignore_index=True)
+    combined_visual_events.to_csv(PROCESSED_DATA_DIR / "season_visual_events.csv", index=False)
     season_label = season_directory.name.replace("competition_", "Competition ").replace("_season_", ", season ")
     metadata = {
         "season_label": season_label,
@@ -123,7 +131,10 @@ def process_season(season_directory: Path) -> pd.DataFrame:
     (PROCESSED_DATA_DIR / "season_metadata.json").write_text(
         json.dumps(metadata, indent=2), encoding="utf-8"
     )
-    print(f"Wrote {len(summary):,} player-state rows for {len(all_metrics)} matches.")
+    print(
+        f"Wrote {len(summary):,} player-state rows and {len(combined_visual_events):,} visual events "
+        f"for {len(all_metrics)} matches."
+    )
     return summary
 
 

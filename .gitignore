@@ -6,3 +6,4 @@ data/raw/
 data/processed/*
 !data/processed/season_player_metrics.csv
 !data/processed/season_metadata.json
+!data/processed/season_visual_events.csv

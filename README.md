@@ -20,6 +20,7 @@ player, team, and game state.
 - Player metrics for shots, xG, progressive passes, progressive distance, and
   completed progressive passes
 - A Streamlit dashboard for comparing players and inspecting individual matches
+- A progressive-pass pitch map and cumulative xG timeline
 - Tests covering the scoreline and game-state logic
 
 ## Important analytical choices
@@ -52,8 +53,10 @@ streamlit run app.py
 ```
 
 The pipeline writes fetched source data to `data/raw/` and derived analysis
-files to `data/processed/`; neither is committed. The Streamlit app displays
-clear setup instructions until processed data exists.
+files to `data/processed/`. The compact season aggregate files required by the
+deployed dashboard are committed; raw event files and bulky match-level outputs
+are not. The Streamlit app displays clear setup instructions until processed
+data exists.
 
 ## Suggested first analysis
 
@@ -84,11 +87,11 @@ code does not claim coverage of every league or season.
 
 ## Publish it on GitHub and Streamlit Community Cloud
 
-The season pipeline creates two small derived files that are intentionally
-allowed through `.gitignore`: `season_player_metrics.csv` and
-`season_metadata.json`. They give a visitor a working all-matches dashboard
-without committing raw event files. Keep the StatsBomb attribution in this
-README.
+The season pipeline creates three compact derived files that are intentionally
+allowed through `.gitignore`: `season_player_metrics.csv`,
+`season_metadata.json`, and `season_visual_events.csv`. They give a visitor a
+working all-matches dashboard without committing raw event files. Keep the
+StatsBomb attribution in this README.
 
 1. Create an empty GitHub repository named `soccer-game-state-intelligence`.
 2. From this folder, commit and push the project:

@@ -1,7 +1,7 @@
 import pandas as pd
 
 from soccer_intelligence.game_state import add_game_state
-from soccer_intelligence.metrics import aggregate_player_metrics
+from soccer_intelligence.metrics import aggregate_player_metrics, visual_event_rows
 
 
 def test_game_state_is_assigned_before_a_goal_changes_the_score() -> None:
@@ -104,3 +104,52 @@ def test_season_aggregation_sums_actions_and_counts_matches() -> None:
     assert aggregate.loc[0, "progressive_passes"] == 5
     assert aggregate.loc[0, "xg"] == 0.6
     assert aggregate.loc[0, "progressive_pass_completion_rate"] == 0.8
+
+
+def test_visual_event_rows_keep_only_progressive_passes_and_shots() -> None:
+    events = pd.DataFrame(
+        [
+            {
+                "match_id": 1,
+                "index": 1,
+                "minute": 5,
+                "period": 1,
+                "team.name": "Home",
+                "player.name": "Player A",
+                "game_state": "drawing",
+                "location": [20, 30],
+                "pass.end_location": [35, 40],
+                "xg": 0.0,
+                "is_progressive_pass": True,
+                "is_completed_pass": True,
+                "is_shot": False,
+            },
+            {
+                "match_id": 1,
+                "index": 2,
+                "minute": 7,
+                "period": 1,
+                "team.name": "Away",
+                "player.name": "Player B",
+                "game_state": "trailing",
+                "location": [100, 45],
+                "xg": 0.25,
+                "shot.outcome.name": "Goal",
+                "is_progressive_pass": False,
+                "is_completed_pass": False,
+                "is_shot": True,
+            },
+        ]
+    )
+    metadata = {
+        "match_date": "2022-01-01",
+        "home_team": {"home_team_name": "Home"},
+        "away_team": {"away_team_name": "Away"},
+    }
+
+    result = visual_event_rows(events, metadata)
+
+    assert result["event_type"].tolist() == ["Progressive pass", "Shot"]
+    assert result.loc[0, "end_x"] == 35
+    assert result.loc[1, "outcome"] == "Goal"
+    assert result.loc[0, "match_label"] == "Home vs Away"

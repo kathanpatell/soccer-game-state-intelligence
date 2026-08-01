@@ -17,6 +17,13 @@ def _x_coordinate(value: object) -> float:
     return math.nan
 
 
+def _y_coordinate(value: object) -> float:
+    """Extract a y coordinate from a StatsBomb location, returning NaN if absent."""
+    if isinstance(value, (list, tuple)) and len(value) > 1:
+        return float(value[1])
+    return math.nan
+
+
 def add_action_features(events: pd.DataFrame) -> pd.DataFrame:
     """Add explicit action features used in the MVP metrics table."""
     data = events.copy()
@@ -116,3 +123,71 @@ def aggregate_player_metrics(match_metrics: pd.DataFrame) -> pd.DataFrame:
         aggregate["xg"].div(aggregate["shots"].where(aggregate["shots"] > 0)).round(3)
     )
     return aggregate
+
+
+def visual_event_rows(events: pd.DataFrame, match_metadata: dict) -> pd.DataFrame:
+    """Return the compact event subset required for the interactive visuals.
+
+    Only progressive passes and shots are retained. This keeps the deployable
+    CSV small while preserving every coordinate needed for a pitch map and the
+    full shot sequence needed for a cumulative xG timeline.
+    """
+    event_columns = ["match_id", "index", "minute", "period", "team.name", "player.name", "game_state"]
+    missing = sorted(set(event_columns).difference(events.columns))
+    if missing:
+        raise ValueError(f"events missing visualisation columns: {missing}")
+
+    event_location = events.get("location", pd.Series(index=events.index, dtype=object))
+    end_location = events.get("pass.end_location", pd.Series(index=events.index, dtype=object))
+    shot_outcome = events.get("shot.outcome.name", pd.Series(index=events.index, dtype=object))
+    base = pd.DataFrame(
+        {
+            "match_id": events["match_id"],
+            "event_index": events["index"],
+            "minute": events["minute"],
+            "period": events["period"],
+            "team": events["team.name"],
+            "player": events["player.name"],
+            "game_state": events["game_state"],
+            "start_x": event_location.map(_x_coordinate),
+            "start_y": event_location.map(_y_coordinate),
+            "end_x": end_location.map(_x_coordinate),
+            "end_y": end_location.map(_y_coordinate),
+            "xg": events["xg"],
+            "outcome": shot_outcome,
+        },
+        index=events.index,
+    )
+    home = match_metadata["home_team"]["home_team_name"]
+    away = match_metadata["away_team"]["away_team_name"]
+    base["match_label"] = f"{home} vs {away}"
+    base["match_date"] = match_metadata["match_date"]
+
+    progressive = base.loc[events["is_progressive_pass"]].copy()
+    progressive["event_type"] = "Progressive pass"
+    progressive["is_completed"] = events.loc[progressive.index, "is_completed_pass"].astype(bool)
+
+    shots = base.loc[events["is_shot"]].copy()
+    shots["event_type"] = "Shot"
+    shots["is_completed"] = pd.NA
+
+    output_columns = [
+        "match_id",
+        "match_label",
+        "match_date",
+        "event_index",
+        "minute",
+        "period",
+        "team",
+        "player",
+        "game_state",
+        "event_type",
+        "start_x",
+        "start_y",
+        "end_x",
+        "end_y",
+        "xg",
+        "outcome",
+        "is_completed",
+    ]
+    return pd.concat([progressive, shots], ignore_index=True).loc[:, output_columns]
