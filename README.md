@@ -4,6 +4,10 @@ An open, reproducible soccer analytics project that asks a specific scouting
 question: **which players improve territory and chance creation when their team
 is behind?**
 
+## Live demo
+
+[Open the interactive dashboard](https://soccer-game-state-intelligence.streamlit.app/)
+
 Rather than ranking players by aggregate totals, the project assigns every
 event a game state (leading, drawing, or trailing) based on the score *before*
 the event. It then reports passing progression and expected-goal creation by
